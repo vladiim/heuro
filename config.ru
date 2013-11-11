@@ -1,7 +1,3 @@
-# require 'rack/jekyll' 
-
-# run Rack::Jekyll.new
-
 require 'rack/contrib/try_static'
 require 'rack/contrib/not_found'
  

@@ -1,3 +1,10 @@
 name: Your New Jekyll Site
 markdown: redcarpet
 pygments: true
+
+assets:
+  compress:
+    css:  sass
+    js:   uglifier
+
+exclude: [compass.rb, config.ru, Gemfile, Gemfile.lock, Procfile, Rakefile, README.md, sass, unicorn.rb, vendor]

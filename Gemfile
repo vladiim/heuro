@@ -13,3 +13,5 @@ gem "coffee-script", '~> 2.2.0'
 gem 'compass',       '~> 0.12.2'
 gem 'uglifier',      '~> 2.3.1'
 gem "sass",          '~> 3.2.12'
+
+gem "rack_contrib"

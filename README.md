@@ -1,0 +1,1 @@
+add blog link here on how i build the site

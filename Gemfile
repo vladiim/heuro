@@ -14,4 +14,5 @@ gem 'compass',       '~> 0.12.2'
 gem 'uglifier',      '~> 2.3.1'
 gem "sass",          '~> 3.2.12'
 
-gem "rack_contrib"
+gem "rack-contrib",  '~> 1.1.0'
+gem "puma",          '~> 2.6.0'

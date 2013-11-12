@@ -8,3 +8,5 @@ assets:
     js:   uglifier
 
 exclude: [compass.rb, config.ru, Gemfile, Gemfile.lock, Procfile, Rakefile, README.md, sass, unicorn.rb, vendor]
+
+name: Heuro

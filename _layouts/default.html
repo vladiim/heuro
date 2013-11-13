@@ -6,15 +6,9 @@
         <title>{{ page.title }}</title>
         <meta name="viewport" content="width=device-width">
 
-        <!-- syntax highlighting CSS -->
-        <link rel="stylesheet" href="/css/syntax.css">
+        {% stylesheet app %}
 
-        <!-- Custom CSS -->
-        <link rel="stylesheet" href="/css/main.css">
-
-        <!-- GA -->
-        <script src="js/ga.js"></script>
-
+        <script type="text/javascript">{% asset vendor/modernizr %}</script>
     </head>
     <body>
 
@@ -42,5 +36,6 @@
           </div>
         </div>
 
+      {% javascript app %}
     </body>
 </html>

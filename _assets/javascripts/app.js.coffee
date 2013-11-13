@@ -3,4 +3,4 @@
 #= require vendor/modernizr
 
 $ ->
-  $( 'body' ).assClass "js-working-yo!"
+  $( 'body' ).addClass "js-working-yo!"

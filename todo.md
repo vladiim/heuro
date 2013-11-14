@@ -1,14 +1,15 @@
 # Doing
 
-* Compile sass and coffescript with jekyll-assets
+* Images loaded to CDN
+* Email
+  - Set up email account vlad@heuro.net
+  - Set up mailchimp & maindril
 
 ***
 
 # To do
 
 * Email form
-  - Set up email account vlad@heuro.net
-  - Set up mailchimp & maindril
   - Database to store email
   - Chron job to send emails
   - Form interface

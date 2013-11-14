@@ -1,4 +1,4 @@
-name: Your New Jekyll Site
+name: Heuro
 markdown: redcarpet
 pygments: true
 
@@ -7,8 +7,9 @@ assets:
     css:  sass
     js:   uglifier
 
-exclude: [compass.rb, config.ru, Gemfile, Gemfile.lock, Procfile, Rakefile, README.md, sass, unicorn.rb, vendor]
-
-name: Heuro
+exclude: [todo.md, publish.sh, compass.rb, config.ru, Gemfile, Gemfile.lock, Procfile, Rakefile, README.md, sass, unicorn.rb, vendor]
 
 permalink: articles/:title
+
+cdn: http://www.heuro.net
+url: http://www.heuro.net

@@ -10,3 +10,5 @@ assets:
 exclude: [compass.rb, config.ru, Gemfile, Gemfile.lock, Procfile, Rakefile, README.md, sass, unicorn.rb, vendor]
 
 name: Heuro
+
+permalink: articles/:title

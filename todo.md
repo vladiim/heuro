@@ -15,3 +15,5 @@
   		* Homepage
   		* Bottom of post
   		* GA sign up action
+* Change URL structure
+	- heuro.net/articles/title-of-article

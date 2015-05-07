@@ -11,7 +11,7 @@
   </head>
   <body>
 
-    <nav class="navbar">
+    <nav class="navbar navbar-default">
       <ul class="nav navbar-nav">
         <li>
           <a class='navbar-brand' href="/">{{ site.name }}</a>
@@ -24,26 +24,23 @@
       <div class="hero">
         <header>
           <h1>Heuro</h1>
-          <h3>Customer centred, data driven business tools and articles</h3>
+          <h3>For customer centred, data driven businesses.</h3>
         </header>
+        <p>Sign up to a weekly email round-up of customer centred design and data marketing news and articles.</p>
+        <div class='form'>
+          <div class="input-group">
+            <input type='email' class='form-control', placeholder='Enter your email'>
+            <span class="input-group-btn">
+              <button class="btn btn-default">Subscribe now</button>
+            </span>
+          </div>
+        </div>
+        <!-- enter your email >> subscribe now -->
       </div>
 
       {{ content }}
 
       <div class="footer">
-        <div class="contact">
-          <p>
-            Vlad Mehakovic<br />
-            Digital Strategist<br />
-            vlad@heuro.net
-          </p>
-        </div>
-        <div class="contact">
-          <p>
-            <a href="https://github.com/vladiim">github.com/vladiim</a><br />
-            <a href="https://twitter.com/vladiim">twitter.com/vladiim</a><br />
-          </p>
-        </div>
       </div>
     </div>
 

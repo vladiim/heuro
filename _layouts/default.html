@@ -11,17 +11,21 @@
   </head>
   <body>
 
-    <nav class="navbar navbar-default">
+    <nav class="navbar">
       <ul class="nav navbar-nav">
         <li>
-          <a href="#">Link</a>
+          <a class='navbar-brand' href="/">{{ site.name }}</a>
         </li>
       </ul>
     </nav>
 
     <div class="site">
-      <div class="header">
-        <h1 class="title"><a href="/">{{ site.name }}</a></h1>
+
+      <div class="hero">
+        <header>
+          <h1>Heuro</h1>
+          <h3>Customer centred, data driven business tools and articles</h3>
+        </header>
       </div>
 
       {{ content }}

@@ -12,28 +12,33 @@
 
 html, body { height: 100%; }
 
-//body {
-//  background-color: #FFF;
-//  font: 13.34px Helvetica, Arial, sans-serif;
-//  font-size: small;
-//  text-align: center;
-//}
-
-//h1, h2, h3, h4, h5, h6 {
-//  font-size: 100%; }
-
-//h1 { margin-bottom: 1em; }
-//p { margin: 1em 0; }
-
-//a         { color: #00a; }
-//a:hover   { color: #000; }
-//a:visited { color: #a0a; }
-
 /*****************************************************************************/
 /*
 /* Home
 /*
 /*****************************************************************************/
+
+body {
+  color: #666;
+}
+
+.site {
+  margin: 0 auto 2em;
+}
+
+h1,h2,h3,h4,h5 {
+  text-align: left;
+}
+
+.hero {
+  @extend .jumbotron;
+}
+
+img {
+  width: 100%;
+}
+
+
 .posts {
   list-style-type: none;
   margin-bottom: 2em;
@@ -58,37 +63,14 @@ html, body { height: 100%; }
 .site {
   font-size: 115%;
   text-align: justify;
-  width: 42em;
   margin: 10px auto 2em;
   line-height: 1.5em;
+  @extend .container;
 }
-
-//.header a {
-//  font-weight: bold;
-//  text-decoration: none;
-//}
 
 .title {
   display: inline-block;
-//  margin-bottom: 2em;
 }
-
-//.title a {
-//  color: #a00;
-//}
-
-//.title a:hover {
-//  color: #000;
-//}
-
-//.header a.extra {
-//  color: #aaa;
-//  margin-left: 1em;
-//}
-
-//.header a.extra:hover {
-//  color: #000;
-//}
 
 .meta {
   color: #aaa;
@@ -158,3 +140,9 @@ html, body { height: 100%; }
 .post pre.terminal code {
   background-color: #333;
 }
+
+/*****************************************************************************/
+/*
+/* Nav
+/*
+/*****************************************************************************/

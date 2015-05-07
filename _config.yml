@@ -4,10 +4,10 @@ pygments: true
 
 assets:
   compress:
-    css:  sass
-    js:   uglifier
+    css: sass
+    js:  uglifier
 
-exclude: [todo.md, publish.sh, compass.rb, config.ru, Gemfile, Gemfile.lock, Procfile, Rakefile, README.md, sass, unicorn.rb, vendor]
+exclude: [todo.md, publish.sh, compass.rb, config.ru, Gemfile, Gemfile.lock, Procfile, Rakefile, README.md, sass, unicorn.rb, vendor, bin]
 
 permalink: articles/:title
 

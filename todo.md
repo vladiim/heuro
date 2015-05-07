@@ -1,6 +1,7 @@
 # Doing
 
 * Load site to http://www.maxmasnick.com/2012/01/21/jekyll_s3_cloudfront/
+
 * Email
   - Set up email account vlad@heuro.net
   - Google authorship https://plus.google.com/authorship

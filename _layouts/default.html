@@ -1,40 +1,48 @@
 <!DOCTYPE html>
 <html>
-    <head>
-        <meta charset="utf-8">
-        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-        <title>{{ page.title }}</title>
-        <meta name="viewport" content="width=device-width">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <title>{{ page.title }}</title>
+    <meta name="viewport" content="width=device-width">
 
-        {% stylesheet app %}
+    {% stylesheet app %}
 
-    </head>
-    <body>
+  </head>
+  <body>
 
-        <div class="site">
-          <div class="header">
-            <h1 class="title"><a href="/">{{ site.name }}</a></h1>
-          </div>
+    <nav class="navbar navbar-default">
+      <ul class="nav navbar-nav">
+        <li>
+          <a href="#">Link</a>
+        </li>
+      </ul>
+    </nav>
 
-          {{ content }}
+    <div class="site">
+      <div class="header">
+        <h1 class="title"><a href="/">{{ site.name }}</a></h1>
+      </div>
 
-          <div class="footer">
-            <div class="contact">
-              <p>
-                Vlad Mehakovic<br />
-                Digital Strategist<br />
-                vlad@heuro.net
-              </p>
-            </div>
-            <div class="contact">
-              <p>
-                <a href="https://github.com/vladiim">github.com/vladiim</a><br />
-                <a href="https://twitter.com/vladiim">twitter.com/vladiim</a><br />
-              </p>
-            </div>
-          </div>
+      {{ content }}
+
+      <div class="footer">
+        <div class="contact">
+          <p>
+            Vlad Mehakovic<br />
+            Digital Strategist<br />
+            vlad@heuro.net
+          </p>
         </div>
+        <div class="contact">
+          <p>
+            <a href="https://github.com/vladiim">github.com/vladiim</a><br />
+            <a href="https://twitter.com/vladiim">twitter.com/vladiim</a><br />
+          </p>
+        </div>
+      </div>
+    </div>
 
-      {% javascript app %}
-    </body>
+    {% javascript app %}
+  </body>
 </html>

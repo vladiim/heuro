@@ -1,0 +1,48 @@
+/*****************************************************************************/
+/*
+/* Home
+/*
+/*****************************************************************************/
+
+//body {
+//  color: #666;
+//}
+
+//.site {
+//  margin: 0 auto 2em;
+//}
+
+#home {
+
+  header {
+    h1 {
+      margin-top: 0 !important;
+      margin-bottom: 0 !important;
+    }
+
+    h3 {
+      margin-top: 0 !important;
+      margin-bottom: 20px !important;
+    }
+  }
+}
+
+img {
+  width: 100%;
+}
+
+
+.posts {
+  list-style-type: none;
+  margin-bottom: 2em;
+}
+
+.posts li {
+  line-height: 1.75em;
+}
+
+.posts span {
+  color: #aaa;
+  font-family: Monaco, "Courier New", monospace;
+  font-size: 80%;
+}

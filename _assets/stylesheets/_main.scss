@@ -14,48 +14,6 @@ html, body { height: 100%; }
 
 /*****************************************************************************/
 /*
-/* Home
-/*
-/*****************************************************************************/
-
-body {
-  color: #666;
-}
-
-.site {
-  margin: 0 auto 2em;
-}
-
-h1,h2,h3,h4,h5 {
-  text-align: left;
-}
-
-.hero {
-  @extend .jumbotron;
-}
-
-img {
-  width: 100%;
-}
-
-
-.posts {
-  list-style-type: none;
-  margin-bottom: 2em;
-}
-
-.posts li {
-  line-height: 1.75em;
-}
-
-.posts span {
-  color: #aaa;
-  font-family: Monaco, "Courier New", monospace;
-  font-size: 80%;
-}
-
-/*****************************************************************************/
-/*
 /* Site
 /*
 /*****************************************************************************/
@@ -63,13 +21,17 @@ img {
 .site {
   font-size: 115%;
   text-align: justify;
-  margin: 10px auto 2em;
   line-height: 1.5em;
   @extend .container;
+  width: 95%;
 }
 
 .title {
   display: inline-block;
+}
+
+.newsletter-hero {
+  @extend .jumbotron;
 }
 
 .meta {

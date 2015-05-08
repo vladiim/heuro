@@ -3,22 +3,31 @@
 * Load site to http://www.maxmasnick.com/2012/01/21/jekyll_s3_cloudfront/
 
 * Email
-  - Set up email account vlad@heuro.net
-  - Google authorship https://plus.google.com/authorship
-  - Set up mailchimp & maindril
+
+    - Google authorship https://plus.google.com/authorship
+
+    - Set up mailchimp & maindril
 
 ***
 
 # To do
 
-* Email form
-  - Database to store email
-  - Chron job to send emails
-  - Form interface
-  		* Homepage
-  		* Bottom of post
-  		* GA sign up action
-* Change URL structure
-	- heuro.net/articles/title-of-article
-* Styling
-	- Quotes
+* Email form mailchimp
+
+    - Form interface
+
+        - Homepage
+
+  		  - Bottom of post
+
+* Messaging
+
+    - Modern marketing
+
+    - About page
+
+    - Definition article: modern marketing is... always on, customer-centric, data-driven etc etc
+
+* Design
+
+    - Email sites: http://uxdesignweekly.com/, http://nextdraft.com/, http://www.thephatstartup.com/, http://www.theskimm.com/, https://www.the-dwc.co/, https://www.launchticker.com/, https://redef.com/

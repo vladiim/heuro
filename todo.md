@@ -6,7 +6,7 @@
 
     - Google authorship https://plus.google.com/authorship
 
-    - Set up mailchimp & maindril
+    - Set up mailchimp
 
 ***
 
@@ -14,15 +14,15 @@
 
 * Email form mailchimp
 
-    - Form interface
-
-        - Email validation
-
-        - Homepage
-
-  		  - Bottom of post
-
     - Email creation > automate publishing from md to mailchimp
+
+* Tracking
+
+    - set up gtm
+
+    - add ga goals
+
+    - set up keen.io with analytics.js
 
 * Messaging
 
@@ -30,9 +30,17 @@
 
     - About page
 
+    - 404 page
+
     - Definition article: modern marketing is... always on, customer-centric, data-driven etc etc - use big data org audio book for insp
 
+* Marketing
+
+    - Create "vlad" has invited you to join heuro, "hi x, i'd like you to join heuro and be part of my network" look at invite designs
+
 * Design
+
+    - (H) logo, .ico
 
     - https://www.webprofits.com.au/blog/35-hottest-websites/
 

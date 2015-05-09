@@ -20,3 +20,5 @@ gem "puma",          '~> 2.6.0'
 
 gem "rubypython",    '~> 0.6.3'
 gem "pygments.rb",   '~> 0.5.4'
+
+gem 'byebug'

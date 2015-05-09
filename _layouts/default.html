@@ -11,21 +11,14 @@
   </head>
   <body>
 
-    <nav class="navbar navbar-default">
-      <ul class="nav navbar-nav">
-        <li>
-          <a class='navbar-brand' href="/">{{ site.name }}</a>
-        </li>
-      </ul>
-    </nav>
+    {% include nav.html %}
 
     <div class="site">
 
       {{ content }}
 
-      <div class="footer">
-        
-      </div>
+      {% include footer.html %}
+
     </div>
 
     {% javascript app %}

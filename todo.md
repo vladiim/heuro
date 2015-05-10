@@ -38,6 +38,10 @@
 
     - Create "vlad" has invited you to join heuro, "hi x, i'd like you to join heuro and be part of my network" look at invite designs
 
+* Content
+
+    - Go to chapter 5 of big data audio book and get list of marketing tech cos
+
 * Design
 
     - (H) logo, .ico

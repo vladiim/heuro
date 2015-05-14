@@ -29,6 +29,8 @@ Amazon is famous for its data-driven approach to marketing. The business constan
 
 Data-driven marketers have unparalleled importance within an organisation as they can prove that a $5 investment leads to a $10 return.
 
+Dashboards are rear view mirror - the real value is in using data to predict the future
+
 [kraft-content]:(http://adage.com/article/best-practices/kraft-content-drive-broader-marketing-effort/294892/?utm_source=heuro.net&utm_medium=blog)
 [validated-learning]:(http://en.wikipedia.org/wiki/Validated_learning/?utm_source=heuro.net&utm_medium=blog)
 [amazon-creative]:(http://www.uie.com/articles/magicbehindamazon/?utm_source=heuro.net&utm_medium=blog)

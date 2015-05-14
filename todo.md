@@ -48,6 +48,8 @@
 
     - seo: microdata, webmaster, OG/twitter sharing markup etc, http://onlinemarketinginct.com/2015/05/09/seo-checklist-2015/
 
+    - add share button to email & content (see nextdraft for insp)
+
 * Content
 
     - Go to chapter 5 of big data audio book and get list of marketing tech cos

@@ -17,7 +17,6 @@ The skill sets required for successful modern marketers couldn't be more differe
 
 ## 1. Data-driven
 
-
 ***
 
 

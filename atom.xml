@@ -1,0 +1,31 @@
+---
+layout: nil
+---
+<?xml version="1.0"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ 
+  <title>www.heuro.net</title>
+  <link href="http://www.heuro.net/"/>
+  <link type="application/atom+xml" rel="self" href="http://www.heuro.net/atom.xml"/>
+  <updated>{{ site.time | date_to_xmlschema }}</updated>
+  <id>http://www.heuro.net/</id>
+  <author>
+    <name>Vlad Mehakovic</name>
+    <email>vlad@heuro.net</email>
+  </author>
+
+  {% for post in site.posts %}
+  <entry>
+    <id>http://www.heuro.net{{ post.id }}</id>
+    <link type="text/html" rel="alternate" href="http://www.heuro.net{{ post.url }}"/>
+    <title>{{ post.title | xml_escape }}</title>
+    <updated>{{ post.date | date_to_xmlschema }}</updated>
+    <author>
+      <name>Vlad Mehakovic</name>
+      <uri>http://www.heuro.net/</uri>
+    </author>
+    <content type="html">{{ post.content | xml_escape }}</content>
+  </entry>
+  {% endfor %}
+ 
+</feed>

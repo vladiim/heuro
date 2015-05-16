@@ -1,1 +1,1 @@
-s3cmd sync --delete-removed _site/ s3://www.heuro.net/ --add-header=Cache-Control:max-age=3153600 --verbose
+aws s3 sync _site s3://www.heuro.net --region us-east-1 --cache-control 3153600

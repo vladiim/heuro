@@ -16,6 +16,10 @@
 
     - Email creation > automate publishing from md to mailchimp
 
+* Deployment
+
+    - Use: https://github.com/laurilehmijoki/s3_website
+
 * Tracking
 
     - set up gtm

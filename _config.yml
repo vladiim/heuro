@@ -17,7 +17,7 @@ sass:
 exclude: [todo.md, publish.sh, compass.rb, config.ru, Gemfile,
   Gemfile.lock, Procfile, Rakefile, README.md, sass, unicorn.rb, vendor, bin]
 
-permalink: articles/:title
+permalink: :categories/:title
 
 cdn: http://www.heuro.net
 url: http://www.heuro.net

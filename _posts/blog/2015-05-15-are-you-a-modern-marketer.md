@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Are you a modern marketer?
-tags: articles, marketing
+categories: blog
 ---
 
 10 traits of modern marketers

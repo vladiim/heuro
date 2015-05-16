@@ -1,0 +1,1 @@
+http://peterdiamandis.tumblr.com/post/118707075853/predicting-the-next-10-years

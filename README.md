@@ -2,7 +2,7 @@
 
 * Binstubs: `bundle install --binstubs`
 
-* Start server: `./bin/puma config.ru`
+* Start server: `bundle exec puma config.ru`
 
 * Run guard: `bundle exec guard`
 

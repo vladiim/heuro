@@ -6,6 +6,8 @@ tags: intro, digital strategy
 
 {% image intro/digital-strategy/no_end.png %}
 
+
+
 This is the first in a series of weekly articles aimed at teaching anyone on how to create, implement and manage digital strategies. In this introductory article we'll go through the value delivered by strategy, the core components that comprise a robust strategy, why you would want a digital strategy and some of the elements that go into a digital strategy.
 
 ***

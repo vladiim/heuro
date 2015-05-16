@@ -24,6 +24,8 @@
 
     - set up keen.io with analytics.js
 
+    - create pr scorecard algo: http://contently.com/strategist/2015/05/08/how-to-create-a-pr-scorecard-for-your-earned-media-and-content-marketing
+
 * Messaging
 
     - Modern marketing
@@ -37,6 +39,16 @@
 * Marketing
 
     - Create "vlad" has invited you to join heuro, "hi x, i'd like you to join heuro and be part of my network" look at invite designs
+
+    - linkedin ads
+
+    - reddit, hn, quibb etc
+
+    - publish version of articles on slideshare, free stock imagery: https://designschool.canva.com/blog/free-stock-photos/
+
+    - seo: microdata, webmaster, OG/twitter sharing markup etc, http://onlinemarketinginct.com/2015/05/09/seo-checklist-2015/
+
+    - add share button to email & content (see nextdraft for insp)
 
 * Content
 

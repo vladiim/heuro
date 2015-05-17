@@ -16,7 +16,11 @@
 
 * Tracking
 
-    - set up gtm
+    - set up gtm + gtm click link
+
+    - remove ga.js and ga_event.coffee
+
+    - https://segment.com/docs/libraries/analytics.js/quickstart/
 
     - set up keen.io with analytics.js
 

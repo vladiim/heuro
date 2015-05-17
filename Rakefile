@@ -5,8 +5,9 @@ namespace :assets do
   end
 end
 
-des 'Deploy site to S3' do
-  task :deploy_site do
-    sh 'bundle exec s3_website push'
-  end
+desc 'Deploy site to S3'
+task :deploy do
+  # alternative
+  # aws s3 sync _site s3://www.heuro.net --region us-east-1 --cache-control 3153600
+  sh 'bundle exec s3_website push'
 end

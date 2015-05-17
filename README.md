@@ -4,18 +4,18 @@
 
 * Start server: `bundle exec puma config.ru`
 
-* Run guard: `bundle exec guard`
-
 ***
 
 # Compile assets
 
-* Build _site: `rake assets:precompile`
+* As a guard watcher: `bundle exec guard`
+
+* As a once off: `rake assets:precompile`
 
 ***
 
 # Deploy
 
-* Deploy to S3: `./publish.sh`
+* Deploy to S3: `rake deploy`
 
 ***

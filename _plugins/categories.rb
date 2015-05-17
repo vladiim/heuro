@@ -96,7 +96,7 @@ module Jekyll
     #  +category_dir+ is the String path between <source> and the category folder.
     #  +category+     is the category currently being processed.
     def initialize(site, base, category_dir, category)
-      template_path = File.join(base, '_includes', 'custom', 'category_feed.xml')
+      template_path = File.join(base, '_includes', 'category_feed.xml')
       super(template_path, 'atom.xml', site, base, category_dir, category)
 
       # Set the correct feed URL.

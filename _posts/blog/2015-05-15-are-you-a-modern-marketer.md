@@ -4,22 +4,9 @@ title: Are you a modern marketer?
 categories: blog
 ---
 
-10 traits of modern marketers
-Signs you're a modern marketer
-The difference between traditional and modern marketers
-The secret behind modern marketing
-The guide to being a modern marketer
-Who is the modern marketer?
-Are you a modern marketer?
-What is modern marketing?
-What makes a modern marketer?
-Makings of a modern marketer
+Marketing has entered a new age. Traditional marketers driving big ideas forward with blind faith in creative are being replaced with technologists who act with clinical accuracy. And the skill set for success couldn't be more different from that of 20 years ago. Modern marketing is faster, smarter, more dynamic and more important to an organisation's success then ever before.
 
-Marketing has entered a new age. Blind faith in creative 
-Transparency & authenticity - art vs science 
-And the skill set for success couldn't be more different from that of 20 years ago. Faster, smarter and more dynamic. 
-
-In this post we'll explore the traits of modern marketers have evolved from xx into xx.
+In this post we'll explore the traits of modern marketers and their evolution from artist to scientist.
 
 ***
 

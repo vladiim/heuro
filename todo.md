@@ -6,15 +6,9 @@
 
     - Google authorship https://plus.google.com/authorship
 
-    - Set up mailchimp
-
 ***
 
 # To do
-
-* Email form mailchimp
-
-    - Email creation > automate publishing from md to mailchimp
 
 * Deployment
 

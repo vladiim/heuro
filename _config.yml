@@ -7,15 +7,15 @@ redcarpet:
 
 assets:
   compress:
-    css: sass
-    js:  uglifier
+    css_compressor: sass
+    js_compressor:  uglifier
 
 sass:
-  sass_dir: _sass
   style: :compressed
 
 exclude: [todo.md, publish.sh, compass.rb, config.ru, Gemfile,
-  Gemfile.lock, Procfile, Rakefile, README.md, sass, unicorn.rb, vendor, bin]
+  Gemfile.lock, Procfile, Rakefile, README.md, sass, unicorn.rb, vendor, bin,
+  s3_website.yml, .gitignore, .env]
 
 permalink: :categories/:title
 

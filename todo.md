@@ -4,6 +4,8 @@
 
 * Email
 
+    - Change thank you page to http://www.heuro.net/newsletter/thanks
+
     - Google authorship https://plus.google.com/authorship
 
 ***
@@ -35,6 +37,8 @@
     - 404 page
 
 * Marketing
+
+    - Feedly http://feedly.com/publishers.html
 
     - SEO: https://developers.google.com/structured-data/?rd=1
 

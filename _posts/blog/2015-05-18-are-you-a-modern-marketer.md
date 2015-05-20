@@ -4,7 +4,7 @@ title: Are you a modern marketer?
 categories: blog
 ---
 
-Marketing has entered a new age. Traditional marketers driving big ideas forward with blind faith in creative are being replaced with technologists who act with clinical accuracy. And the skill set for success couldn't be more different from that of 20 years ago. Modern marketing is faster, smarter, more dynamic and more important to an organisation's success then ever before.
+Marketing has entered a new age. And the skill set for success couldn't be more different from that of 20 years ago. Modern marketing is faster, smarter, more dynamic and more important to an organisation's success then ever before. Traditional marketers driving big ideas forward with blind faith in creative are being replaced with technologists who act with clinical accuracy. 
 
 In this post we'll explore the traits of modern marketers and their evolution from artist to scientist.
 
@@ -18,11 +18,11 @@ FMCG juggernaut Kraft [claims][kraft-content] they now generate 1.1 billion ad i
 
 Amazon is famous for its data-driven approach to marketing. The business constantly tweaks its site to optimise conversion funnels. In [one famous example][amazon-creative], Amazon generated an additional $2.7 billion annual revenue by optimising their review interface.
 
-Clearly, the importance of being able to prove that what you are doing is driving business outcomes is critical to any organisation. Data-driven marketing within organisations as they can prove that a $5 investment leads to a $10 return.
+Clearly, the importance of being able to prove that what you are doing is driving business outcomes is critical to any organisation.
 
-[kraft-content]:(http://adage.com/article/best-practices/kraft-content-drive-broader-marketing-effort/294892/?utm_source=heuro.net&utm_medium=blog)
-[validated-learning]:(http://en.wikipedia.org/wiki/Validated_learning/?utm_source=heuro.net&utm_medium=blog)
-[amazon-creative]:(http://www.uie.com/articles/magicbehindamazon/?utm_source=heuro.net&utm_medium=blog)
+[kraft-content]:http://adage.com/article/best-practices/kraft-content-drive-broader-marketing-effort/294892/?utm_source=heuro.net&utm_medium=blog
+[validated-learning]:http://en.wikipedia.org/wiki/Validated_learning/?utm_source=heuro.net&utm_medium=blog
+[amazon-creative]:http://www.uie.com/articles/magicbehindamazon/?utm_source=heuro.net&utm_medium=blog
 
 ***
 
@@ -30,7 +30,7 @@ Clearly, the importance of being able to prove that what you are doing is drivin
 
 {% image modern_marketer/netflix_subscribers.png %}
 
-In the past businesses controlled how consumers accessed information about their products and organisation. Control enabled marketers to be selective with the information they communicated. To fully understand a product, a primed buyer would generally need to visit a retailer and speak to a sales assistant.
+In the past, businesses controlled how consumers accessed information about their products and organisation. Control enabled marketers to be selective with the information they communicated. To fully understand a product, a primed buyer would generally need to visit a retailer and speak to a sales assistant.
 
 Now, all the information we could hope to have about a product is a Google search away. Thanks to unparalleled access, information control has completely gone out the window and shopping behaviour has changed. Google went as far as to coin the new phenomena the [Zero Moment of Truth (ZMOT)][zmot]. This change in power means that companies that survive and thrive are those that obsess over their customers. 
 
@@ -38,27 +38,27 @@ Netflix may never have existed if not for the poor customer experience provided 
 
 In order to gain market share in the European running category in 2006, Nike launched a running shoe that synced with your iPod. Today [Nike Plus][nike-plus] is a global community of sports enthusiasts - everyone from runners and basketballers to dancers and yogis - who can track and compare their shared passion. 
 
-[zmot]:(http://ssl.gstatic.com/think/docs/2011-winning-zmot-ebook_research-studies.pdf/?utm_source=heuro.net&utm_medium=blog)
-[netflix]:(http://en.wikipedia.org/wiki/Netflix#History_1/?utm_source=heuro.net&utm_medium=blog)
-[nike-plus]:(https://secure-nikeplus.nike.com/plus/?utm_source=heuro.net&utm_medium=blog)
+[zmot]:http://ssl.gstatic.com/think/docs/2011-winning-zmot-ebook_research-studies.pdf
+[netflix]:http://en.wikipedia.org/wiki/Netflix#History_1/?utm_source=heuro.net&utm_medium=blog
+[nike-plus]:https://secure-nikeplus.nike.com/plus/?utm_source=heuro.net&utm_medium=blog
 
 ***
 
-## 3. Channel integrator
+## 3. Channel hunter
 
-Before today's proliferation of communication channels you could count a marketer's channel options on one hand. The mediums were static by nature - media plans were purchased many months in advance and creative would need to be finalised well before the publish date. Companies like Nielsen were built in order to prove media viewing. In the US, Nielsen has tracking devices installed on 1,200 consumer TV sets, they then extrapolate statistics from these homes to represent the entire US. Traditional marketers justify tens of millions of dollars of advertising based on these stats. Crazy, right?
+Before today's proliferation of communication channels, you could count a marketer's channel options on one hand. The mediums were static by nature - media plans were purchased many months in advance and creative would need to be finalised well before the publish date. Companies like Nielsen were built in order to prove media viewing. In the US, Nielsen has tracking devices installed on 1,200 consumer TV sets, they then extrapolate statistics from these homes to represent the entire US. Traditional marketers justify tens of millions of dollars of advertising based on these stats. Crazy, right?
 
-Today new mediums and channels are forged daily. Startups like Meerkat pop up overnight and within just months have hundreds of millions of active users. Unlike previous mediums, the majority of these new channels are digital and therefore programmatic and inherently measurable. The modern marketer knows how to leverage and exploit the fundamental shift in the dynamic properties of new channels.
+Today, new mediums and channels are forged daily. Startups like Meerkat pop up overnight and within just months have hundreds of millions of active users. Unlike previous mediums, the majority of these new channels are digital and therefore programmatic and inherently measurable. The modern marketer knows how to leverage and exploit the fundamental shift in the dynamic properties of new channels.
 
-Back in 2000, a traditional marketer probably didn't view eBay as a channel - it was an online marketplace. Yet, PayPal was able to build their business off the back of smart integrations with the eBay channel. Similarly, an early Airbnb built up their initial customer base through a [Craigslist integration][gh]. To create their 'post to Craigslist' feature, Airbnb wrote a custom script that completed a form on Craigslist. This is the new paradigm of channel utilization.
+Back in 2000, a traditional marketer probably didn't view eBay as a channel - it was an online marketplace. Yet PayPal was able to build their business off the back of smart integrations with the eBay channel. Similarly, an early Airbnb built up their initial customer base through a [Craigslist integration][gh]. To create their 'post to Craigslist' feature, Airbnb wrote a custom script that completed a form on Craigslist. This is the new paradigm of channel utilisation.
 
-New channels offer huge opportunities to early entrants however returns [quickly diminish][ctr] as the channel matures and becomes saturated. Successful modern marketers are able to identify and execute activity on new channels early in the lifecycle. We should be asking asking how we can leverage an Uber driver, Dropbox notification or the Apple Watch as a channel.
+New channels offer huge opportunities to early entrants, however returns [quickly diminish][ctr] as the channel matures and becomes saturated. Successful modern marketers are able to identify and execute activity on new channels early in the lifecycle. We should be asking asking how we can leverage an Uber driver, Dropbox notification or the Apple Watch as a channel.
 
 The fragmentation of dynamic channels means that traditional brand conglomerates have had to completely re-evaluate their business. Recently Procter & Gamble announced that they will shed more than half their brands, [arguably][png] in order to manage the prolifically more complex channel environment.
 
-[ctr]:(http://andrewchen.co/the-law-of-shitty-clickthroughs/?utm_source=heuro.net&utm_medium=blog)
-[gh]:(http://andrewchen.co/how-to-be-a-growth-hacker-an-airbnbcraigslist-case-study/?utm_source=heuro.net&utm_medium=blog)
-[png]:(https://stratechery.com/2014/technology-changing-world-pg-edition/?utm_source=heuro.net&utm_medium=blog)
+[ctr]:http://andrewchen.co/the-law-of-shitty-clickthroughs/?utm_source=heuro.net&utm_medium=blog
+[gh]:http://andrewchen.co/how-to-be-a-growth-hacker-an-airbnbcraigslist-case-study/?utm_source=heuro.net&utm_medium=blog
+[png]:https://stratechery.com/2014/technology-changing-world-pg-edition/?utm_source=heuro.net&utm_medium=blog
 
 ***
 
@@ -73,7 +73,7 @@ To engage customers, we must refine brand-building content, the search experienc
 
 The production of content requires a new skill set from marketers and agencies alike, but can lead to serendipitous success of unparalleled scale. A classic example of this happened during the [Oreo 100 day campaign][100]. The brand celebrated its 100 year birthday by publishing a new ad on social every day for one hundred days. The ads used Oreo cookies to provide witticisms on current trends. During the 2013 Superbowl, Oreo published the above tweet in response to a power outage. The tweet was published 8 minutes after the outage and handed Oreo ownership of the social conversion around the Superbowl without spending a single cent on the most expensive media buy on the planet. Smart. 
 
-[100]:(http://www.360i.com/work/oreo-daily-twist/)
+[100]:http://www.360i.com/work/oreo-daily-twist/?utm_source=heuro.net&utm_medium=blog
 
 ***
 
@@ -85,8 +85,8 @@ Rapidly growing marketing IT budgets have led to the [prediction][budget] that m
 
 The CMT bridges marketing and IT to ensure vendor engagement, utilization and integration to enable creative execution. And the skill set required is becoming increasingly complex. To gain an edge over competitors, marketers will need to configure these technologies in unique ways. This trend will lead to increasing specialisation of marketing technologists.
 
-[budget]:(http://www.forbes.com/sites/lisaarthur/2012/02/08/five-years-from-now-cmos-will-spend-more-on-it-than-cios-do/)
-[cmt]:(https://hbr.org/2014/07/the-rise-of-the-chief-marketing-technologist)
+[budget]:http://www.forbes.com/sites/lisaarthur/2012/02/08/five-years-from-now-cmos-will-spend-more-on-it-than-cios-do/
+[cmt]:https://hbr.org/2014/07/the-rise-of-the-chief-marketing-technologist
 
 ***
 

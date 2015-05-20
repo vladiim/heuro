@@ -26,7 +26,7 @@
 
     - set up keen.io with analytics.js
 
-    - create pr scorecard algo: http://contently.com/strategist/2015/05/08/how-to-create-a-pr-scorecard-for-your-earned-media-and-content-marketing
+    - create pr scorecard algo (idea: create tool for this): http://contently.com/strategist/2015/05/08/how-to-create-a-pr-scorecard-for-your-earned-media-and-content-marketing
 
 * Messaging
 
@@ -40,7 +40,7 @@
 
     - Feedly http://feedly.com/publishers.html
 
-    - SEO: https://developers.google.com/structured-data/?rd=1
+    - SEO: https://developers.google.com/structured-data, https://moz.com/blog/seo-cheat-sheet
 
     - linkedin ads
 

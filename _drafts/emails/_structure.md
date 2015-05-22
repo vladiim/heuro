@@ -1,3 +1,28 @@
+/?utm_source=heuro.net&utm_medium=email
+
+# Customer obsessed
+
+***
+
+# Data-driven
+
+***
+
+# Channels
+
+***
+
+# Technology
+
+***
+
+# Trends
+
+***
+
+# Tool of the week
+
+***
 
 Product Hunt, DataFox, Other start up analytics email co, Techcrunch
 
@@ -42,3 +67,5 @@ Do your customers have an insatiable desire or hobby? Examples include golf, Cro
 * award sites
 
 * http://www.uie.com/
+
+***

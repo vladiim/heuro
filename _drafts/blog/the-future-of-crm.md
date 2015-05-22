@@ -4,6 +4,8 @@ title: The next evolution of CRM
 categories: blog
 ---
 
+messanger #2; http://blog.appannie.com/worldwide-app-annie-index-apps-april-2015/
+
 Customer Relationship Management (CRM) has continually evolved over the last 20 years. The newly launched Facebook [Business Messenger][messanger-business] has the potential to remove much friction from existing CRM channels and by doing so, greatly enhance the customer experience.
 
 Facebook created the [Messanger][messanger] mobile app in [2011][messanger-wiki] to unbundle messaging from the newsfeed. Last year Facebook removed messaging from the main app and forced users to download both apps. As with many large Facebook changes this was met with [much discontent][bloomberg]. As with many other Facebook changes, it succeeded non-the-less, by March 2015 the app had [600 million monthly active users][cnbc-600m].

@@ -30,17 +30,19 @@
 
 * Messaging
 
-    - Modern marketing
-
-    - About page
-
-    - 404 page
+    - stay on top of the latest movements in modern marketing
 
 * Marketing
 
     - Feedly http://feedly.com/publishers.html
 
-    - SEO: https://developers.google.com/structured-data, https://moz.com/blog/seo-cheat-sheet
+    - SEO:
+
+        - https://developers.google.com/structured-data
+
+        - https://moz.com/blog/seo-cheat-sheet
+
+        - https://econsultancy.com/blog/66450-30-seo-tools-to-make-your-life-easier
 
     - linkedin ads
 

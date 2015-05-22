@@ -6,4 +6,4 @@ use Rack::TryStatic,
   :urls => %w[/],
   :try  => ['index.html', '/index.html']
  
-run Rack::NotFound.new('_site/404.html')
+run Rack::NotFound.new('_site/404/index.html')

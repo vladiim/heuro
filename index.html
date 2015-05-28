@@ -1,16 +1,21 @@
 ---
-layout: default
+layout: home
 title: Heuro
 ---
 
 <div id="home">
 
-  <header>
-    <h1>Modern marketing</h1>
-    <h3>Customer centred, data driven marketing.</h3>
-  </header>
+  <section class='hero row'>
+    {% image home/ny_by_philipp_henzler.jpg %}
 
-  {% include subscribe.html %}
+    <header>
+      <h1>Modern marketing</h1>
+      <h3>Customer centred, data-driven marketing.</h3>
+    </header>
+  </section>
 
-  {% include content_lists.html %}
+  <section class='content'>
+    {% include subscribe.html %}
+    {% include content_lists.html %}
+  </section>
 </div>

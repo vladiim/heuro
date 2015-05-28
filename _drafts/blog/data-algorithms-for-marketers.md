@@ -12,6 +12,8 @@ https://www.countbayesie.com/blog/2015/4/25/bayesian-ab-testing
 
 segmentation using bi plots: https://github.com/vqv/ggbiplot
 
+http://www.quora.com/What-are-the-advantages-of-different-classification-algorithms/answer/Xavier-Amatriain?srid=3Tk0&share=1
+
 talk a/b testing etc, break it down simply and have lots of graphs
 
 give concrete examples of when a marketer would use it e.g. propensity modeling, 

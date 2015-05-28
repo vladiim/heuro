@@ -9,3 +9,5 @@ http://alistapart.com/article/approaching-content-strategy-for-personalized-webs
 http://www-cmswire.simplermedia.com/cw-wb-150521-espirit.html
 
 https://hbr.org/product/competing-in-the-age-of-omnichannel-retailing/SMR454-PDF-ENG
+
+http://www.entrepreneur.com/article/244208

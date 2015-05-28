@@ -14,16 +14,37 @@
 
 #home {
 
-  header {
-    h1 {
-      margin-top: 0 !important;
-      margin-bottom: 0 !important;
+  .hero {
+    img {
+      margin: -160px 0 0 -40px;
+      width: 120%;
+      position: absolute;
+      z-index: -1;
+      max-height: 500px;
+      min-height: 350px;
     }
 
-    h3 {
-      margin-top: 0 !important;
-      margin-bottom: 20px !important;
+    header {
+      margin-top: 10%;
+
+      h1 {
+        margin-top: 0 !important;
+        margin-bottom: 0 !important;
+        text-align: center;
+        color: $white;
+      }
+
+      h3 {
+        margin-top: 0 !important;
+        margin-bottom: 20px !important;
+        text-align: center;
+        color: $white;
+      }
     }
+  }
+
+  .content {
+    margin-top: 10%;
   }
 }
 

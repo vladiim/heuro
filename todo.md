@@ -18,6 +18,8 @@
 
 * Tracking
 
+    - set up newrelic broswer: http://newrelic.com/browser-monitoring/pricing
+
     - set up gtm + gtm click link
 
     - remove ga.js and ga_event.coffee

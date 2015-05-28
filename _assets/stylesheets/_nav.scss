@@ -44,6 +44,30 @@
   }
 }
 
+.imagenav {
+  nav {
+    background-color: transparent;
+    border-color: transparent;
+
+    a {
+      color: $link-color !important;
+
+      &:hover {
+        color: $link-hover-color !important;
+      }
+    }
+
+    a.navbar-btn {
+      color: $primary-dark !important;
+
+      &:hover {
+        background: $primary-dark !important;
+        color: $link-color !important;
+      }
+    }
+  }
+}
+
 //.navbar-nav > li.btn-li {
 //  margin-top: 10px;
 

@@ -57,6 +57,10 @@
       }
     }
 
+    .navbar-toggle:hover, .navbar-toggle:active, .navbar-toggle:focus, .navbar-toggle:visited {
+      background-color: transparent;
+    }
+
     a.navbar-btn {
       color: $primary-dark !important;
 

@@ -4,11 +4,11 @@ title: Messenger - the next evolution of CRM?
 categories: blog
 ---
 
-Customer Relationship Management (CRM) has continually evolved over the last 20 years. CRM incrementally increases customer value through ongoing automated, target messaging. It's ability to increase loyalty, upsell and cross sell have made it an essential component to any modern business. As sophisticated as CRM has become, it's far from perfect. The next evolution in CRM could be coming from the leader in online identity, Facebook.
+Customer Relationship Management (CRM) increases customer value incrementally through ongoing automated, target messaging. It's ability to grow loyalty, upsell and cross sell makes it an essential component to any modern business. But as sophisticated as CRM has become over the last 20 years, it's far from perfect. And the next evolution in CRM could well be coming from the leader in online identity, Facebook. 
 
-The newly launched Facebook [Business Messenger][messanger-business] has the potential to remove much friction from existing CRM channels. And by doing so, unlock new value for businesses through CRM. Facebook created the [Messanger][messanger] mobile app in [2011][messanger-wiki] to unbundle the messaging user experience from the newsfeed.
+The newly launched Facebook [Business Messenger][messanger-business] has the potential to remove much friction from existing CRM channels and, in doing so, unlock new value for businesses. 
 
-Last year Facebook removed the ability to message from the main app altogether and forced users to download both apps. As with many large Facebook changes this was met with [much discontent][bloomberg]. As with many other Facebook changes, it succeeded nonetheless, by March 2015 the app had [600 million monthly active users][cnbc-600m], by April 2015 Messanger was the [second most popular app globally][aa-april15]. Now Facebook is looking to build on the app's success with an API targeted at customer management.
+Facebook created the [Messanger][messanger] mobile app in [2011][messanger-wiki] to unbundle the messaging user experience from the newsfeed. Last year Facebook removed the ability to message from the main app altogether and forced users to download both apps. Like many other Facebook changes this was met with much [much discontent][bloomberg]. Still, it succeeded. By March 2015 the app had [600 million monthly active users][cnbc-600m], and by April 2015, Messanger was the [second most popular app globally][aa-april15]. Now Facebook is looking to build on the app's success with an API targeted exclusively at customer management.
 
 [messanger-business]:https://www.messenger.com/business/?utm_source=heuro.net&utm_medium=blog
 [messanger]:https://www.messenger.com/?utm_source=heuro.net&utm_medium=blog
@@ -23,17 +23,17 @@ Last year Facebook removed the ability to message from the main app altogether a
 
 {% image future_crm/omnichannel.png %}
 
-It only takes a Facebook login or a mobile message to convert a customer into a Messenger contact. The immediacy and convenience tied with Messenger makes it worthwhile to connect with a business through Messenger given the right context. Combine these factors and we could see a larger conversion rate to Messenger when compared to traditional CRM channels.
+It only takes a Facebook login or a mobile message to convert a customer into a Messenger contact. And, in the right context, the immediacy and convenience alone makes it worthwhile to connect with a business through Messenger. These two factors could lead to a larger conversion rate to Messenger when compared to traditional CRM channels.
 
-Potential conversion opportunities include:
+* Potential conversion opportunities include:
 
-* Use Messenger to ask a retailer to notify you when a top is available in a different colour
+* Asking a retailer to notify you when a tee shirt is available in a different colour
 
-* Have your online delivery tracked
+* Having your online delivery tracked
 
-* Continue resolving a complaint through a web form, customer service call or social media.
+* Resolving a complaint through a web form, customer service call or social media.
 
-Each of these use cases create an opportunity to quickly convert a customer to a Messenger connection. Making each conversion point an opportunity for businesses to build stronger relationships with customers.
+Each of these use cases creates an opportunity to convert a customer to a Messenger connection. And each conversion point becomes an opportunity for businesses to build stronger relationships with their customers.
 
 ***
 
@@ -41,7 +41,7 @@ Each of these use cases create an opportunity to quickly convert a customer to a
 
 {% image future_crm/channel.png %}
 
-With immediate access to 600 million users and growing, Messenger is a potentially powerful channel, ripe for exploitation. Businesses that can successfully integrate viral mechanics into their Messenger contact flows will be able to grow their CRM database at unprecedented speeds. Every customer contact on Messenger is also a new channel for the business.
+With immediate access to 600 million users and growing, Messenger is a potentially powerful channel, ripe for exploitation. Businesses that can successfully integrate viral mechanics into their Messenger contact flows will be able to grow their CRM database at unprecedented speeds. Every customer contact on Messenger can be perceived as a new channel for the business.
 
 ***
 
@@ -49,17 +49,17 @@ With immediate access to 600 million users and growing, Messenger is a potential
 
 {% image future_crm/engagement.png %}
 
-Messenger enables publishers to post a range of rich media including video and call to action buttons. The call to action buttons are particularly powerful, allowing businesses to convert contacts to sharing or purchasing a product with only the tap of a button. An example of how this might play out:
+Messenger enables publishers to post a range of rich media including video and call to action buttons. The call to action buttons are particularly powerful, allowing businesses to convert contacts to sharing or purchasing a product with the tap of a button. Here's an example of how this might play out:
 
-* Customer likes top in store but the colour they like isn't available
+* Jenny finds a top she loves in store but her preferred colour isn't available
 
-* Staff gets customer to sign up to Messenger with relevant ticket number
+* Staff member asks Jenny to sign up to Messenger using the relevent ticket number
 
-* Customer is sent a notification with a buy now button
+* Jenny is then sent a notification with a 'buy now' button
 
-* Customer doesn't buy within the app
+* Jenny chooses to not buy within the app
 
-* When the top arrives at the store the customer gets a notification with a discount.
+* When her top arrives at the store, Jenny receives a second notification - this time with a discount.
 
 ***
 
@@ -67,29 +67,29 @@ Messenger enables publishers to post a range of rich media including video and c
 
 {% image future_crm/notification.png %}
 
-In order to gain access to a customer's mobile (now watch) notifications a business would traditionally need to create an app people download and use. This is no mean feat. With Messenger businesses now get access to this incredibly valuable real estate without having to break the bank.
+In order to gain access to a customer's mobile (or watch) notifications, a business would traditionally need to create an app for customers to download and use. This is no mean feat! But with Messenger, businesses can now access this incredibly valuable real estate without having to break the bank.
 
 ***
 
 ## Opportunities
 
-Messenger is a powerful platform for CRM practitioners and will no doubt enable many unforeseeable new innovations. Some imaginable opportunities include:
+Messenger is a powerful platform for CRM practitioners and will no doubt enable many new innovations. Some imaginable opportunities include:
 
-* A personalised shopping assistant that helps you while you shop in a mall
+* A personalised shopping assistant that helps you while you shop in a mall:
 
     - Upload outfits as you try them on
 
-    - Get deals on the items through Messenger
+    - Receive exclusive deals on the items through Messenger
 
 * International, cross-retailer loyalty programs
 
-* Integrating buy buttons into images people share through product recognition.
+* Using product recognition to integrate 'buy' buttons into shared images.
 
 ***
 
 ## Risks
 
-Overly relying on Facebook for managing critical business processes is an inherently risky proposition. In 2012 Facebook [famously changed][edge-change] their Edgerank algorithm to the detriment of advertisers. Businesses that invested heavily in building a Facebook audience now need to continue paying every time they wanted to get in touch with their fans. Since then, companies with Fan Pages have had to continually increase their media spend on Facebook to reach their own fans.
+Overly relying on Facebook for managing critical business processes is an inherently risky proposition. In 2012 Facebook [famously changed][edge-change] their Edgerank algorithm to the detriment of advertisers. Businesses that invested heavily in building a Facebook audience now need to pay every time they want to get in touch with their fans. Companies with Fan Pages are continuously increasing their media spend on Facebook.
 
 Facebook is a publicly traded company. Their incentives are aligned with shareholders who are focused on quarterly returns. If businesses take to Messenger as they did to fan pages, Facebook may again charge for the right to interact with your contacts.
 

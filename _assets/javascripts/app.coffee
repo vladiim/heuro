@@ -1,10 +1,9 @@
 #= require vendor/jquery
 #= require vendor/bootstrap.min
-#= require vendor/ga
 #= require vendor/modernizr
 #= require vendor/verify.notify.min
 #= require graphs
-#= require ga_events
+#= require analytics_tracker
 
 $(document).ready ->
   # console.log('blah')

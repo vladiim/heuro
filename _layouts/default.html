@@ -9,12 +9,18 @@
 
     {% stylesheet app %}
 
+  {% include segment.html %}
+
   </head>
   <body>
 
-    {% include gtm.html %}
-
-    {% include nav.html %}
+    {% if page.imagenav %}
+      <section class='imagenav'>
+        {% include nav.html %}
+      </section>
+    {% else %}
+      {% include nav.html %}
+    {% endif %}
 
     <div class="site">
 

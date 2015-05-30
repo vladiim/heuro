@@ -1,26 +1,26 @@
 /?utm_source=heuro.net&utm_medium=email
 
-# Customer obsessed
+## Customer obsessed
 
 ***
 
-# Data-driven
+## Data-driven
 
 ***
 
-# Channels
+## Channels
 
 ***
 
-# Technology
+## Technology
 
 ***
 
-# Trends
+## Trends
 
 ***
 
-# Tool of the week
+## Tool of the week
 
 ***
 

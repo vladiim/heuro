@@ -6,6 +6,13 @@ redcarpet:
   extensions: ["no_intra_emphasis", "fenced_code_blocks", "autolink", "tables", "with_toc_data"]
 
 assets:
+  sources:
+    - _assets
+    - _assets/data
+    - _assets/fonts
+    - _assets/images
+    - _assets/javascripts
+    - _assets/stylesheets
   compress:
     css_compressor: sass
     js_compressor:  uglifier

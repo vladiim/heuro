@@ -4,27 +4,9 @@
 /*
 /*****************************************************************************/
 
-//.navbar-nav {
-//  margin: 0 20px;
-//}
-
-//@media (max-width: $screen-sm-min) {
-//  .navbar-nav {
-//    margin: 0 5px;
-//  }
-//}
-
-//.navbar-collapse.collapse {
-//  display: block!important;
-//}
-
-//.navbar-nav > li, .navbar-nav {
-//  float: left !important;
-//}
-
-//.navbar-nav > li {
-//  margin-top: 10px;
-//}
+nav {
+  font-family: 'Droid Sans';
+}
 
 .nav-btn {
   margin-right: 10px;
@@ -71,26 +53,3 @@
     }
   }
 }
-
-//.navbar-nav > li.btn-li {
-//  margin-top: 10px;
-
-//  > a {
-//    color: $primary-dark;
-//    display: inline;
-//  }
-
-//  > a:hover {
-//    border-color: $primary-dark;
-//    background-color: $primary-dark;
-//    color: $secondary-normal;
-//  }
-//}
-
-//.navbar-nav.navbar-right:last-child {
-//  margin-right: -15px !important;
-//}
-
-//.navbar-right {
-//  float: right!important;
-//}

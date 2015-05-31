@@ -2,11 +2,10 @@
 layout: post
 title: Are you a modern marketer?
 categories: blog
+description: In this post we'll explore the traits of modern marketers and their evolution from artist to scientist.
 ---
 
-Marketing has entered a new age. And the skill set for success couldn't be more different from that of 20 years ago. Modern marketing is faster, smarter, more dynamic and more important to an organisation's success then ever before. Traditional marketers driving big ideas forward with blind faith in creative are being replaced with technologists who act with clinical accuracy. 
-
-In this post we'll explore the traits of modern marketers and their evolution from artist to scientist.
+Marketing has entered a new age. And the skill set for success couldn't be more different from that of 20 years ago. Modern marketing is faster, smarter, more dynamic and more important to an organisation's success then ever before. Traditional marketers driving big ideas forward with blind faith in creative are being replaced with technologists who act with clinical accuracy.
 
 ***
 

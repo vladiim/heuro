@@ -9,6 +9,8 @@ $carrot:      #e67e22; // orange
 $pumpkin:     #d35400; // dark orange
 $pomegranate: #c0392b; // dark orange
 
+$gray-light:  #aaa;
+
 //$emerland:    #2ecc71; // green
 //$nephritis:   #27ae60; // dark green
 
@@ -30,6 +32,8 @@ $primary-normal:         $belize-hole;
 
 $secondary-dark:         $pomegranate;
 $secondary-normal:       $carrot;
+
+$tertiary-normal:        $gray-light;
 
 $gray-base:              #000 !default;
 $gray-darker:            lighten($gray-base, 13.5%) !default; // #222

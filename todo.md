@@ -1,32 +1,8 @@
-# Doing
-
-* Load site to http://www.maxmasnick.com/2012/01/21/jekyll_s3_cloudfront/
-
-* Email
-
-    - Change thank you page to http://www.heuro.net/newsletter/thanks
-
-    - Google authorship https://plus.google.com/authorship
-
-***
-
 # To do
-
-* Deployment
-
-    - Use: https://github.com/laurilehmijoki/s3_website
 
 * Tracking
 
     - set up newrelic broswer: http://newrelic.com/browser-monitoring/pricing
-
-    - set up gtm + gtm click link
-
-    - remove ga.js and ga_event.coffee
-
-    - https://segment.com/docs/libraries/analytics.js/quickstart/
-
-    - set up keen.io with analytics.js
 
     - create pr scorecard algo (idea: create tool for this): http://contently.com/strategist/2015/05/08/how-to-create-a-pr-scorecard-for-your-earned-media-and-content-marketing
 

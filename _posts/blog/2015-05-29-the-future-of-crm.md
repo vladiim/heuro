@@ -2,6 +2,7 @@
 layout: post
 title: Messenger - the next evolution of CRM?
 categories: blog
+description: In this post we'll evaluate Facebook Business Messanger's potential to evolve CRM.
 ---
 
 Customer Relationship Management (CRM) increases customer value incrementally through ongoing automated, target messaging. It's ability to grow loyalty, upsell and cross sell makes it an essential component to any modern business. But as sophisticated as CRM has become over the last 20 years, it's far from perfect. And the next evolution in CRM could well be coming from the leader in online identity, Facebook. 

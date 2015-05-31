@@ -4,6 +4,14 @@
 /*
 /*****************************************************************************/
 
+.meta {
+  font-style: italic;
+  color: $tertiary-normal;
+  small {
+    display: inline-block;
+  }
+}
+
 /* standard */
 .post pre {
   border: 1px solid #ddd;

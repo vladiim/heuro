@@ -1,4 +1,6 @@
 book, author invented several innovations inc the coupon
+what startups can learn from the science of advertising
+startup lessons from ...
 
 ***
 
@@ -48,3 +50,38 @@ recommend insert coupons to cut out
 
 "Human nature is perpetual. So the principles of psychology are fixed and enduring."
 
+***
+
+# tell your full story
+
+"Any reader of your ad is interested, else he would not be a reader. You are dealing with someone willing to listen. Then do your level best. That reader, if you lose him now, may never again be a reader."
+
+onboarding - twitter, so many people that signed up and never again used the service
+
+***
+
+"Scientific advertising is impossible without [knowing your results]. So is safe advertising. So is maximum profit. Groping in the dark in this field has probably cost enough money to pay the national debt. That is what has filled the advertising graveyards. That is what has discouraged thousands who could profit in this field."
+
+***
+
+# JTBD
+
+"There is nearly always something impressive which others have not told. We must discover it. We must have a seeming advantage. People don't quit habits without reason."
+
+when does chocolate compete with flowers?
+
+"[Vaseline] established a new demand, then almost monopolized that demand through wisdom at the start. To have called it some different brand of petroleum jelly might have made a difference of millions in results."
+
+microsoft lost smartphone b/c they were trying to make a dumb computer, apple made a smart phone
+
+***
+
+"However expensive, [samples] usually form the cheapest selling method."
+
+freemium, evernote cohort, spotify egs
+
+***
+
+"Almost any questions can be answered, cheaply, quickly and finally, but a test campaign. And that's the way to answer them - not by arguments around a table."
+
+"In five years for one food advertiser we tried out over fifty separate plans. Every little while we found an improvement, so the results of our advertising constantly grew. At the end of five years we found the best plan of all. It reduced our cost of selling by 75 percent."

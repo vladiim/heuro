@@ -6,10 +6,6 @@
 
     - create pr scorecard algo (idea: create tool for this): http://contently.com/strategist/2015/05/08/how-to-create-a-pr-scorecard-for-your-earned-media-and-content-marketing
 
-* Messaging
-
-    - stay on top of the latest movements in modern marketing
-
 * Marketing
 
     - Feedly http://feedly.com/publishers.html

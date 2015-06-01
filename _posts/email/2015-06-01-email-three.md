@@ -93,4 +93,8 @@ German beer brand Astra recently [developed a digital illuminated billboard][bee
 
 ## Tool of the week
 
+[KnowledgeTree][kn] identifies content that will help a rep close a sale for a particular lead and push the content to the rep at the right time.
+
+[kn]:http://www.knowledgetree.com/?utm_source=heuro.net&utm_medium=blog
+
 ***

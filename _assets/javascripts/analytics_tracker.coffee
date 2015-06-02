@@ -18,7 +18,10 @@ findAndSetId = ->
 subscriptionListener = ->
   $('.subscribe-now-btn').on 'click', (event) ->
     analytics.track('Newsletter Subscription', {
-      email: $('#mce-EMAIL').val()
+      category: 'Newsletter',
+      action: 'Sign up',
+      label: window.location.pathname,
+      value: $('#mce-EMAIL').val()
     })
 
 trackEvents = ->

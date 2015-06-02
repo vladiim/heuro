@@ -51,19 +51,20 @@ In order to marry product development with customer needs Clayton Christensen de
 
 ***
 
-## Optimise towards a metric
+## Understand your market position
 
-<blockquote>Scientific advertising is impossible without [knowing your results]. So is safe advertising. So is maximum profit. Groping in the dark in this field has probably cost enough money to pay the national debt.</blockquote>
-
-
-
-***
-
-## Position based on the job
+Follows on from jobs to be done 
 
 "[Vaseline] established a new demand, then almost monopolized that demand through wisdom at the start. To have called it some different brand of petroleum jelly might have made a difference of millions in results."
 
 microsoft lost smartphone b/c they were trying to make a dumb computer, apple made a smart phone
+
+***
+
+## Optimise towards observable phenomena
+
+<blockquote>Scientific advertising is impossible without [knowing your results]. So is safe advertising. So is maximum profit. Groping in the dark in this field has probably cost enough money to pay the national debt.</blockquote>
+
 
 ***
 

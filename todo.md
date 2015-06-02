@@ -4,6 +4,8 @@
 
     - set up newrelic broswer: http://newrelic.com/browser-monitoring/pricing
 
+    - add rss source to feed
+
     - create pr scorecard algo (idea: create tool for this): http://contently.com/strategist/2015/05/08/how-to-create-a-pr-scorecard-for-your-earned-media-and-content-marketing
 
 * Marketing

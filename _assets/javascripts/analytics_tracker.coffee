@@ -1,4 +1,9 @@
-HEURO_ID = 'heuro_id'
+HEURO_ID   = 'heuro_id'
+LOCAL_HOST = 'localhost:9292'
+
+currentHost = -> window.location.host
+
+currentPath = -> window.location.pathname
 
 generateId = ->
   id = String(Math.random()).split('.')[1]
@@ -20,7 +25,7 @@ subscriptionListener = ->
     analytics.track('Newsletter Subscription', {
       category: 'Newsletter',
       action: 'Sign up',
-      label: window.location.pathname,
+      label: currentPath(),
       value: $('#mce-EMAIL').val()
     })
 
@@ -28,5 +33,6 @@ trackEvents = ->
   subscriptionListener()
 
 $(document).ready ->
-  findAndSetId()
-  trackEvents()
+  if currentHost() isnt LOCAL_HOST
+    findAndSetId()
+    trackEvents()

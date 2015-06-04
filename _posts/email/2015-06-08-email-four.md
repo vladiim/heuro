@@ -1,4 +1,8 @@
-/?utm_source=heuro.net&utm_medium=email
+---
+layout: post
+title: 2015 marketing trends, understanding KPIs and the marketing stack
+categories: email
+---
 
 # Trends
 
@@ -26,27 +30,11 @@ Shows like Madmen and Breaking Bad have ushered in what's been donned a ‘Golde
 
 ***
 
-## Customer obsessed
-
-New [global research from SDL][cxfall] has revealed insights into customer experience failures from the past decade. Basically, businesses need to step up their CX game. Some of their insights include 21% of major CX failures happen before a customer even buys and only 55% of consumers who recalled a CX failure also remembered a success.
-
-[cxfall]:http://www.sdl.com/ilp/cxc/rules-of-customer-experience.html/?utm_source=heuro.net&utm_medium=email
-
-[Are Wearables the next in-store shopping buddies][wearbuddy]? April 2015 research by PowerReviews, 30% of US smartphone owners owned or planned to purchase a wearable device in the next 12 months. Among this group, 82% wanted such devices to enhance their in-store experience, and nearly half wanted to leverage wearables to save time when shopping.
-
-[wearbuddy]:http://www.emarketer.com/Article.aspx?R=1012544/?utm_source=heuro.net&utm_medium=email
-
-[Lessons from someone who's done 10 jobs-to-be-done interviews][jtbd-int]. Insights shared include correct preparation, the requirement to interview a lot and the analysis process.
-
-[jtbd-int]:http://www.normative.stfi.re/100-jobs-done-interviews-heres-learned/?utm_source=heuro.net&utm_medium=email
-
-***
-
 ## Data-driven
 
 [Everything you need to know about interpreting KPIs][game-kois]. From definition through to a set of examples get ready for acronym bingo with ARPPU, ARPU, MAU, DAU, CLV and CPI.
 
-[game-kois]:http://blog.gameanalytics.com/blog/everything-need-know-interpreting-kpis.html/?utm_source=heuro.net&utm_medium=email
+[game-kois]:http://blog.gameanalytics.com/blog/everything-need-know-interpreting-kpis.html
 
 [How much churn is too much][churn]? The simple answer is for consumer companies 3% per / month, for enterprises 0.58% p / month.
 
@@ -54,7 +42,7 @@ New [global research from SDL][cxfall] has revealed insights into customer exper
 
 Google shows us [the path to better measurement: analytics and attribution][google-attribute]. 1. Am I seeing all of my marketing touchpoints? 2. What added value will attribution provide? 3. Does my team have the expertise needed to choose and implement attribution and then interpret and act on its insights? 4. Am I duplicating my investment by paying for two different solutions?
 
-[google-attribute]:https://www.thinkwithgoogle.com/articles/path-to-better-measurement-analytics-attribution.html/?utm_source=heuro.net&utm_medium=email
+[google-attribute]:https://www.thinkwithgoogle.com/articles/path-to-better-measurement-analytics-attribution.html
 
 [The big problems with net promoter score (NPS): do we need a new “ultimate question”][nps-ok]? Arguments against the NPS include a lack of causality, regional and segment differences and frequency.
 
@@ -70,7 +58,7 @@ The [ecommerce buyer behaviour][ecom-buyer] report from RJ Metrics gives a range
 
 [How the best SaaS companies write upgrade emails that convert][saas-emails]. All simple examples that the best in the business use to increase conversions. Tactics include social proof, pricing in the email, feature specification and free trails.
 
-[saas-emails]:http://customer.io/blog/upgrade-email-templates.html/?utm_source=heuro.net&utm_medium=email
+[saas-emails]:http://customer.io/blog/upgrade-email-templates.html
 
 [How Dollar Shave Club got 12,000 customers in their first 2 days][dollar-customers]. A great analysis of the video that has 19 million YouTube views to date and sparked the company's success. Analysis of the video found; they had a clear customer in mind, the demonstrated product quality quickly with clear and memorable benefits and they finished with a clear call-to-action.
 
@@ -99,6 +87,22 @@ In 2015, [programmatic will account for $14.9 billion of the nearly $59 billion 
 [How venues are improving the customer experience with Beacon Technology][beacons]. Examples allow sports fans to order food to be delivered to them in their seats and Disney's MyMagic+ bracelet.
 
 [beacons]:https://econsultancy.com/blog/66510-amplifying-the-customer-experience/?utm_source=heuro.net&utm_medium=email
+
+***
+
+## Customer obsessed
+
+New [global research from SDL][cxfall] has revealed insights into customer experience failures from the past decade. Basically, businesses need to step up their CX game. Some of their insights include 21% of major CX failures happen before a customer even buys and only 55% of consumers who recalled a CX failure also remembered a success.
+
+[cxfall]:http://www.sdl.com/ilp/cxc/rules-of-customer-experience.html
+
+[Are Wearables the next in-store shopping buddies][wearbuddy]? April 2015 research by PowerReviews, 30% of US smartphone owners owned or planned to purchase a wearable device in the next 12 months. Among this group, 82% wanted such devices to enhance their in-store experience, and nearly half wanted to leverage wearables to save time when shopping.
+
+[wearbuddy]:http://www.emarketer.com/Article.aspx?R=1012544/?utm_source=heuro.net&utm_medium=email
+
+[Lessons from someone who's done 10 jobs-to-be-done interviews][jtbd-int]. Insights shared include correct preparation, the requirement to interview a lot and the analysis process.
+
+[jtbd-int]:http://www.normative.stfi.re/100-jobs-done-interviews-heres-learned/?utm_source=heuro.net&utm_medium=email
 
 ***
 

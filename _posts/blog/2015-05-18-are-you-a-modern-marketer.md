@@ -27,7 +27,7 @@ Clearly, the importance of being able to prove that what you are doing is drivin
 
 ## 2. Customer obsessed
 
-{% image modern_marketer/netflix_subscribers.png alt="Netflix subscribers" %}
+{% image modern_marketer/netflix_subscribers.png %}
 
 In the past, businesses controlled how consumers accessed information about their products and organisation. Control enabled marketers to be selective with the information they communicated. To fully understand a product, a primed buyer would generally need to visit a retailer and speak to a sales assistant.
 

@@ -22,7 +22,7 @@ Facebook created the [Messanger][messanger] mobile app in [2011][messanger-wiki]
 
 ## Conversion simplicity
 
-{% image future_crm/omnichannel.png alt="Messenger omnichannel" %}
+{% image future_crm/omnichannel.png %}
 
 It only takes a Facebook login or a mobile message to convert a customer into a Messenger contact. And, in the right context, the immediacy and convenience alone makes it worthwhile to connect with a business through Messenger. These two factors could lead to a larger conversion rate to Messenger when compared to traditional CRM channels.
 
@@ -40,7 +40,7 @@ Each of these use cases creates an opportunity to convert a customer to a Messen
 
 ## New channel
 
-{% image future_crm/channel.png alt="Messenger CTA"%}
+{% image future_crm/channel.png %}
 
 With immediate access to 600 million users and growing, Messenger is a potentially powerful channel, ripe for exploitation. Businesses that can successfully integrate viral mechanics into their Messenger contact flows will be able to grow their CRM database at unprecedented speeds. Every customer contact on Messenger can be perceived as a new channel for the business.
 
@@ -48,7 +48,7 @@ With immediate access to 600 million users and growing, Messenger is a potential
 
 ## Rich contextual media
 
-{% image future_crm/engagement.png alt="Messenger engagement" %}
+{% image future_crm/engagement.png %}
 
 Messenger enables publishers to post a range of rich media including video and call to action buttons. The call to action buttons are particularly powerful, allowing businesses to convert contacts to sharing or purchasing a product with the tap of a button. Here's an example of how this might play out:
 
@@ -66,7 +66,7 @@ Messenger enables publishers to post a range of rich media including video and c
 
 ## Notifications
 
-{% image future_crm/notification.png alt="Messenger notifications" %}
+{% image future_crm/notification.png %}
 
 In order to gain access to a customer's mobile (or watch) notifications, a business would traditionally need to create an app for customers to download and use. This is no mean feat! But with Messenger, businesses can now access this incredibly valuable real estate without having to break the bank.
 

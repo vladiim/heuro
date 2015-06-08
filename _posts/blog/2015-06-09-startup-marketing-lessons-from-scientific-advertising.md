@@ -5,26 +5,26 @@ categories: blog
 description: In this post we'll go through the lessons startup marketer's can glean from a 92 year old book.
 ---
 
-Claude Hopkins was responsible for marketing innovations such as split testing and coupons. In 1923 he wrote the hugely influential [Scientific Advertising][sci-ad-book]. [David Ogilvy][oglivy] wrote that "Nobody should be allowed to have anything to do with advertising until he has read this book seven times. It changed the course of my life." The book still bears many lessons for today's marketers in startups as much as advertising.
+Claude Hopkins was responsible for marketing innovations such as split testing and coupons. In 1923 he wrote the hugely influential [Scientific Advertising][sci-ad-book]. [David Ogilvy][oglivy] wrote that "Nobody should be allowed to have anything to do with advertising until he has read this book seven times. It changed the course of my life." The book still bears many lessons for today's modern marketers.
 
 [oglivy]:http://www.amazon.com/Ogilvy-Advertising-David/dp/039472903X/?utm_source=heuro.net&utm_medium=email
 [sci-ad-book]:http://www.amazon.com/Scientific-Advertising-Claude-Hopkins/dp/1603866361/ref=sr_1_1?ie=UTF8&qid=1433127326&sr=8-1&keywords=Scientific+Advertising+Claude+C.+Hopkins/?utm_source=heuro.net&utm_medium=blog
 
 ***
 
-## Understand the job to be done
+## Understand the job-to-be-done
 
-{% image science_advertising/jtbd_timeline.png alt="Jobs-to-be-done timeline" %}
+{% image science_advertising/jtbd_timeline.png %}
 
 <blockquote>There is nearly always something impressive which others have not told. We must discover it. We must have a seeming advantage. People don't quit habits without reason.</blockquote>
 
-Hopkins focussed on identifying the consumer's unique motivator and using it to switch brands. Changing people's behaviour, getting them to purchase your product, is hard. To do so your product needs to be positioned to solve a true need they have.
+Changing people's behaviour, getting them to purchase your product, is hard. To do so your product needs to be positioned to solve a true need they have. Hopkins focussed on identifying the consumer's unique buying motivator and then used the motivator to change people's behaviour.
 
 Too many products are released to the world and fall flat because their positioning is fundamentally incorrect. They are designed by internal committee and solving a problem no one has.
 
 <blockquote>The reason for most of the non-successes in advertising is trying to sell people what they do not want.</blockquote>
 
-In order to marry product development with customer needs Clayton Christensen developed the [jobs-to-be-done][jtbd-article] framework. Jobs-to-be-done is designed to uncover the causal mechanism behind a purchase. It explains why chocolates and flowers compete with each other during Valentine's Day - both products are being hired to demonstrate affection. By understanding the causal driver behind a purchase decision you fundamentally change your product development prioritisation, market placement, messaging and design.
+In order to marry product development with customer needs Clayton Christensen developed the [jobs-to-be-done][jtbd-article] framework. Jobs-to-be-done is designed to uncover the causal mechanism behind a purchase decision. It explains why chocolates and flowers compete with each other during Valentine's Day - both products are being hired to demonstrate affection. By understanding the causal driver behind a purchase decision you fundamentally change your product development prioritisation, market placement, messaging and design.
 
 **First steps:** learn the jobs-to-be-done framework from [jobstobedone.org][jtbd-org]. The site, blog, podcast and resources have built on Christensen's original work to form a robust methodology. They even have an [online course][jtbd-mooc].
 
@@ -62,11 +62,11 @@ Blank's former student, [Eric Ries][eries] built on Blank's work with [The Lean 
 
 You can't improve if you don't know what you're improving towards. Having a clear set of metrics that drive your behaviour is critical to improving your efforts. To do this, you need good metrics to guide you. In [Lean Analytics][lean-analytics] a good metric is defined as being:
 
-* **Comparative:** the metric can be compared sliced with different dimensions such as time or user segments
+* **Comparative:** the metric can be compared with and sliced by different dimensions such as time or user segments
 
 * **Understandable:** a good metric is intuitive and easily discussed such as a customer's lifetime value, the cost to acquire a customer or the monthly customer churn rate
 
-* **A ratio or rate:** it's much more helpful to know the customers churning per month over several years rather than the total number of customers that have churned, ratios give you insight into velocity and are inherently comparative.
+* **A ratio or rate:** it's much more helpful to know the number of customers churning per month over several years over the total number of customers that have churned, ratios give you insight into velocity and are inherently comparative.
 
 Most importantly, good metrics enable you to change how you behave. There's no point measuring something unless it's going to drive your behaviour. In other words, drop the vanity metrics.
 

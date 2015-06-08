@@ -9,3 +9,5 @@ buying a CMS: http://www-cmswire.simplermedia.com/rs/simplermediagroup/images/Ig
 Lattice engines
 
 http://www.portent.com/blog/internet-marketing/stack-overview.htm
+
+http://me.sailthru.com/ResourceLibrary_ForresterReport_Advance_to_Next_Generation_Personalization.html

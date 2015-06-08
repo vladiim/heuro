@@ -1,4 +1,18 @@
-/?utm_source=heuro.net&utm_medium=email
+---
+layout: post
+title: 
+categories: email
+---
+
+/?utm_source=heuro.net&utm_medium=email&utm_campaign=email_x
+
+## Trends
+
+***
+
+## Channels
+
+***
 
 ## Customer obsessed
 
@@ -8,15 +22,7 @@
 
 ***
 
-## Channels
-
-***
-
 ## Technology
-
-***
-
-## Trends
 
 ***
 

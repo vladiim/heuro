@@ -2,6 +2,8 @@
 
 * Tracking
 
+    - set up parse for dashboards: https://parse.com, http://www.sitepoint.com/build-custom-user-analytics-parse
+
     - set up newrelic broswer: http://newrelic.com/browser-monitoring/pricing
 
     - add rss source to feed
@@ -9,6 +11,8 @@
     - create pr scorecard algo (idea: create tool for this): http://contently.com/strategist/2015/05/08/how-to-create-a-pr-scorecard-for-your-earned-media-and-content-marketing
 
 * Marketing
+
+    - build up engagement on quora: https://blog.bufferapp.com/quora-marketing
 
     - Feedly http://feedly.com/publishers.html
 

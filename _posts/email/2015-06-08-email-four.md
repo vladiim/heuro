@@ -14,13 +14,13 @@ categories: email
 
 [advertising-content]:http://qz.com/418406/the-long-awaited-moment-when-online-advertising-eclipses-tv-is-near/
 
-Google's got [a great new design resource][google-design]. One of the resources is [6 minutes of interviews with the designers who re-invented Google's design and UI][mat-design-vid].
+Google's got [a great new design site][google-design]. One of the resources on the site is a [6 minute set of interviews with the designers who re-invented Google's design and UI][mat-design-vid].
 
 [mat-design-vid]:http://www.google.com/design/videos/making-material-design/?utm_source=heuro.net&utm_medium=email
 
 [google-design]:http://www.google.com/design/?utm_source=heuro.net&utm_medium=email
 
-Shows like Madmen and Breaking Bad have ushered in what's been donned a ‘Golden Age’ for TV. Bloomberg argues [that it won’t last because it's impossible to watch it all][golden-age].
+Shows like Madmen and Breaking Bad have ushered in what's been donned a ‘Golden Age’ for TV. Bloomberg argues [that it won’t last][golden-age].
 
 [golden-age]:http://www.bloomberg.com/news/articles/2015-05-28/tv-s-golden-age-won-t-last-because-you-re-not-watching-enough/?utm_source=heuro.net&utm_medium=email
 
@@ -80,11 +80,11 @@ Just swipe your pants to change the channel. Google's playing with new ways for 
 
 [google-touch]:http://www.theverge.com/2015/5/28/8682957/touch-sensitive-fabric-and-tiny-radar-chips-hands-on-with-ataps/?utm_source=heuro.net&utm_medium=email
 
-In 2015, [programmatic will account for $14.9 billion of the nearly $59 billion digital-advertising pie][programmatic], according to eMarketer. That's up from $9.9 billion in 2014 and $4.2 billion in 2013. Until recently, many questioned the value of programmatic advertising. Publishers saw it as a threat and buyers saw it as a source of dodgy, low-value inventory. But with those concerns dissipating and major brands are saying that they intend to buy 100% of their digital programmatically, the practice is booming.
+In 2015, [programmatic will account for $14.9 billion of the nearly $59 billion digital-advertising pie][programmatic], according to eMarketer. That's up from $9.9 billion in 2014 and $4.2 billion in 2013. Until recently, many questioned the value of programmatic advertising. Publishers saw it as a threat and buyers saw it as a source of dodgy, low-value inventory. But those concerns are dissipating and major brands are saying that they intend to buy 100% of their digital programmatically, the practice is booming.
 
 [programmatic]:http://adage.com/article/print-edition/inside-murky-world-programmatic/298822/?utm_source=heuro.net&utm_medium=email
 
-[How venues are improving the customer experience with Beacon Technology][beacons]. Examples allow sports fans to order food to be delivered to them in their seats and Disney's MyMagic+ bracelet.
+[How venues are improving the customer experience with beacon technology][beacons]. Examples allow sports fans to order food to be delivered to them in their seats and Disney's MyMagic+ bracelet.
 
 [beacons]:https://econsultancy.com/blog/66510-amplifying-the-customer-experience/?utm_source=heuro.net&utm_medium=email
 
@@ -96,11 +96,11 @@ New [global research from SDL][cxfall] has revealed insights into customer exper
 
 [cxfall]:http://www.sdl.com/ilp/cxc/rules-of-customer-experience.html
 
-[Are Wearables the next in-store shopping buddies][wearbuddy]? April 2015 research by PowerReviews, 30% of US smartphone owners owned or planned to purchase a wearable device in the next 12 months. Among this group, 82% wanted such devices to enhance their in-store experience, and nearly half wanted to leverage wearables to save time when shopping.
+[Are Wearables the next in-store shopping buddies][wearbuddy]? April 2015 research by PowerReviews found 30% of US smartphone owners owned or planned to purchase a wearable device in the next 12 months. Among this group, 82% wanted such devices to enhance their in-store experience, and nearly half wanted to leverage wearables to save time when shopping.
 
 [wearbuddy]:http://www.emarketer.com/Article.aspx?R=1012544/?utm_source=heuro.net&utm_medium=email
 
-[Lessons from someone who's done 10 jobs-to-be-done interviews][jtbd-int]. Insights shared include correct preparation, the requirement to interview a lot and the analysis process.
+[Lessons from someone who's done a hundred jobs-to-be-done interviews][jtbd-int]. Insights shared include correct preparation, the requirement to interview a lot and the analysis process.
 
 [jtbd-int]:http://www.normative.stfi.re/100-jobs-done-interviews-heres-learned/?utm_source=heuro.net&utm_medium=email
 

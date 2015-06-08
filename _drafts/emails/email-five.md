@@ -60,6 +60,8 @@ http://greycroft.com/how-to-break-through-online-video-clutter/
 
 http://blog.newscred.com/article/ze-frank-the-mad-science-behind-buzzfeeds-viral-videos
 
+https://moz.com/blog/generate-content-ideas-using-buzzsumo-and-apis
+
 ***
 
 ## Technology

@@ -1,3 +1,5 @@
+http://www.alexandercowan.com/tutorial-personas-problem-scenarios-user-stories/
+
 female, 29, engaged, pinterest wedding boards, buys from warby parker
 
 male 19, gamer, reddit, uni student

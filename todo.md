@@ -14,6 +14,8 @@
 
     - build up engagement on quora: https://blog.bufferapp.com/quora-marketing
 
+    - templates (headlines): https://blog.bufferapp.com/social-media-templates
+
     - Feedly http://feedly.com/publishers.html
 
     - SEO:

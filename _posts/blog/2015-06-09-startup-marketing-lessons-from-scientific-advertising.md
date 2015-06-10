@@ -2,29 +2,35 @@
 layout: post
 title: Startup marketing lessons from scientific advertising
 categories: blog
-description: In this post we'll go through the lessons startup marketer's can glean from a 92 year old book.
+description: Everything old is new - lessons from a 92 year old book.
 ---
 
-Claude Hopkins was responsible for marketing innovations such as split testing and coupons. In 1923 he wrote the hugely influential [Scientific Advertising][sci-ad-book]. [David Ogilvy][oglivy] wrote that "Nobody should be allowed to have anything to do with advertising until he has read this book seven times. It changed the course of my life." The book still bears many lessons for today's modern marketers.
+In 1923, Claude Hopkins, the man behind innovations like coupons and split testing wrote the hugely influential [Scientific Advertising][sci-ad-book]. [David Ogilvy's][oglivy] response was that "nobody should be allowed to have anything to do with advertising until he has read this book seven times. It changed the course of my life." And with an endorsement like that, it's worth unearthing some of its key lessons for today's modern marketers.
 
 [oglivy]:http://www.amazon.com/Ogilvy-Advertising-David/dp/039472903X/?utm_source=heuro.net&utm_medium=email
 [sci-ad-book]:http://www.amazon.com/Scientific-Advertising-Claude-Hopkins/dp/1603866361/ref=sr_1_1?ie=UTF8&qid=1433127326&sr=8-1&keywords=Scientific+Advertising+Claude+C.+Hopkins/?utm_source=heuro.net&utm_medium=blog
 
 ***
 
-## Understand the job-to-be-done
+## Lesson 1: understand the job-to-be-done
 
 {% image science_advertising/jtbd_timeline.png %}
 
-<blockquote>There is nearly always something impressive which others have not told. We must discover it. We must have a seeming advantage. People don't quit habits without reason.</blockquote>
+<blockquote>
+  <p>There is nearly always something impressive which others have not told. We must discover it. We must have a seeming advantage. People don't quit habits without reason.</p>
+  <footer>Claude Hopkins</footer>
+</blockquote>
 
-Changing people's behaviour, getting them to purchase your product, is hard. To do so your product needs to be positioned to solve a true need they have. Hopkins focussed on identifying the consumer's unique buying motivator and then used the motivator to change people's behaviour.
+Our products need to be perceived as solving a true customer need. But changing people's behaviour, and getting them to purchase your product, is not easy. Hopkins' approach centres around identifying the customer's unique buying motivator, and using that motivator to influence people's behaviour.
 
-Too many products are released to the world and fall flat because their positioning is fundamentally incorrect. They are designed by internal committee and solving a problem no one has.
+Too often, we see products fall flat because their positioning is fundamentally incorrect. These products are often designed by internal committee and seek to solve a 'problem' no one actually has.
 
-<blockquote>The reason for most of the non-successes in advertising is trying to sell people what they do not want.</blockquote>
+<blockquote>
+  <p>The reason for most of the non-successes in advertising is trying to sell people what they do not want.</p>
+  <footer>Claude Hopkins</footer>
+</blockquote>
 
-In order to marry product development with customer needs Clayton Christensen developed the [jobs-to-be-done][jtbd-article] framework. Jobs-to-be-done is designed to uncover the causal mechanism behind a purchase decision. It explains why chocolates and flowers compete with each other during Valentine's Day - both products are being hired to demonstrate affection. By understanding the causal driver behind a purchase decision you fundamentally change your product development prioritisation, market placement, messaging and design.
+In order to marry product development with customer needs Clayton Christensen developed the [jobs-to-be-done][jtbd-article] framework. Jobs-to-be-done leapfrogs off Hopkins' premise in the sense that it is designed to uncover the causal mechanism behind a purchase decision. For example, it explains why chocolates and flowers compete with each other on Valentine's Day - both products are hired to demonstrate affection. By understanding the causal driver behind a purchase decision, we can adjust our product development prioritisation, market placement, messaging and design.
 
 **First steps:** learn the jobs-to-be-done framework from [jobstobedone.org][jtbd-org]. The site, blog, podcast and resources have built on Christensen's original work to form a robust methodology. They even have an [online course][jtbd-mooc].
 
@@ -35,13 +41,18 @@ In order to marry product development with customer needs Clayton Christensen de
 
 ***
 
-## Seek customer feedback
+## Lesson 2: seek customer feedback
 
 {% image science_advertising/validation_board.png %}
 
-<blockquote>Some advertising men go out in person and sell to people before they plan to write an ad. One of the ablest of them has spent weeks on one article, selling from house to house. In this way they learn the reactions from different forms of argument and approach. They learn what possible buyers want and the factors which don't appeal. It is quite customary to interview hundreds of possible customers.</blockquote>
+<blockquote>
+  <p>
+    Some advertising men go out in person and sell to people before they plan to write an ad. One of the ablest of them has spent weeks on one article, selling from house to house. In this way they learn the reactions from different forms of argument and approach. They learn what possible buyers want and the factors which don't appeal. It is quite customary to interview hundreds of possible customers.
+  </p>
+  <footer>Claude Hopkins</footer>
+</blockquote>
 
-The larger, more diverse and independent your feedback, the more accurate it will be. Such was James Surowiecki's argument in [The Wisdom of Crowds][wisdom-crowds]. In order to engage with customers you need to "get out of the building." First coined by [Steve Blank][sblank] in [The Four Steps to the Epiphany][4steps], this term is an insightful acknowledgment that products are built for people. So if you build a product, you need to "get out of the building" and talk to the people who will be using your product. If you don't take the time to understand what people want, your product will be useless.
+The larger, more diverse and independent our feedback, the more accurate it will be. Such was James Surowiecki's argument in [The Wisdom of Crowds][wisdom-crowds]. In order to engage with customers we need to "get out of the building." Coined by [Steve Blank][sblank] in [The Four Steps to the Epiphany][4steps], this term is an insightful acknowledgment that products are in fact built for people. So if we build a product, we need to "get out of the building" and talk to the people who will be using our product. If we don't take the time to understand what customers want, our product will be useless.
 
 Blank's former student, [Eric Ries][eries] built on Blank's work with [The Lean Startup][leansu]. Within the lean startup, product development cycles are shortened through "iterative learning" a process whereby product development is tested incrementally and iteratively with customers in the real world.
 
@@ -56,21 +67,24 @@ Blank's former student, [Eric Ries][eries] built on Blank's work with [The Lean 
 
 ***
 
-## Optimise based on outcomes
+## Lesson 3: optimise based on outcomes
 
-<blockquote>Scientific advertising is impossible without [knowing your results]. So is safe advertising. So is maximum profit. Groping in the dark in this field has probably cost enough money to pay the national debt.</blockquote>
+<blockquote>
+  <p>Scientific advertising is impossible without [knowing your results]. So is safe advertising. So is maximum profit. Groping in the dark in this field has probably cost enough money to pay the national debt.</p>
+  <footer>Claude Hopkins</footer>
+</blockquote>
 
-You can't improve if you don't know what you're improving towards. Having a clear set of metrics that drive your behaviour is critical to improving your efforts. To do this, you need good metrics to guide you. In [Lean Analytics][lean-analytics] a good metric is defined as being:
+We can't improve if we don't know what we're improving towards. And having a clear set of metrics is critical to improving our decisions and behaviour. But to do this, we need to get some good metrics in place. In [Lean Analytics][lean-analytics] a good metric is defined as being:
 
 * **Comparative:** the metric can be compared with and sliced by different dimensions such as time or user segments
 
-* **Understandable:** a good metric is intuitive and easily discussed such as a customer's lifetime value, the cost to acquire a customer or the monthly customer churn rate
+* **Understandable:** is intuitive and easily discussed, like a customer's lifetime value, the cost to acquire a customer or the monthly customer churn rate
 
-* **A ratio or rate:** it's much more helpful to know the number of customers churning per month over several years over the total number of customers that have churned, ratios give you insight into velocity and are inherently comparative.
+* **A ratio or rate:** it's much more helpful to know the number of customers churning per month, over several years, over the total number of customers that have churned. Ratios are inherently comparative and give us insight into velocity.
 
-Most importantly, good metrics enable you to change how you behave. There's no point measuring something unless it's going to drive your behaviour. In other words, drop the vanity metrics.
+But perhaps most importantly, good metrics enable us to change how we behave. There's no point measuring something unless it's going to drive our behaviour. In other words: drop the vanity metrics!
 
-In order to help focus startups on behaviour driving metrics, 500 Startups founder [Dave McClure][dm] created a presentation and framework called [Startup Metrics for Pirates][pirates]. Within the framework McClure breaks down the customer lifecycle across acquisition, activation, retention, referral and revenue categories and recommends behaviour-driving metrics be placed into each of the categories.
+In order to help focus startups on behaviour driving metrics, 500 Startups founder [Dave McClure][dm] created a presentation and framework called [Startup Metrics for Pirates][pirates]. In it, McClure breaks down the customer lifecycle across acquisition, activation, retention, referral and revenue categories and recommends placing behaviour-driving metrics into each of the categories.
 
 **First steps:** understand the principals in [Lean Analytics][lean-analytics] and [Startup Metrics for Pirates][pirates]. Identify the critical metrics to drive your marketing programme. Automate the consolidation and reporting of your datasets (website, channel reach, sales etc).
 
@@ -80,11 +94,14 @@ In order to help focus startups on behaviour driving metrics, 500 Startups found
 
 ***
 
-## Continually test in market
+## Lesson 4: continually test in market
 
-<blockquote>Almost any questions can be answered, cheaply, quickly and finally, with a test campaign. And that's the way to answer them - not by arguments around a table.</blockquote>
+<blockquote>
+  <p>Almost any questions can be answered, cheaply, quickly and finally, with a test campaign. And that's the way to answer them - not by arguments around a table.</p>
+  <footer>Claude Hopkins</footer>
+</blockquote>
 
-In Hopkins' time a marketing test would involve laboriously coding coupons or testing a message in a specific region and analysing sales impact. Today, digital mediums make it negligible to test creative variations whether they be through your website, emails, social posts or advertising buys.
+In Hopkins' time, a marketing test would involve laboriously coding coupons or testing a message in a specific region and then analysing the sales impact. Today, digital mediums make it negligible to test creative variations whether they be through your website, emails, social posts or advertising buys.
 
 Behemoths like Amazon are famous for continually testing variations on their site. In [one famous example][amazon-billion] Amazon was able to increase revenue by $2.7 billion a year based on a simple tweak to their review interface.
 
@@ -92,9 +109,9 @@ Behemoths like Amazon are famous for continually testing variations on their sit
 
 * Using your behaviour-driving metrics (read above), identify a metric you'd like to influence such as sign up conversions
 
-* Identify the point with the most influence on the metric such as a sign up page
+* Identify the point with the most influence on the metric, e.g. sign-up page
 
-* Hypothesis how the current page needs to change in order to drive an increase in conversion rates, for example, add social sign up
+* Hypothesise how the current page needs to change in order to drive an increase in conversion rates, e.g. add social sign-up
 
 * Implement your test with a multivariate testing tool like [Optimizely][optimizly] or [Website Optimizer][wso]
 

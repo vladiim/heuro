@@ -2,7 +2,43 @@ http://www.alexandercowan.com/tutorial-personas-problem-scenarios-user-stories/
 
 female, 29, engaged, pinterest wedding boards, buys from warby parker
 
+works at startup, wants to start own biz
+
 male 19, gamer, reddit, uni student
+
+***
+
+http://www2.deloitte.com/global/en/pages/about-deloitte/articles/2015-millennial-survey-press-release.html
+
+6 out of 10 millennials cited their company’s sense of purpose as part of the reason they chose their job. In the same study, just 12% identified “own personal gain” as a primary leadership priority.
+
+28% of millennials believe their talents aren’t being tapped at their current jobs
+
+***
+
+http://mashable.com/2015/06/09/post-hipster-yuccie/
+
+There’s nothing wrong with any of these people, nor their letterpress stationery. But those choices aren’t just instances of entrepreneurial spirit and business savvy. Yuccies, by my definition, are determined to define themselves not by wealth (or the rejection of it), but by the relationship between wealth and their own creativity. In other words, they want to get paid for their own ideas, rather than executing on someone else’s. they want to get paid for their own ideas, rather than executing on someone else’s.
+
+I need to be told, repeatedly and at length, that I have valuable ideas. That my talent is singular.
+
+***
+
+http://www.marketwatch.com/story/millennials-spend-more-money-in-restaurants-than-boomers-do-2015-01-30
+
+43% of every millennial food dollar is spent in restaurants, instead of at home. 
+
+***
+
+https://www.youtube.com/watch?t=196&v=LVylJLQn4vI
+
+***
+
+http://www.slideshare.net/BentleyU/preparedu-the-millennial-mind-goes-to-work-41415813
+
+66% would like to start their own businesses
+
+Strangers (or their PR people) have pitched me a yuccie storyline 200 times. This former accountant left his corporate job to pursue his true passion: making colorful socks! Letterpress stationery! Video gaming social networks! Organic vodka!
 
 ***
 

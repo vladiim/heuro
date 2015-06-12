@@ -28,3 +28,7 @@ http://www.dailyfinance.com/2015/06/02/25companies-revolutionizing-retail/
 http://www.shopify.com/blog/27719428-you-can-now-sell-on-pinterest-with-buyable-pins-and-shopify
 
 http://www.sailthru.com/marketing-blog/future-selling-fashion/
+
+http://www.fastcompany.com/3046940/most-creative-people/how-moda-operandi-is-building-the-luxury-department-store-of-the-future
+
+http://blog.custora.com/2015/06/the-fastest-growing-online-fashion-retailers-what-sets-them-apart-new-report/

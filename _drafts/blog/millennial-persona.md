@@ -1,5 +1,9 @@
 female, 29, engaged, pinterest wedding boards, buys from warby parker
 
+i waited till season x of the walking dead came out before starting so i could binge watch
+
+***
+
 male 19, gamer, reddit, uni student
 
 ***

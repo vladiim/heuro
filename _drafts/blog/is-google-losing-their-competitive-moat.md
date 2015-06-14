@@ -1,5 +1,6 @@
 Is Google losing their competitive moat?
 The increasing risks in Google's business model
+Crossing google's moat
 
 ---
 layout: post
@@ -7,6 +8,8 @@ title: xxx
 categories: blog
 description: 
 ---
+
+It's stupid (find other word) to discount a company like google however there may be evidence that their dominance in online advertising will diminish in the next decade.
 
 email to ben thompson, media ref guy for oppinions
 

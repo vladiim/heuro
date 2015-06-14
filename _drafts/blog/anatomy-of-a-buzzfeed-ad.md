@@ -1,3 +1,7 @@
+the buzzfeed effect
+
+look at buzzfeed articles that talk about a brand, then study the # of shares, brand mentions and brand search term spikes
+
 find out article shares
 
 http://www.buzzfeed.com/tahliapritchard/do-people-on-the-other-side-of-the-bridge-really-exist#.ejBnd7AwpE

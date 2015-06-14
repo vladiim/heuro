@@ -65,6 +65,10 @@ facebook owns instagram (brand), facebook (WOM) and whatsapp / messanger (CRM) a
 
 facebook will own identity
 
+http://www.businessinsider.com/hedge-fund-managers-are-obsessed-with-this-presentation-on-the-biggest-winners-and-losers-in-digital-2014-9?op=1
+
+http://www.roimarketing.co.nz/articles/winners-and-losers-in-a-digital-age/
+
 ***
 
 ## Search behaviour is changing

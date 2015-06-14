@@ -1,5 +1,12 @@
 http://www.alexandercowan.com/tutorial-personas-problem-scenarios-user-stories/
 
+
+http://m.fastcompany.com/3046989/what-millennial-employees-really-want?utm_source=nextdraft&utm_medium=email
+
+http://nymag.com/scienceofus/2015/06/millennials-parents-cant-stop-meddling.html
+
+***
+
 female, 29, engaged, pinterest wedding boards, buys from warby parker
 
 i waited till season x of the walking dead came out before starting so i could binge watch

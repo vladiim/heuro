@@ -1,4 +1,16 @@
-/?utm_source=heuro.net&utm_medium=email
+---
+layout: post
+title: The rise of adblockers, viral science & the latest mobility report
+categories: email
+---
+
+## From the blog
+
+Everything old is new - I explore [lessons for startup marketers from a 92 year old book][startupm].
+
+[startupm]:http://www.heuro.net/blog/startup-marketing-lessons-from-scientific-advertising/?utm_source=heuro.net&utm_medium=email
+
+***
 
 ## Trends
 
@@ -54,7 +66,7 @@ Online publishing’s dominant business model, free content in exchange for ads,
 
 [apploss]:http://andrewchen.co/new-data-shows-why-losing-80-of-your-mobile-users-is-normal-and-that-the-best-apps-do-much-better/?utm_source=heuro.net&utm_medium=email
 
-"The difference between apps that sell for millions of dollars and apps that never see a dime can often be narrowed down to a single point: How well their developers and marketers understand the value of a customer." [Using monetization, retention and virality to measure mobile customer lifetime value][mobilemeasure].
+Still on smartphone apps - "the difference between apps that sell for millions of dollars and apps that never see a dime can often be narrowed down to a single point: How well their developers and marketers understand the value of a customer." [Using monetization, retention and virality to measure mobile customer lifetime value][mobilemeasure].
 
 [mobilemeasure]:http://www.apptamin.stfi.re/blog/lifetime-value-mobile-customer/?utm_source=heuro.net&utm_medium=email
 
@@ -80,28 +92,26 @@ How [iterating and testing different email designs][buzznews] allowed BuzzFeed t
 
 To [break through the online video clutter][onelinevidclutter] brands need to know their customer, have a distinct voice, produce high quality content, create communities, understand omni-channel distribution and have solid data capabilities.
 
-[onelinevidclutter]:http://greycroft.com/how-to-break-through-online-video-clutter/
+[onelinevidclutter]:http://greycroft.com/how-to-break-through-online-video-clutter/?utm_source=heuro.net&utm_medium=email
 
 Still on videos, NewsCred looks into the [mad science behind BuzzFeed's viral videos][buzzfeedvid].
 
-[buzzfeedvid]:http://blog.newscred.com/article/ze-frank-the-mad-science-behind-buzzfeeds-viral-videos/0b8df010dec55f87b2e0c26e6893f6ae
+[buzzfeedvid]:http://blog.newscred.com/article/ze-frank-the-mad-science-behind-buzzfeeds-viral-videos/0b8df010dec55f87b2e0c26e6893f6ae/?utm_source=heuro.net&utm_medium=email
 
 Moz outlines a [systematic process to generate content ideas using Buzzsumo as a research tool][mozbuzz].
 
-[mozbuzz]:https://moz.com/blog/generate-content-ideas-using-buzzsumo-and-apis
+[mozbuzz]:https://moz.com/blog/generate-content-ideas-using-buzzsumo-and-apis/?utm_source=heuro.net&utm_medium=email
 
 An obsession with content marketing is tempting some brands to make a lot of noise, even when they have very little to say. Welcome to the [content obesity epidemic][content-obesity].
 
-[content-obesity]:http://www.brandrepublic.com/article/1348565/bad-strategy-creating-content-obesity-epidemic
-
-***
-
-## Technology
+[content-obesity]:http://www.brandrepublic.com/article/1348565/bad-strategy-creating-content-obesity-epidemic/?utm_source=heuro.net&utm_medium=email
 
 ***
 
 ## Tool of the week
 
-https://parse.com/plans
+[Parse][parse] allows you to focus on app UX by handling the database, push notifications and analytics centrally. It works across devices and operating systems.
+
+[parse]:https://parse.com/?utm_source=heuro.net&utm_medium=email
 
 ***

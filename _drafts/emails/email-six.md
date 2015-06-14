@@ -21,12 +21,16 @@ https://econsultancy.com/reports/a-marketers-guide-to-virtual-reality/?utm_mediu
 Putting Smart Watch Adoption in Perspective
 http://www.emarketer.com/Article.aspx?R=1012595
 
+http://contently.com/strategist/2015/04/29/buzzfeed-just-cracked-the-code-on-how-social-content-spreads-and-its-a-big-deal/?utm_source=TCSdaily&utm_medium=email&utm_campaign=buzzfeed_pound
+
 ***
 
 ## Customer obsessed
 
 Behavioural economics is effective
 http://www.warc.com/Content/News/Behavioural_economics_is_effective__.content?ID=00be1349-4c3d-4b81-81e3-31f01402d325
+
+https://medium.com/@danrschlosser/linkedin-dark-patterns-3ae726fe1462
 
 ***
 
@@ -37,6 +41,8 @@ http://tomtunguz.com/service-now-churn
 
 Picasso = Genius: This algorithm can judge “creativity” in art as well as the experts
 http://qz.com/425662/picasso-genius-this-algorithm-can-judge-creativity-in-art-as-well-as-the-experts/
+
+http://www.l2inc.com/dos-and-donts-of-data-capture/2015/blog
 
 ***
 

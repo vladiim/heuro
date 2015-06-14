@@ -1,8 +1,18 @@
+In mathematics and computer science, an algorithm (Listeni/ˈælɡərɪðəm/ al-gə-ri-dhəm) is a self-contained step-by-step set of operations to be performed. Algorithms exist that perform calculation, data processing, and automated reasoning. https://en.wikipedia.org/wiki/Algorithm
+
+***
+
+# RFM
+
+http://analyzecore.com/2015/02/16/customer-segmentation-lifecycle-grids-with-r/
+
 start with RFM, show with RFM in R post
 three metrics: purchase recency, frequency of purchase, and monetary value. By applying linear regression analysis to this data, marketers have tried to pinpoint the likelihood that a segment or cohort of customers would take a specific action (such as making a purchase)
 http://www.sailthru.com/marketing-blog/predictive-intelligence-transforms-marketing-strategy/
 
 Depending on the predictions you are looking to make, these time series may be attached to any of a variety of variables, such as the number of messages opened per day, clicks and even sign-up times. To be accurate, a predictive algorithm needs to look at dozens of these variables – again, over time – amassing hundreds of data points per user.
+
+***
 
 http://rayli.net/blog/data/top-10-data-mining-algorithms-in-plain-english/
 

@@ -1,6 +1,12 @@
 # To do
 
+**change key image to have black opacity!!!!**
+
+***
+
 * Tracking
+
+    - set up utm source for rss feed
 
     - set up parse for dashboards: https://parse.com, http://www.sitepoint.com/build-custom-user-analytics-parse
 

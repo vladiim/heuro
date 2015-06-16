@@ -22,7 +22,7 @@ sass:
 
 exclude: [todo.md, publish.sh, compass.rb, config.ru, Gemfile, Guardfile,
   Gemfile.lock, Procfile, Rakefile, README.md, sass, unicorn.rb, vendor, bin,
-  s3_website.yml, .gitignore, .env]
+  s3_website.yml, .gitignore, .env, analysis]
 
 permalink: :categories/:title
 

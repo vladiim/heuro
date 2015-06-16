@@ -23,6 +23,8 @@ http://www.economistgroup.com/leanback/consumers/michael-linton-cmo-farmers-insu
 Putting Smart Watch Adoption in Perspective
 http://www.emarketer.com/Article.aspx?R=1012595
 
+http://www.geekfill.com/2013/02/12/best-reply-to-a-relationship-complain-ever-this-is-genius/
+
 http://contently.com/strategist/2015/04/29/buzzfeed-just-cracked-the-code-on-how-social-content-spreads-and-its-a-big-deal/?utm_source=TCSdaily&utm_medium=email&utm_campaign=buzzfeed_pound
 
 ***

@@ -76,31 +76,35 @@ Aligning the funnel with future potential advertising revenue we can see a lot o
 
 [kpcb]:http://www.kpcb.com/internet-trends
 
-facebook owns instagram (brand), facebook (WOM) and whatsapp / messanger (CRM) and they'll tie this to identity - tie to prof scott galloway
-
-facebook will own identity
-
-http://www.businessinsider.com/hedge-fund-managers-are-obsessed-with-this-presentation-on-the-biggest-winners-and-losers-in-digital-2014-9?op=1
-
-http://www.roimarketing.co.nz/articles/winners-and-losers-in-a-digital-age/
-
 ***
 
 ## Search behaviour is changing
 
-spotlight - piracy, ad free, can't search apps, iphone users are the most affluent, most likely to spend money online, most important for advertisers
+{% image google_moat/fragmentation.png %}
 
-[applesearch]:https://www.linkedin.com/pulse/apple-launching-search-engine-destroy-google-jason-calacanis
+Google's strength and appeal has always been its breadth. Got a question, any question - Google it. However, as we gain new computing contexts our requirements for search is evolving. Within many of the new contexts, Google is loosing search dominance.
 
-safari is the default browser use vs chrome on iphone
+Many of these new contexts exist because of smartphones. Having a computing device with us all the time naturally changes how and when we search for information.
 
-Facebook searches
+When it comes to mobile search, Google isn't dominating. They're getting less profit from a decreasing share of the market. In their [Q3 2014 earnings announcementt][googleadrate], Google reported a 24% increase in paid clicks and a 4% reduction in the advertising rate. The decreased rate being due to a lower yield from mobile search. Google's share of the mobile search market has also been [deteriorated by an increasingly fragmented mobile search market][mobilesearchshift].
 
-amazon searches
+A critical component to the mobile experience is apps and Google can't provide in-app search results for the iPhone. Why is that important? Because iPhone users are the most valuable mobile users - they're the ones advertisers want to target. [Jason Calacanis recently argued][applesearch] that Apple has launched a search engine that's growing at 3% a quarter. It can search all your apps and you're already using it (if you have an iPhone), meet "Spotlight." While Google increasingly tries to build a profile around our search behaviour and sell it back to advertisers, Apple is strictly keeping user information private.
+
+The natural of retail search is also shifting away from Google. In [Q3 2014 39% of U.S. online shoppers began researching purchases on Amazon][forrestersearch] and only 11% started on a search engine. If Google directly tackles Amazon they may alienate their biggest client (2013), Amazon spent $158 million on Google PPC in 2013.
+
+[applesearch]:http://calacanis.com/2015/06/09/apple-launching-search-engine-to-destroy-google-and-youre-already-using-it/
+
+[forrestersearch]:http://www.wsj.com/articles/google-preps-shopping-site-to-challenge-amazon-1418673413
+
+[amazonsearch]:http://adage.com/article/digital/amazon-tops-list-google-s-25-biggest-search-advertisers/294922/
+
+[googleadrate]:http://marketrealist.com/2014/11/google-looking-make-product-changes-mobile-search/
+
+[mobilesearchshift]:http://www.emarketer.com/Article/US-Mobile-Ad-Dollars-Shift-Search-Apps/1010898
 
 ***
 
-## Video
+## Online video is no longer a YouTube only sport
 
 youtube is the world's 2nd biggest search engine - doesn't matter
 

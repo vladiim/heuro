@@ -14,6 +14,8 @@ http://blog.custora.com/2015/06/the-fastest-growing-online-fashion-retailers-wha
 
 https://econsultancy.com/reports/a-marketers-guide-to-virtual-reality/?utm_medium=feeds&utm_source=reports
 
+http://www.economistgroup.com/leanback/consumers/michael-linton-cmo-farmers-insurance/
+
 ***
 
 ## Channels
@@ -32,6 +34,8 @@ http://www.warc.com/Content/News/Behavioural_economics_is_effective__.content?ID
 
 https://medium.com/@danrschlosser/linkedin-dark-patterns-3ae726fe1462
 
+http://foldingburritos.com/kano-model/
+
 ***
 
 ## Data-driven
@@ -43,6 +47,8 @@ Picasso = Genius: This algorithm can judge “creativity” in art as well as th
 http://qz.com/425662/picasso-genius-this-algorithm-can-judge-creativity-in-art-as-well-as-the-experts/
 
 http://www.l2inc.com/dos-and-donts-of-data-capture/2015/blog
+
+https://hbr.org/2015/06/simplify-your-analytics-strategy
 
 ***
 

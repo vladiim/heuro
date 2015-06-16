@@ -21,7 +21,7 @@ though it's constantly innovating with moonshot projects like car,  with new pro
 
 ## Online advertising is no longer dominated by search
 
-Google maintains more than [60% of worldwide market share][googleshare]. Their dominance in search has enabled them to capture the lion's share of the [$50 billion per year][pwcinternetads] search revenue. Search has historically been far more profitable than display advertising at [$34 billion per year][pwcinternetads], therefore Google has dominated the most lucrative slice of the online advertising pie. It's critical to note that search only covers one aspect of the purchasing funnel, intent.
+Google maintains more than [60% of worldwide search market share][googleshare]. Their dominance in search has enabled them to capture the lion's share of the [$50 billion per year][pwcinternetads] search revenue. Search has historically been far more profitable than display advertising at [$34 billion per year][pwcinternetads], therefore Google has dominated the most lucrative slice of the online advertising pie. It's critical to note that search only covers one aspect of the purchasing funnel, intent.
 
 In [Peak Google][feedads], [Ben Thompson][benthom] argues that Google's dominance of the $50 billion search pie is increasingly being eclipsed by total online advertising which is now at [$545 billion (2014)][2014rev].
 
@@ -46,23 +46,35 @@ Thompson furthers his argument by demonstrating cases such as IBM (mainframes) e
 
 ## Search is only a small proportion of the purchase funnel
 
--- mery meeker slide
+{% image google_moat/funnel.png %}
 
-funnel (stage / customer need) - awareness (affiliation with a brand), interest / intent (active research to inform my purchase), purchase (fulfilment), ownership (lifecycle management)
+Search captures only one portion of the purchase funnel - intent. During this phase a person has already made up their mind that they need a specific service, brand or product. And as such are now ready to buy and want to inform themselves with more information about their purchase decision.
 
-Search captures one portion of the purchase funnel - intent. During this phase a person has already made up their mind that they need a specific service, brand or product. And as such are now ready to buy and want to inform themselves with more information about their purchase decision.
+Traditionally, marketers have focussed solely on the awareness portion of the purchase funnel. By doing so marketers carve top-of-mind awareness of their brand with consumers. To achieve awareness at scale marketers leverage creative executions through traditional media such as TV, outdoor, radio and print. Online display has been a poor cousin to these mediums in terms of its impact on consumers and this is reflected in display's meagre share of advertising wallets and creative resources.
 
-Traditionally, marketers have focussed on the awareness portion of the purchase funnel. By doing so marketers carve top-of-mind awareness of their brand with consumers. To achieve awareness at scale marketers leverage strong creative executions through traditional media such as TV, outdoor, radio and print. Online display has been a poor cousin to these mediums in terms of its impact on consumers and this is reflected in display's meagre share of advertising wallets and creative resources.
+{% image google_moat/kpcb.png %}
 
-The way we become aware of and affiliate with brands is changing. We discover new products and ideas through Instagram and people actively recommend products they love through Facebook and Twitter. All of these properties live online and have a powerful brand mechanism - the newsfeed.
+[Image source][kpcb].
 
-we can see this change in awareness in consumer tech as companies grow to hundreds of millions of active users overnight with no traditional advertising. 
+The way we become aware of and affiliate with brands is changing. The biggest consumer tech products build hundreds of millions of active daily users within a few years and without traditional advertising. We spend more time on social networks and less time watching TV. We discover new products and ideas through Instagram and people actively recommend products they love through Facebook and Twitter. Strong brands are less important to strong products with engaged communities. As the medium for discovering, discussing and affiliating with new brands shifts to online mediums expect the advertising budgets to move there also.
 
-Given the importance of word-of-mouth (WOM) advertising in a socially connected world it's increasingly critical for businesses to maintain a strong relationship with customers post purchase. - talk about the growth of crm - move into new crm paradigm, chat
+{% image google_moat/crm.png %}
 
- word-of-mouth is increasingly important in discovery / affiliation - everyone of us is a channel. products are now more important than brands (scott galloway)
+[Image source][gartnercrm].
 
-The dominant amount of resources spent by the marketing and advertising profession has been on building brands. A strong brand leads to top-of-mind awareness. This ownership brand's have of people's minds means when a consumer is in the toothpaste section of a supermarket aisle they'll pick up Colgate without consciously making a decision. Traditionally, online advertising (read display ads and Google) has been poor at building brands. Television as a medium has been able to keep its advertising revenue due to this fact.
+Given the importance of word-of-mouth (WOM) advertising in a socially connected world it's increasingly critical for businesses to maintain a strong relationship with customers post purchase. The more our existing customers engage with us, the more likely they are to repurchase and recommend us. The increased importance of post-purchase customer engagement has led to the creation and growth of massive market segments such as CRM, which Gartner predicts will be worth [$36.5 billion by 2017][gartnercrm].
+
+As I argued in [Messenger - the next evolution of CRM][futurecrm], there is still much potential for innovation within CRM. In particular, messaging services such as WhatsApp and Facebook Business Messenger could provide the perfect platform for companies to continue conversations with customers throughout the purchase lifecycle.
+
+Aligning the funnel with future potential advertising revenue we can see a lot of potential for Facebook to be the owner of the top and bottom of the online advertising funnel.
+
+{% image google_moat/funnel_fb.png %}
+
+[futurecrm]:http://www.heuro.net/blog/the-future-of-crm/
+
+[gartnercrm]:http://www.forbes.com/sites/louiscolumbus/2013/06/18/gartner-predicts-crm-will-be-a-36b-market-by-2017/
+
+[kpcb]:http://www.kpcb.com/internet-trends
 
 facebook owns instagram (brand), facebook (WOM) and whatsapp / messanger (CRM) and they'll tie this to identity - tie to prof scott galloway
 

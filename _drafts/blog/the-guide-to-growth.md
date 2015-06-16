@@ -1,0 +1,1 @@
+look through all articles and explain like: http://foldingburritos.com/kano-model/

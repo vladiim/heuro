@@ -1,19 +1,26 @@
 http://www.alexandercowan.com/tutorial-personas-problem-scenarios-user-stories/
 
-
 http://m.fastcompany.com/3046989/what-millennial-employees-really-want?utm_source=nextdraft&utm_medium=email
 
 http://nymag.com/scienceofus/2015/06/millennials-parents-cant-stop-meddling.html
 
 ***
 
-female, 29, engaged, pinterest wedding boards, buys from warby parker
+female, 29, engaged, pinterest wedding boards, buys from warby parker, australian living in london
 
 i waited till season x of the walking dead came out before starting so i could binge watch
 
 works at startup, wants to start own biz
 
 male 19, gamer, reddit, uni student
+
+***
+
+http://www.bloomberg.com/news/articles/2015-06-11/why-millennials-don-t-live-where-you-d-expect-them-to?cmpid=twtr1
+
+Young people disagreed with older generations about the value of more esoteric facets of life, such as the weather. Millennials said climate was hugely important in their decisions about where to live, while people age 35 and up were much less moved by it. 
+
+Only 21 percent of millennials, those age 18 to 34, said they would first pick a place to live, and then find a job. The same share of young people said they’d choose a job and move wherever necessary to get paid.
 
 ***
 

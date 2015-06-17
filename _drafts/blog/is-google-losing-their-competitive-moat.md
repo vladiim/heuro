@@ -90,6 +90,9 @@ When it comes to mobile search, Google isn't dominating. They're getting less pr
 
 A critical component to the mobile experience is apps and Google can't provide in-app search results for the iPhone. Why is that important? Because iPhone users are the most valuable mobile users - they're the ones advertisers want to target. [Jason Calacanis recently argued][applesearch] that Apple has launched a search engine that's growing at 3% a quarter. It can search all your apps and you're already using it (if you have an iPhone), meet "Spotlight." While Google increasingly tries to build a profile around our search behaviour and sell it back to advertisers, Apple is strictly keeping user information private.
 
+from: http://us6.campaign-archive2.com/?u=b98e2de85f03865f1d38de74f&id=9b3763259a&e=36914579f0
+Within iOS, Apple has added deep linking and app search. A link will load the content within the app if it's installed and on the web if not, and all content can be indexed and exposed within the local search. Apple showed an example of messages within LinkedIn and listings in AIrBnB both showing up in search. This is a very obvious move against web  search: both Apple and Google are chiselling away at the list of ten blue links, trying to move the results away from the web and also trying to suggest those results before you ask. 
+
 The natural of retail search is also shifting away from Google. In [Q3 2014 39% of U.S. online shoppers began researching purchases on Amazon][forrestersearch] and only 11% started on a search engine. If Google directly tackles Amazon they may alienate their biggest client (2013), Amazon spent $158 million on Google PPC in 2013.
 
 [applesearch]:http://calacanis.com/2015/06/09/apple-launching-search-engine-to-destroy-google-and-youre-already-using-it/

@@ -8,59 +8,97 @@ categories: email
 
 ## Trends
 
-http://www.mytotalretail.com/article/inside-targets-digital-revolution
+A must read for anyone working at an old company that doesn't quite "get" digital. After a massive data breach leading to the firing of their CEO and a recent website outage, [Target is refocusing on digital][targetdigi]. It's digital sales went up 40% in Q4 2014 and has said they'll spend $1 billion on digital this fiscal year.
 
-http://blog.custora.com/2015/06/the-fastest-growing-online-fashion-retailers-what-sets-them-apart-new-report/
+[targetdigi]:http://www.mytotalretail.com/article/inside-targets-digital-revolution/?utm_source=heuro.net&utm_medium=email&utm_campaign=email_6
 
-https://econsultancy.com/reports/a-marketers-guide-to-virtual-reality/?utm_medium=feeds&utm_source=reports
+US e-commerce is growing fast, with revenue up 14.9% in 2014 but some retailers are growing incredibly fast. Custora's produced a [high-growth fashion index report][fashionretailers] analyzing 20+ fashion and lifestyle retailers that grew their online revenue and transactions the most in 2014.
 
-http://www.economistgroup.com/leanback/consumers/michael-linton-cmo-farmers-insurance/
+[fashionretailers]:http://blog.custora.com/2015/06/the-fastest-growing-online-fashion-retailers-what-sets-them-apart-new-report/?utm_source=heuro.net&utm_medium=email&utm_campaign=email_6
+
+Wearable technology startup founder and my old boss - Martin Talks has produced [a marketer's guide to virtual reality][econguide]. In it he explores how VR enhances product experiences, commercial opportunities, retail, events and market research.
+
+[econguide]:https://econsultancy.com/reports/a-marketers-guide-to-virtual-reality/?utm_source=heuro.net&utm_medium=email&utm_campaign=email_6
+
+"You have more tools than you can use and more data than you can use. And you’re trying to do two things: deliver the company’s current financials while protecting the brand and the company’s future financials." The Economist explores [the challenges facing CMO's today][echallenges].
+
+[echallenges]:http://www.economistgroup.com/leanback/consumers/michael-linton-cmo-farmers-insurance/?utm_source=heuro.net&utm_medium=email&utm_campaign=email_6
+
+From shower gel to startups. Unlilever's new Foundry50 has vetted 3,000 startups in marketing, research and data to [identify their top 50][unilever]. "[The Foundry is] really more of a conduit linking Unilever brands with startups."
+
+[unilever]:http://adage.com/article/cmo-strategy/unilever-s-foundry50-brings-ad-tech-bounty-cannes/299020/?utm_source=heuro.net&utm_medium=email&utm_campaign=email_6
 
 ***
 
 ## Channels
 
-Putting Smart Watch Adoption in Perspective
-http://www.emarketer.com/Article.aspx?R=1012595
+The smartphone is the defining device for digital news. There is an increasing move to online video. Facebook, WhatsApp and Instagram are playing a strengthening role in finding, discussing and sharing news. Just a handful of findings from [Reuters digital news report 2015][findings].
 
-http://www.geekfill.com/2013/02/12/best-reply-to-a-relationship-complain-ever-this-is-genius/
+[findings]:http://www.digitalnewsreport.org/survey/2015/executive-summary-and-key-findings-2015/?utm_source=heuro.net&utm_medium=email&utm_campaign=email_6
 
-http://contently.com/strategist/2015/04/29/buzzfeed-just-cracked-the-code-on-how-social-content-spreads-and-its-a-big-deal/?utm_source=TCSdaily&utm_medium=email&utm_campaign=buzzfeed_pound
+The wearable device category has all the ingredients needed to ignite a technology revolution, except one: widespread consumer interest. eMarketer puts [smart watch adoption in perspective][smartwatch]. Seemingly, the Apple Watch only has [as much consumer interest as the iPod][watchipod].
+
+[smartwatch]:http://www.emarketer.com/Article.aspx?R=1012595&utm_source=heuro.net&utm_medium=email&utm_campaign=email_6
+
+[watchipod]:http://www.google.com/trends/explore#q=apple%20watch%2C%20ipod&date=today%203-m&cmpt=q&tz=
 
 ***
 
 ## Customer obsessed
 
-Behavioural economics is effective
-http://www.warc.com/Content/News/Behavioural_economics_is_effective__.content?ID=00be1349-4c3d-4b81-81e3-31f01402d325
+The [complete guide to the Kano model][kano] will help you prioritise product development based on making your future customers happy. It is a strong systematic framework for measuring satisfaction and feature prioritisation.
 
-https://medium.com/@danrschlosser/linkedin-dark-patterns-3ae726fe1462
+[kano]:http://foldingburritos.com/kano-model/?utm_source=heuro.net&utm_medium=email&utm_campaign=email_6
 
-http://foldingburritos.com/kano-model/
+A great example of a company using its UX powers for evil. In a hunt for your email contact list LinkedIn demonstrates some seriously [dark ux patterns][linkedin].
+
+[linkedin]:https://medium.com/@danrschlosser/linkedin-dark-patterns-3ae726fe1462/?utm_source=heuro.net&utm_medium=email&utm_campaign=email_6
+
+"Ten years ago, the advertising industry didn't think about this stuff at all," said Rory Sutherland while discussing why [behavioural economics is effective][behavioral].
+
+[behavioral]:http://www.warc.com/Content/News/Behavioural_economics_is_effective__.content?ID=00be1349-4c3d-4b81-81e3-31f01402d325&utm_source=heuro.net&utm_medium=email&utm_campaign=email_6
+
+"Online shoppers increasingly expect curated experiences and great service that replicates what they can find at the best brick-and-mortar stores. Meanwhile brands are striving to drive conversion by serving up products that anticipate consumers’ needs and wants." L2 breaks down the [do's and don'ts of personalised product recommendations][dodont].
+
+[dodont]:http://www.l2inc.com/dos-and-donts-personalized-product-recommendations/2015/blog/?utm_source=heuro.net&utm_medium=email&utm_campaign=email_6
 
 ***
 
 ## Data-driven
 
-How An $11B SaaS Company Measures Churn
-http://tomtunguz.com/service-now-churn
+BuzzFeed [introduces us to POUND][buzzcontent], their proprietary tool for understanding how content spreads. The product allows BuzzFeed to understand what happens when you tweet something and a follower picks it up and shares it on Facebook, and then one of their friends posts it on a blog, and then a reader emails it to her friends. And it allows them to better do what they do best - get hundreds of millions of article views.
 
-Picasso = Genius: This algorithm can judge “creativity” in art as well as the experts
-http://qz.com/425662/picasso-genius-this-algorithm-can-judge-creativity-in-art-as-well-as-the-experts/
+[buzzcontent]:http://www.buzzfeed.com/daozers/introducing-pound-process-for-optimizing-and-understanding-n#.tbqk7gP12/?utm_source=heuro.net&utm_medium=email&utm_campaign=email_6
 
-http://www.l2inc.com/dos-and-donts-of-data-capture/2015/blog
+If you don't know your customer's upsell rate or renewal rate you may want to swot up on [how an $11b SAAS company measures churn][churn].
 
-https://hbr.org/2015/06/simplify-your-analytics-strategy
+[churn]:http://tomtunguz.com/service-now-churn/?utm_source=heuro.net&utm_medium=email&utm_campaign=email_6
+
+Picasso = Genius: [this algorithm][algo] can judge “creativity” in art as well as the experts.
+
+[algo]:http://qz.com/425662/picasso-genius-this-algorithm-can-judge-creativity-in-art-as-well-as-the-experts/
+
+HBR describes how you can [simplify your analytics strategy][hbran] by accelerating data, delegating workstreams and understanding the various paths to insight.
+
+[hbran]:https://hbr.org/2015/06/simplify-your-analytics-strategy/?utm_source=heuro.net&utm_medium=email&utm_campaign=email_6
 
 ***
 
 ## Campaigns
 
-http://contently.com/strategist/2015/06/10/how-coca-cola-journey-made-the-most-of-its-mad-men-moment-and-drew-200000-readers
+Mad Men, arguably the most popular TV show of all time, ended with a Coke ad from the 70's. Here's [how Coke swooped in on the opportunity][cokemm] to draw in 200,000 new readers.
+
+[cokemm]:http://contently.com/strategist/2015/06/10/how-coca-cola-journey-made-the-most-of-its-mad-men-moment-and-drew-200000-readers/?utm_source=heuro.net&utm_medium=email&utm_campaign=email_6
+
+http://www.adweek.com/news/technology/here-are-12-best-facebook-marketing-campaigns-last-year-165332/?utm_source=heuro.net&utm_medium=email&utm_campaign=email_6
 
 https://www.youtube.com/watch?v=y0ERkrP4KaE
 
 https://youtube10.withgoogle.com/
+
+Insidious movie site, scare yourself silly: http://www.insidious-movie.net/entertheroom/
+
+Call of Duty – "CODnapped" https://vimeo.com/129195854
 
 ***
 

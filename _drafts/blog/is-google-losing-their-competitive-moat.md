@@ -2,20 +2,24 @@ Is Google losing their competitive moat?
 The increasing risks in Google's business model
 Crossing google's moat
 
----
-layout: post
-title: xxx
-categories: blog
-description: 
----
-
-It's stupid (find other word) to discount a company like google however there may be evidence that their dominance in online advertising will diminish in the next decade.
-
 email to ben thompson, media ref guy for oppinions
 
 try to ad tweets about people talking about something in post
 
-though it's constantly innovating with moonshot projects like car,  with new products it has a one-dimensional business model
+---
+layout: post
+title: xxx
+categories: blog
+description: We explore the factors that may diminish Google's dominance in online advertising
+---
+
+Warren Buffet [first coined][ecmoat] the term "economic moat" to describe a businesses ability to maintain long-term competitive advantages over the rest of its market sector. When it comes to online advertising no one can argue that Google has had a strong economic moat for sometime.
+
+Though Google is constantly innovating with moonshot projects like the self-driving car, Google Glass and Project Loon, it's business model has always been one-dimensional. Google gets to work on interesting, world changing products because their search business is wildly profitable.
+
+The effectiveness of their search business has meant Google has been the major player in online advertising for the last decade. However, several macro changes in online behaviour and technology might already be showing evidence that Google's dominance in online advertising may diminish in the next decade.
+
+[ecmoat]:http://www.investopedia.com/ask/answers/05/economicmoat.asp/?utm_source=heuro.net&utm_medium=blog&utm_campaign=googleMoat
 
 ***
 
@@ -32,15 +36,15 @@ In [Peak Google][feedads], [Ben Thompson][benthom] argues that Google's dominanc
 
 Thompson furthers his argument by demonstrating cases such as IBM (mainframes) eclipsed by Microsoft (PCs) and Microsoft (PCs) by Apple (smartphone profit) and Google (smartphone share). To date Google's only real competition in online advertising has been banner ads however the rise of native advertising which will capture increasing portions of the purchasing funnel.
 
-[benthom]:https://twitter.com/monkbent
+[benthom]:https://twitter.com/monkbent/?utm_source=heuro.net&utm_medium=blog&utm_campaign=googleMoat
 
-[pwcinternetads]:http://www.pwc.com/gx/en/global-entertainment-media-outlook/segment-insights/internet-advertising.jhtml
+[pwcinternetads]:http://www.pwc.com/gx/en/global-entertainment-media-outlook/segment-insights/internet-advertising.jhtml?utm_source=heuro.net&utm_medium=blog&utm_campaign=googleMoat
 
-[feedads]:https://stratechery.com/2014/peak-google/
+[feedads]:https://stratechery.com/2014/peak-google/?utm_source=heuro.net&utm_medium=blog&utm_campaign=googleMoat
 
 [googleshare]:http://analysisreport.morningstar.com/stock/research?t=GOOG&region=usa&culture=en-US&productCode=MLE
 
-[2014rev]:http://www.emarketer.com/Article/Global-Ad-Spending-Growth-Double-This-Year/1010997
+[2014rev]:http://www.emarketer.com/Article/Global-Ad-Spending-Growth-Double-This-Year/1010997/?utm_source=heuro.net&utm_medium=blog&utm_campaign=googleMoat
 
 ***
 
@@ -70,11 +74,11 @@ Aligning the funnel with future potential advertising revenue we can see a lot o
 
 {% image google_moat/funnel_fb.png %}
 
-[futurecrm]:http://www.heuro.net/blog/the-future-of-crm/
+[futurecrm]:http://www.heuro.net/blog/the-future-of-crm/?utm_source=heuro.net&utm_medium=blog&utm_campaign=googleMoat
 
-[gartnercrm]:http://www.forbes.com/sites/louiscolumbus/2013/06/18/gartner-predicts-crm-will-be-a-36b-market-by-2017/
+[gartnercrm]:http://www.forbes.com/sites/louiscolumbus/2013/06/18/gartner-predicts-crm-will-be-a-36b-market-by-2017/?utm_source=heuro.net&utm_medium=blog&utm_campaign=googleMoat
 
-[kpcb]:http://www.kpcb.com/internet-trends
+[kpcb]:http://www.kpcb.com/internet-trends/?utm_source=heuro.net&utm_medium=blog&utm_campaign=googleMoat
 
 ***
 
@@ -88,56 +92,24 @@ Many of these new contexts exist because of smartphones. Having a computing devi
 
 When it comes to mobile search, Google isn't dominating. They're getting less profit from a decreasing share of the market. In their [Q3 2014 earnings announcementt][googleadrate], Google reported a 24% increase in paid clicks and a 4% reduction in the advertising rate. The decreased rate being due to a lower yield from mobile search. Google's share of the mobile search market has also been [deteriorated by an increasingly fragmented mobile search market][mobilesearchshift].
 
-A critical component to the mobile experience is apps and Google can't provide in-app search results for the iPhone. Why is that important? Because iPhone users are the most valuable mobile users - they're the ones advertisers want to target. [Jason Calacanis recently argued][applesearch] that Apple has launched a search engine that's growing at 3% a quarter. It can search all your apps and you're already using it (if you have an iPhone), meet "Spotlight." While Google increasingly tries to build a profile around our search behaviour and sell it back to advertisers, Apple is strictly keeping user information private.
+A critical component to the mobile experience is apps and Google can't provide in-app search results for the iPhone. Why is that important? Because iPhone users are the most valuable mobile users - they're the ones advertisers want to target. At their latest WWDC conference Apple announced it has added deep linking and app search to their OS search tool "Spotlight." What's more Apple is strictly keeping user information private (unlike Google) and is keeping Spotlight ad free. This sparked [Jason Calacanis to recently argue][applesearch] that Spotlight has the opportunity to disrupt Google in a big way.
 
-from: http://us6.campaign-archive2.com/?u=b98e2de85f03865f1d38de74f&id=9b3763259a&e=36914579f0
-Within iOS, Apple has added deep linking and app search. A link will load the content within the app if it's installed and on the web if not, and all content can be indexed and exposed within the local search. Apple showed an example of messages within LinkedIn and listings in AIrBnB both showing up in search. This is a very obvious move against web  search: both Apple and Google are chiselling away at the list of ten blue links, trying to move the results away from the web and also trying to suggest those results before you ask. 
+The nature of retail search is also shifting away from Google. In [Q3 2014 39% of U.S. online shoppers began researching purchases on Amazon][forrestersearch] and only 11% started on a search engine. If Google directly tackles Amazon they may alienate their biggest client (2013), Amazon spent $158 million on Google PPC in 2013.
 
-The natural of retail search is also shifting away from Google. In [Q3 2014 39% of U.S. online shoppers began researching purchases on Amazon][forrestersearch] and only 11% started on a search engine. If Google directly tackles Amazon they may alienate their biggest client (2013), Amazon spent $158 million on Google PPC in 2013.
+[applesearch]:http://calacanis.com/2015/06/09/apple-launching-search-engine-to-destroy-google-and-youre-already-using-it/?utm_source=heuro.net&utm_medium=blog&utm_campaign=googleMoat
 
-[applesearch]:http://calacanis.com/2015/06/09/apple-launching-search-engine-to-destroy-google-and-youre-already-using-it/
+[forrestersearch]:http://www.wsj.com/articles/google-preps-shopping-site-to-challenge-amazon-1418673413/?utm_source=heuro.net&utm_medium=blog&utm_campaign=googleMoat
 
-[forrestersearch]:http://www.wsj.com/articles/google-preps-shopping-site-to-challenge-amazon-1418673413
+[amazonsearch]:http://adage.com/article/digital/amazon-tops-list-google-s-25-biggest-search-advertisers/294922/?utm_source=heuro.net&utm_medium=blog&utm_campaign=googleMoat
 
-[amazonsearch]:http://adage.com/article/digital/amazon-tops-list-google-s-25-biggest-search-advertisers/294922/
+[googleadrate]:http://marketrealist.com/2014/11/google-looking-make-product-changes-mobile-search/?utm_source=heuro.net&utm_medium=blog&utm_campaign=googleMoat
 
-[googleadrate]:http://marketrealist.com/2014/11/google-looking-make-product-changes-mobile-search/
-
-[mobilesearchshift]:http://www.emarketer.com/Article/US-Mobile-Ad-Dollars-Shift-Search-Apps/1010898
+[mobilesearchshift]:http://www.emarketer.com/Article/US-Mobile-Ad-Dollars-Shift-Search-Apps/1010898/?utm_source=heuro.net&utm_medium=blog&utm_campaign=googleMoat
 
 ***
 
-## Online video is no longer a YouTube only sport
+## What does this mean?
 
-youtube is the world's 2nd biggest search engine - doesn't matter
-
-facebook video - [3 billion views per day jan 15][fbvideoviews] up three times in four months from [1 billion views per day in Sept 2014][fbvideoviews14]
-
-[fbvideoviews]:http://techcrunch.com/2015/01/28/facebook-now-has-3b-video-views-per-day/
-[fbvideoviews14]:http://www.mediapost.com/publications/article/233733/facebook-rivals-youtube-tops-1-billion-videos-per.html
-
-twitter video (periscope)
-
-meerkat, periscope
-
-***
-
-## Mobile
-
-mary meeker internet report
-
-show when facebook got mobile right (market cap), rev went from 0 mobile to 2/3rds mobile
-
-google's mobile $ p / click rev
-
-ben evans - strategy is the cloud
-
-***
-
-## Brand
-
-Apple beats Google to be named world's most valuable brand
-Brandz power list also sees Facebook soar thanks to Instagram and WhatsApp acquisitions, while Vodafone is top UK brand
-http://www.theguardian.com/media/2015/may/28/apple-google-most-valuable-brand
+It would be very surprising to see a company of Google's calibre collapse. However, it's reasonable to assume that they're not going to develop a product whose profitability rivals their search business. It's also reasonable to assume that the macro shifts we are currently witnessing in online advertising will continue to grow the online advertising market and by doing so - continue to shrink Google's share of it.
 
 ***

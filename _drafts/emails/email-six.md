@@ -90,28 +90,32 @@ Mad Men, arguably the most popular TV show of all time, ended with a Coke ad fro
 
 [cokemm]:http://contently.com/strategist/2015/06/10/how-coca-cola-journey-made-the-most-of-its-mad-men-moment-and-drew-200000-readers/?utm_source=heuro.net&utm_medium=email&utm_campaign=email_6
 
-http://www.adweek.com/news/technology/here-are-12-best-facebook-marketing-campaigns-last-year-165332/?utm_source=heuro.net&utm_medium=email&utm_campaign=email_6
+The [best Facebook marketing campaigns from the last year][fbad] include The Ice Bucket Challenge, Like a Girl and #KISSaLOT.
 
-https://www.youtube.com/watch?v=y0ERkrP4KaE
+[fbad]:http://www.adweek.com/news/technology/here-are-12-best-facebook-marketing-campaigns-last-year-165332/?utm_source=heuro.net&utm_medium=email&utm_campaign=email_6
 
-https://youtube10.withgoogle.com/
+Biocoop, the first organic retailer for organic food in France created the [most eco-friendly campaign ever][orgad].
 
-Insidious movie site, scare yourself silly: http://www.insidious-movie.net/entertheroom/
+[orgad]:https://www.youtube.com/watch?v=y0ERkrP4KaE
 
-Call of Duty – "CODnapped" https://vimeo.com/129195854
+YouTube celebrated it's 10th birthday with a [quiz on the platform's most popular videos][ytbday]. Warning - annoyingly addictive.
+
+[ytbday]:https://youtube10.withgoogle.com/
 
 ***
 
 ## Design
 
-http://brand.uber.com/
+Uber released possibly the most [engaging brand guidelines][branduber] of all time.
 
-***
-
-## Technology
+[branduber]:http://brand.uber.com/
 
 ***
 
 ## Tool of the week
+
+[Gigya][gig] is used by over 700 brands to manage customer identities across platforms and allow companies to have a single customer view.
+
+[gig]:http://www.gigya.com/?utm_source=heuro.net&utm_medium=email&utm_campaign=email_6
 
 ***

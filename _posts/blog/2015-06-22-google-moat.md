@@ -1,14 +1,6 @@
-Is Google losing their competitive moat?
-The increasing risks in Google's business model
-Crossing google's moat
-
-email to ben thompson, media ref guy for oppinions
-
-try to ad tweets about people talking about something in post
-
 ---
 layout: post
-title: xxx
+title: Is Google losing their competitive moat?
 categories: blog
 description: We explore the factors that may diminish Google's dominance in online advertising
 ---
@@ -62,7 +54,7 @@ Traditionally, marketers have focussed solely on the awareness portion of the pu
 
 The way we become aware of and affiliate with brands is changing. The biggest consumer tech products build hundreds of millions of active daily users within a few years and without traditional advertising. We spend more time on social networks and less time watching TV. We discover new products and ideas through Instagram and people actively recommend products they love through Facebook and Twitter. Strong brands are less important to strong products with engaged communities. As the medium for discovering, discussing and affiliating with new brands shifts to online mediums expect the advertising budgets to move there also.
 
-{% image google_moat/crm.png %}
+{% image google_moat/crm.jpg %}
 
 [Image source][gartnercrm].
 

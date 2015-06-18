@@ -8,6 +8,8 @@ categories: email
 
 ## Trends
 
+https://medium.com/@brandon_lee_09/trust-hacking-3dddfd71955f
+
 ***
 
 ## Channels
@@ -49,6 +51,8 @@ All too often marketing teams are not aligned with the rest of their business. M
 ***
 
 ## Technology
+
+http://www.growthverse.com/
 
 Salesforce [launched their next generation marketing cloud][sfcloud]. Amongst their innovations is a journey builder, which enables marketers to map one-to-one interactions and triggers between customers and a business across channels, devices and contexts.
 

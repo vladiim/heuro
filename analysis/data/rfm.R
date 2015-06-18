@@ -1,3 +1,5 @@
+# use runif to generate percentages e.g. x <- runif(100,0,1), f<-gl(n = 10,k = 10), data<-data.frame(x=x,f=f)
+
 data.rfmGenOrderData <- function() {
   set.seed(100)
   data.frame(

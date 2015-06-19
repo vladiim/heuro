@@ -86,7 +86,15 @@ When it comes to mobile search, Google isn't dominating. They're getting less pr
 
 A critical component to the mobile experience is apps and Google can't provide in-app search results for the iPhone. Why is that important? Because iPhone users are the most valuable mobile users - they're the ones advertisers want to target. At their latest WWDC conference Apple announced it has added deep linking and app search to their OS search tool "Spotlight." What's more Apple is strictly keeping user information private (unlike Google) and is keeping Spotlight ad free. This sparked [Jason Calacanis to recently argue][applesearch] that Spotlight has the opportunity to disrupt Google in a big way.
 
+{% image google_moat/ddg.png %}
+
+[Image source][ddg].
+
+Privacy is a concern for a growing number of users. DuckDuckGo, a search engine whose proposition is that it is a privacy-focused search engine has seen [traffic increase by 600% in the last two years][ddg]. In iOS 8 iPhone users have been given the option to add DuckDuckGo as their default search engine, which has further spiked its adoption.
+
 The nature of retail search is also shifting away from Google. In [Q3 2014 39% of U.S. online shoppers began researching purchases on Amazon][forrestersearch] and only 11% started on a search engine. If Google directly tackles Amazon they may alienate their biggest client (2013), Amazon spent $158 million on Google PPC in 2013.
+
+[ddg]:http://9to5mac.com/2015/06/16/duckduckgo-growth-ios/
 
 [applesearch]:http://calacanis.com/2015/06/09/apple-launching-search-engine-to-destroy-google-and-youre-already-using-it/?utm_source=heuro.net&utm_medium=blog&utm_campaign=googleMoat
 

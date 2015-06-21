@@ -22,6 +22,26 @@ fail on a bunch of tests!
 
 * Marketing
 
+    - be ahead of new marketing trends
+
+    - reddit ads
+
+    - stumble upon ads
+
+    - linkedin ads
+
+    - facebook for segmentation
+
+        - use tool like Qwaya or power editor
+
+        - instal conversion pixel: http://blog.qwaya.com/7-things-thats-made-my-facebook-ads-profitable
+
+        - segment several audiences
+
+        - understand conversation rates by segment
+
+    - create deck for google moat
+
     - ask community for case studies / examples when researching blog posts
 
     - build up engagement on quora: https://blog.bufferapp.com/quora-marketing

@@ -6,6 +6,17 @@ categories: email
 
 /?utm_source=heuro.net&utm_medium=email&utm_campaign=email_7
 
+
+***
+
+## Startup
+
+"Two fundamental truths exist when marketing a startup. One is that a great product alone is not enough to succeed. The other is that no amount of marketing will make a crap product gain a mass audience." A [guide to startup marketing][startupmarketing] discusses building virality into your product, customer segmentation through Facebook advertising, fine-tuning your message and more.
+
+[startupmarketing]:https://www.ventureharbour.com/ultimate-startup-marketing-strategy/?utm_source=heuro.net&utm_medium=email&utm_campaign=email_7
+
+***
+
 ## Trends
 
 https://medium.com/@brandon_lee_09/trust-hacking-3dddfd71955f
@@ -54,9 +65,11 @@ All too often marketing teams are not aligned with the rest of their business. M
 
 http://www.growthverse.com/
 
-Salesforce [launched their next generation marketing cloud][sfcloud]. Amongst their innovations is a journey builder, which enables marketers to map one-to-one interactions and triggers between customers and a business across channels, devices and contexts.
+Salesforce [launched their next generation marketing cloud][sfcloud]. Amongst their innovations is a journey builder, which enables marketers to map one-to-one interactions and triggers between customers and a business across channels, devices and contexts. Salesforce is also teaming up with Acxiom's Liveramp, Neustar and Viant to [allow clients to use CRM data to power ad-buying][cloudad].
 
-[sfcloud]:http://www.drnatalienews.com/blog/salesforce-unveils-next-generation-marketing-cloud-now-any-journey-is-possible/?utm_source=heuro.net&utm_medium=email&utm_campaign=email_x
+[sfcloud]:http://www.drnatalienews.com/blog/salesforce-unveils-next-generation-marketing-cloud-now-any-journey-is-possible/?utm_source=heuro.net&utm_medium=email&utm_campaign=email_7
+
+[cloudad]:http://bankunderground.co.uk/2015/06/19/driverless-cars-insurers-cannot-be-asleep-at-the-wheel/?utm_source=heuro.net&utm_medium=email&utm_campaign=email_7
 
 ***
 

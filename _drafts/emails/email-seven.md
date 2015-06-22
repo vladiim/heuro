@@ -47,6 +47,10 @@ The Gap is an iconic retailer that seemed to define Generation X. However, the i
 
 ## Data-driven
 
+Photography website 500px shares how they [built their analytics from the ground up][500pxanalytics]. The article goes into detail on the mid-sized startup's evolution to having robust analytics infrastructure.
+
+[500pxanalytics]:https://medium.com/@samson_hu/building-analytics-at-500px-92e9a7005c83/?utm_source=heuro.net&utm_medium=email&utm_campaign=email_7
+
 ***
 
 ## Team
@@ -70,6 +74,10 @@ Salesforce [launched their next generation marketing cloud][sfcloud]. Amongst th
 [sfcloud]:http://www.drnatalienews.com/blog/salesforce-unveils-next-generation-marketing-cloud-now-any-journey-is-possible/?utm_source=heuro.net&utm_medium=email&utm_campaign=email_7
 
 [cloudad]:http://bankunderground.co.uk/2015/06/19/driverless-cars-insurers-cannot-be-asleep-at-the-wheel/?utm_source=heuro.net&utm_medium=email&utm_campaign=email_7
+
+Proof that some people use QR Codes. Seeking more information about a long-discontinued promotion, Daniel Korell scanned the QR code on an old bottle of Heinz ketchup and was surprised to [end up on a German porn site called Fundorado][qrcode]. Heinz had apparently failed to re-register the domain while it's QR Codes were still in circulation.
+
+[qrcode]:http://www.dailydot.com/lol/heinz-qr-code-porn-site-ketchup-contest/?utm_source=heuro.net&utm_medium=email&utm_campaign=email_7
 
 ***
 

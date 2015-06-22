@@ -12,6 +12,10 @@ fail on a bunch of tests!
 
     - set up utm source for rss feed
 
+    - analytics engine
+
+        - https://medium.com/@samson_hu/building-analytics-at-500px-92e9a7005c83
+
     - set up parse for dashboards: https://parse.com, http://www.sitepoint.com/build-custom-user-analytics-parse
 
     - set up newrelic broswer: http://newrelic.com/browser-monitoring/pricing

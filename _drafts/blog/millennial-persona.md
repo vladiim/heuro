@@ -4,6 +4,8 @@ http://m.fastcompany.com/3046989/what-millennial-employees-really-want?utm_sourc
 
 http://nymag.com/scienceofus/2015/06/millennials-parents-cant-stop-meddling.html
 
+http://mobile.nytimes.com/2015/06/21/business/media/marketers-fixation-on-the-millennial-generation.html?referrer=
+
 ***
 
 female, 29, engaged, pinterest wedding boards, buys from warby parker, australian living in london

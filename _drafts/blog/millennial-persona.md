@@ -1,3 +1,9 @@
+# insights
+
+* Shop for fast fashion online: uniqlou vs gap
+
+***
+
 http://www.alexandercowan.com/tutorial-personas-problem-scenarios-user-stories/
 
 http://m.fastcompany.com/3046989/what-millennial-employees-really-want?utm_source=nextdraft&utm_medium=email

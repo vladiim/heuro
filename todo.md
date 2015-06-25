@@ -44,6 +44,8 @@ fail on a bunch of tests!
 
         - understand conversation rates by segment
 
+    - http://www.advancedwebranking.com/blog/endless-opportunities-to-promote-your-blog/
+
     - create deck for google moat
 
     - ask community for case studies / examples when researching blog posts

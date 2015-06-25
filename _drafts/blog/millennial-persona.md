@@ -32,6 +32,12 @@ Only 21 percent of millennials, those age 18 to 34, said they would first pick a
 
 ***
 
+http://www.warc.com/Content/News/Millennials_prefer_video_to_text.content?ID=599540ae-c394-4dba-9a71-1daa59c4c9ff
+
+Nearly two-thirds of millennials would rather watch a video from a brand than read text, according to a new survey.
+
+***
+
 http://www2.deloitte.com/global/en/pages/about-deloitte/articles/2015-millennial-survey-press-release.html
 
 6 out of 10 millennials cited their company’s sense of purpose as part of the reason they chose their job. In the same study, just 12% identified “own personal gain” as a primary leadership priority.

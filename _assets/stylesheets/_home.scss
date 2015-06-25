@@ -4,14 +4,6 @@
 /*
 /*****************************************************************************/
 
-//body {
-//  color: #666;
-//}
-
-//.site {
-//  margin: 0 auto 2em;
-//}
-
 #home {
 
   .hero {
@@ -65,4 +57,15 @@ img {
   color: #aaa;
   font-family: Monaco, "Courier New", monospace;
   font-size: 80%;
+}
+
+.hero_image_title {
+  background: linear-gradient( rgba(0, 0, 0, 0.35), rgba(0, 0, 0, 0.35) );
+  padding: 10px 0;
+}
+
+@media (max-width: $screen-sm-min) {
+  .hero_image_title {
+    padding: 2px 0;
+  }
 }

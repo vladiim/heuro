@@ -18,6 +18,11 @@
       <section class='imagenav'>
         {% include nav.html %}
       </section>
+    {% elsif defined?(page.image_hero) %}
+      <section class='image_hero'>
+        {% include nav.html %}
+        {% image page.image_hero %}
+      </section>
     {% else %}
       {% include nav.html %}
     {% endif %}

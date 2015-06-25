@@ -3,6 +3,7 @@ layout: post
 title: Is Google losing their competitive moat?
 categories: blog
 description: We explore the factors that may diminish Google's dominance in online advertising
+image_hero: google_moat/moat.jpg
 ---
 
 Warren Buffet [first coined][ecmoat] the term "economic moat" to describe a businesses ability to maintain long-term competitive advantages over the rest of its market sector. When it comes to online advertising no one can argue that Google has had a strong economic moat for sometime.
@@ -12,6 +13,10 @@ Though Google is constantly innovating with moonshot projects like the self-driv
 The effectiveness of their search business has meant Google has been the major player in online advertising for the last decade. However, several macro changes in online behaviour and technology might already be showing evidence that Google's dominance in online advertising may diminish in the next decade.
 
 [ecmoat]:http://www.investopedia.com/ask/answers/05/economicmoat.asp/?utm_source=heuro.net&utm_medium=blog&utm_campaign=googleMoat
+
+Hero [image source][image].
+
+[image]:https://www.flickr.com/photos/mikeyphillips/9529596822/in/photolist-fw6F8u-8Z8K-br4XyL-kcSfsz-7KK47d-95Tfq-aQQ3i6-3RgFM-jV4cU8-fLB3fq-tsuwV9-5x9E4M-dPyA8g-8hfgK1-9Ubwjh-5kbLL8-qS2EFB-jipNzg-bQurWr-6xRGWj-afCh2E-57smgP-fCC4B7-3Ti6CN-7r1Xot-pDTLbJ-aK1Yc4-xw666-rQFFpa-8orvR-5nUp6Y-4iinLg-6W23GQ-bBzLSy-85Skkk-LK3nw-6QgtJ4-xw69i-77wgzm-bQurrx-jV8fDB-8vYLRB-7SCh72-fuK9is-cJUtwm-jVaD4y-bGMMED-dTyg4i-aEos3M-6L6GAe/
 
 ***
 

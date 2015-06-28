@@ -11,6 +11,7 @@ library( ggplot2 )
 library( scales )
 library( dplyr )
 library( RColorBrewer )
+library( RPostgreSQL )
 
 # ----------- # # ----------- # # ----------- #
 # SET UP
@@ -45,10 +46,31 @@ setEnvVars <- function() {
   source('env.R')
 }
 
+connectToAnalyticsDB <- function() {
+  if (!exists('ANALYTICS_DB')) {
+    ANALYTICS_DB = dbConnect(
+      PostgreSQL(),
+      user = DB_UNAME,
+      password = DB_PWORD,
+      dbname = DB_NAME,
+      host = DB_HOST,
+      port = DB_PORT
+    )
+  }
+}
+
 # Config env
 setReportingWd()
 knitrGlobalConfig()
-# setEnvVars() if you have env vars
+setEnvVars()
+
+# Env vars
+DB_HOST  = Sys.getenv('DB_HOST')
+DB_PORT  = as.numeric(Sys.getenv('DB_PORT'))
+DB_NAME  = Sys.getenv('DB_NAME')
+DB_UNAME = Sys.getenv('DB_UNAME')
+DB_PWORD = Sys.getenv('DB_PWORD')
+connectToAnalyticsDB()
 
 # Load code
 dirs <- c( 'extract', 'load', 'transform', 'graphs', 'lib', 'data' )

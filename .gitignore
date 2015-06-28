@@ -2,3 +2,4 @@ _site
 bin
 .bundle
 .env
+analysis/env.R

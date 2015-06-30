@@ -83,7 +83,7 @@ One of the bigger client winners to note is Volvo with three Grad Prix (so far) 
 
 Lessons in growth marketing from an expert who helped LinkedIn grow from [20 million to over 200 million users][linkedingrowth]. Lessons include how to build product intuition, a focus on multivariate velocity, investing in your analytics framework and re-testing as your audience changes.
 
-[linkedingrowth]:http://www.sachinrekhi.com/blog/2015/06/22/growth-lessons-learned-from-linkedin/?utm_source=heuro.net&utm_medium=email&utm_campaign=email_7
+[linkedingrowth]:http://www.sachinrekhi.com/blog/2015/06/22/growth-lessons-learned-from-linkedin
 
 ***
 

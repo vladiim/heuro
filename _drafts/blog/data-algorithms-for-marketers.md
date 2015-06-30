@@ -2,7 +2,7 @@ In mathematics and computer science, an algorithm (Listeni/ˈælɡərɪðəm/ al
 
 ***
 
-# RFM
+## RFM
 
 http://analyzecore.com/2015/02/16/customer-segmentation-lifecycle-grids-with-r/
 
@@ -11,6 +11,12 @@ three metrics: purchase recency, frequency of purchase, and monetary value. By a
 http://www.sailthru.com/marketing-blog/predictive-intelligence-transforms-marketing-strategy/
 
 Depending on the predictions you are looking to make, these time series may be attached to any of a variety of variables, such as the number of messages opened per day, clicks and even sign-up times. To be accurate, a predictive algorithm needs to look at dozens of these variables – again, over time – amassing hundreds of data points per user.
+
+***
+
+## Scoring
+
+http://blog.revolutionanalytics.com/2015/06/r-at-microsoft.html
 
 ***
 

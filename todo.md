@@ -52,6 +52,8 @@ add imagemagick to rake tasks for images:
 
         - understand conversation rates by segment
 
+    - start a meetup
+
     - http://www.advancedwebranking.com/blog/endless-opportunities-to-promote-your-blog/
 
     - create deck for google moat

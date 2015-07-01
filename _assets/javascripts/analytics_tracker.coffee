@@ -26,7 +26,8 @@ trackPage = ->
   analytics.page(
     userId: findId(),
     category: contentCategory,
-    contentCategory: contentCategory)
+    contentCategory: contentCategory
+  )
 
 subscriptionListener = ->
   $('.subscribe-now-btn').on 'click', (event) ->

@@ -1,6 +1,8 @@
 change to "trends shapping modern retail"
 revolutionary retail trends
 
+http://www.l2inc.com/four-mobile-fundamentals-for-retailers/2015/blog?utm_source=email&utm_medium=email&utm_content=the-daily&utm_campaign=email
+
 http://www.bloomberg.com/news/articles/2015-05-06/net-a-porter-creates-social-network-for-mobile-luxury-shopping
 
 https://www.asdreports.com/market-research-report-198531/trends-personalization-retail-case-studies

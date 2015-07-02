@@ -4,6 +4,18 @@
 
 ***
 
+Who are the homebuying Millennials?
+
+http://www.housingwire.com/articles/34333
+
+***
+
+content over discounts
+
+http://www.emarketer.com/Article.aspx?R=1012666
+
+***
+
 http://www.alexandercowan.com/tutorial-personas-problem-scenarios-user-stories/
 
 http://m.fastcompany.com/3046989/what-millennial-employees-really-want?utm_source=nextdraft&utm_medium=email
@@ -26,7 +38,7 @@ male 19, gamer, reddit, uni student
 
 http://www.bloomberg.com/news/articles/2015-06-11/why-millennials-don-t-live-where-you-d-expect-them-to?cmpid=twtr1
 
-Young people disagreed with older generations about the value of more esoteric facets of life, such as the weather. Millennials said climate was hugely important in their decisions about where to live, while people age 35 and up were much less moved by it. 
+Young people disagreed with older generations about the value of more esoteric facets of life, such as the weather. Millennials said climate was hugely important in their decisions about where to live, while people age 35 and up were much less moved by it.
 
 Only 21 percent of millennials, those age 18 to 34, said they would first pick a place to live, and then find a job. The same share of young people said they’d choose a job and move wherever necessary to get paid.
 
@@ -56,7 +68,7 @@ I need to be told, repeatedly and at length, that I have valuable ideas. That my
 
 http://www.marketwatch.com/story/millennials-spend-more-money-in-restaurants-than-boomers-do-2015-01-30
 
-43% of every millennial food dollar is spent in restaurants, instead of at home. 
+43% of every millennial food dollar is spent in restaurants, instead of at home.
 
 ***
 
@@ -78,7 +90,7 @@ They're tuning in to watch videos that inspire, educate, or entertain. They're l
 
 Sixty-nine percent of these highly engaged moms watch food videos every week, and 68% of them will also watch videos while cooking.6
 
-Millennial women tend to cook for social occasions rather than regular meals, seeking inspiration from baking and appetizer videos. 
+Millennial women tend to cook for social occasions rather than regular meals, seeking inspiration from baking and appetizer videos.
 
 https://www.youtube.com/user/robjnixon/featured
 https://www.youtube.com/user/LauraVitalesKitchen
@@ -123,7 +135,7 @@ Millennials have been dubbed the “most stressed” generation in history,3 so 
 
 http://www.americanpressinstitute.org/publications/reports/survey-research/millennials-news/
 
-Percent of Millennials who… 
+Percent of Millennials who…
 Say keeping up with the news is at least somewhat important to them 85%
 Get news daily  69%
 Regularly follow five or more "hard news" topics  45%
@@ -155,7 +167,7 @@ and DGAF. How do you navigate the two? Reality TV
 producers wear themselves out Snooki-hunting because
 being effortlessly on point is such an impossible task.
 Only idiot savants are in the right place at the right time
-without even knowing it. 
+without even knowing it.
 
 normcore: situational, non-deterministic, adaptable, unconcerned with authenticity, empathy over tolerance, post-aspirational
 
@@ -194,7 +206,7 @@ likely to be married and have higher incomes than younger Millennials.
 Millennials, are a prime target for companies — they love technology and they love to interact with
 brands they like. They are also the age group most likely to agree that they would pay more for
 products that save them time and hassle. However, they are not an easy target group to please, with
-higher expectations than any other age group. Because their device of choice is their smartphone, 
+higher expectations than any other age group. Because their device of choice is their smartphone,
 For Marketing Leadership Professionals almost half of older Millennials expect companies to have a mobile app, more than six in 10
 expect companies to have mobile-friendly websites, and more than half feel frustrated and
 annoyed when they encounter a website that’s not mobile-friendly. And they let others know
@@ -231,7 +243,7 @@ Generations, like people, have personalities, and Millennials — the American t
 
 They are more ethnically and racially diverse than older adults. They’re less religious, less likely to have served in the military, and are on track to become the most educated generation in American history.
 
-Only about six-in-ten were raised by both parents — a smaller share than was the case with older generations. 
+Only about six-in-ten were raised by both parents — a smaller share than was the case with older generations.
 
 ***
 

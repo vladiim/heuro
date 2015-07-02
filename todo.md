@@ -34,6 +34,8 @@ add imagemagick to rake tasks for images:
 
 * Marketing
 
+    - branding: https://www.tailorbrands.com/
+
     - be ahead of new marketing trends
 
     - reddit ads

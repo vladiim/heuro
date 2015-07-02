@@ -4,6 +4,14 @@ title: The rise of curation, the $7.5 billion advertising fruad & omni-channel C
 categories: email
 ---
 
+## From the blog
+
+We explore the factors that may [diminish Google's dominance in online advertising][blog].
+
+[blog]:http://www.heuro.net/blog/google-moat/?utm_source=heuro.net&utm_medium=email&utm_campaign=email_8
+
+***
+
 ## Trends
 
 We are seeing the rise of curation - Apple Music will use Zane Lowe and his handpicked team of renowned DJs create an eclectic mix of the latest and best in music, Apple News is hiring curation editors. BuzzFeed just released their own take on the concept with the BuzzFeed News app which adds tweets to a mix of BuzzFeed content and content from around the web. Ben Thomspon explores the benefits of [mixing curation with the algorithms that have to date filtered the web for us][curalgo].

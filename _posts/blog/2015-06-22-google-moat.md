@@ -6,6 +6,8 @@ description: We explore the factors that may diminish Google's dominance in onli
 image_hero: google_moat/moat.jpg
 ---
 
+{% image google_moat/moat.jpg %}
+
 Warren Buffet [first coined][ecmoat] the term "economic moat" to describe a businesses ability to maintain long-term competitive advantages over the rest of its market sector. When it comes to online advertising no one can argue that Google has had a strong economic moat for sometime.
 
 Though Google is constantly innovating with moonshot projects like the self-driving car, Google Glass and Project Loon, it's business model has always been one-dimensional. Google gets to work on interesting, world changing products because their search business is wildly profitable.

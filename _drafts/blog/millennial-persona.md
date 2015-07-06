@@ -18,11 +18,11 @@ http://www.emarketer.com/Article.aspx?R=1012666
 
 http://www.alexandercowan.com/tutorial-personas-problem-scenarios-user-stories/
 
-http://m.fastcompany.com/3046989/what-millennial-employees-really-want?utm_source=nextdraft&utm_medium=email
+http://m.fastcompany.com/3046989/what-millennial-employees-really-want
 
 http://nymag.com/scienceofus/2015/06/millennials-parents-cant-stop-meddling.html
 
-http://mobile.nytimes.com/2015/06/21/business/media/marketers-fixation-on-the-millennial-generation.html?referrer=
+http://mobile.nytimes.com/2015/06/21/business/media/marketers-fixation-on-the-millennial-generation.html
 
 ***
 

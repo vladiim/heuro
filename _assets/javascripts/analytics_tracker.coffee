@@ -23,16 +23,17 @@ findAndSetId = ->
 
 trackPage = ->
   contentCategory = contentCategory()
-  analytics.page(
+  analytics.page()
+  analytics.track('Pageview', {
     userId: findId(),
     category: contentCategory,
     contentCategory: contentCategory
-  )
+  })
 
 subscriptionListener = ->
   $('.subscribe-now-btn').on 'click', (event) ->
     email = $('#mce-EMAIL').val()
-    analytics.track('Newsletter Subscription', {
+    analytics.track(email, 'Newsletter Subscription', {
       userId: findId(),
       category: 'Newsletter',
       action: 'Sign up',

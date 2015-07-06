@@ -36,6 +36,10 @@ categories: email
 
 ## Channels
 
+Potentially in an effort to continue fueling their new fast-growing YouTube competitor video product, Facebook [has announced changes to its video algorithm][fbvideo]. The changes will, surprise, drive an increase in video views.
+
+[fbvideo]:http://blog.newscred.com/article/facebook-announces-video-algorithm-change/24c74f05edd7b0cc758e9164a9e91e48?utm_source=heuro.net&utm_medium=email&utm_campaign=email_9
+
 ***
 
 ## Customer obsessed
@@ -43,6 +47,10 @@ categories: email
 "There’s not a CMO or CEO on the planet who strives to deliver bad customer experience. Of course, customers do have bad experiences. And, some firms deliver these negative outcomes with persistent regularity." Forbes on why [customer experience is the new currency of power][cximp].
 
 [cximp]:http://www.forbes.com/sites/rogerdooley/2015/07/02/customer-experience/?utm_source=heuro.net&utm_medium=email&utm_campaign=email_9
+
+Tradition can often be the enemy of effective needs based design. In a great example of redesigning a tool based on needs, Alex Couch [redesigns piano sheet music][piano]. By taken cues from information design he greatly simplifies the painful process of learning to read sheet music - taken from someone who's gone through it!
+
+[piano]:https://medium.com/@alexcouch/how-i-d-redesign-piano-sheet-music-355c4f9012f1/?utm_source=heuro.net&utm_medium=email&utm_campaign=email_9
 
 Simple design, customer-focussed user journeys and engaging micro-copy are some of the trends in [10 of the finest ecommerce sites][10ecom].
 
@@ -62,11 +70,27 @@ ConversionXL list out [11 things that usually work in A/B tests][abtests].
 
 ***
 
-# Campaigns
+## Design
+
+[Modern UI/UX patterns for SaaS applications include][saasux] - horizontal nav, three-column layouts, contextual forms and a right-hand info sidebar.
+
+[saasux]:https://medium.com/@ux_je/modern-ui-ux-hacks-for-saas-applications-in-2015-and-beyond-f7b9a4f231dd?utm_source=heuro.net&utm_medium=email&utm_campaign=email_9
+
+Still on trends with [future web design trends][webdesign]. Trends include gestures as the new clicks, simpler interfaces, retina grade images and increasing animation.
+
+[webdesign]:https://medium.com/@jowitaziobro/7-future-web-design-trends-fba93eba6355?utm_source=heuro.net&utm_medium=email&utm_campaign=email_9
+
+***
+
+## Campaigns
 
 "New Balance is planning an advertising blitz that’s twice as big as any in its 109-year history, taking aim directly at Nike Inc." The new global campaign, [Always in Beta][nbvnike] launched last week.
 
 [nbvnike]:http://www.bloomberg.com/news/articles/2015-07-01/new-balance-to-challenge-nike-with-its-biggest-ad-campaign-ever?utm_source=heuro.net&utm_medium=email&utm_campaign=email_9
+
+Pampers captures the moment in extreme slo mo with [Pooface][poo].
+
+[poo]:https://vimeo.com/131077537
 
 ***
 

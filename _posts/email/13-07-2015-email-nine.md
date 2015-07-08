@@ -1,10 +1,8 @@
 ---
 layout: post
-title:
+title: Marketing predictions, dynamic A/B tests & 1,875 martech cos
 categories: email
 ---
-
-/?utm_source=heuro.net&utm_medium=email&utm_campaign=email_9
 
 ## Trends
 
@@ -40,6 +38,14 @@ Potentially in an effort to continue fueling their new fast-growing YouTube comp
 
 [fbvideo]:http://blog.newscred.com/article/facebook-announces-video-algorithm-change/24c74f05edd7b0cc758e9164a9e91e48?utm_source=heuro.net&utm_medium=email&utm_campaign=email_9
 
+Remarketing is increasingly being viewed as a critical compenent to any marketing strategy. An ex-Googler breaks down the basics of [remarketing with Google Analytics][remarkga]
+
+[remarkga]:https://medium.com/@dicek344/need-more-growth-try-these-3-easy-and-powerful-google-analytics-remarking-lists-21345f11410f?utm_source=heuro.net&utm_medium=email&utm_campaign=email_9
+
+Harvard Business Review breaks down the difference between [content marketing and native advertising][contentnat].
+
+[contentnat]:https://hbr.org/2015/07/comparing-the-roi-of-content-marketing-and-native-advertising
+
 ***
 
 ## Customer obsessed
@@ -56,6 +62,14 @@ Simple design, customer-focussed user journeys and engaging micro-copy are some 
 
 [10ecom]:https://econsultancy.com/blog/66647-10-of-the-finest-mobile-ecommerce-sites/?utm_source=heuro.net&utm_medium=email&utm_campaign=email_9
 
+Neuroscience is growingly being applied in marketing. Everyone from [Campbell Soup to Facebook are trying to read customer's minds][nearosoup].
+
+[nearosoup]:http://www.bloomberg.com/news/articles/2015-07-02/how-facebook-and-campbell-soup-are-trying-to-read-your-mind?utm_source=heuro.net&utm_medium=email&utm_campaign=email_9
+
+We all have mental models we use as a lense in order to process how the world works. Smashing Magazine shows us how to [map a customer's mental models][smasingmental] in order to design products that fit with people's world view.
+
+[smasingmental]:http://www.smashingmagazine.com/2012/04/23/mental-model-diagrams-cartoon/?utm_source=heuro.net&utm_medium=email&utm_campaign=email_9
+
 ***
 
 ## Data-driven
@@ -67,6 +81,14 @@ Personalisation algorithms increasingly influence our behaviour however current 
 ConversionXL list out [11 things that usually work in A/B tests][abtests].
 
 [abtests]:https://conversionxl.com/11-things-that-work-more-often-than-not-in-ab-tests/?utm_source=heuro.net&utm_medium=email&utm_campaign=email_9
+
+Using [dynamic programming to design and implement A/B tests][ab]. Not for the feint-hearted but very interesting for you stats geeks.
+
+[ab]:http://www.win-vector.com/blog/2015/07/dynamic-prog-ab-test-design/?utm_source=heuro.net&utm_medium=email&utm_campaign=email_9
+
+Owned and earned channels are a powerful tool for marketers to validate campaign ideas. Learn to [validate your next campaign ideas with landing pages][landingpagecreative].
+
+[landingpagecreative]:http://unbounce.stfi.re/landing-pages/validate-ideas-with-landing-pages/?utm_source=heuro.net&utm_medium=email&utm_campaign=email_9
 
 ***
 
@@ -88,16 +110,40 @@ Still on trends with [future web design trends][webdesign]. Trends include gestu
 
 [nbvnike]:http://www.bloomberg.com/news/articles/2015-07-01/new-balance-to-challenge-nike-with-its-biggest-ad-campaign-ever?utm_source=heuro.net&utm_medium=email&utm_campaign=email_9
 
-Pampers captures the moment in extreme slo mo with [Pooface][poo].
+Remember the Old Spice ads? Well, Old Spice is [back, interactive and loader than ever][oldspice].
 
-[poo]:https://vimeo.com/131077537
+[oldspice]:http://www.musclesurprise.com/?utm_source=heuro.net&utm_medium=email&utm_campaign=email_9
 
 ***
 
 ## Technology
 
+According to ChiefMarTec, in 2015 [there are 1,875 marketing technology companies, up from 947][cmt] last year. This is testimount of the evolution of martech and indeed marketing. In order to thrive marketing departments need to increasingly identify technology opportunities and have systematic approaches to integration new vendors into their exisiting stack.
+
+[cmt]:http://chiefmartec.com/2015/01/marketing-technology-landscape-supergraphic-2015/?utm_source=heuro.net&utm_medium=email&utm_campaign=email_9
+
+Marketo releases a white paper on [selling marketing automation to the c-suite][marketocs].
+
+[marketocs]:http://blog.marketo.com/2015/07/ebook-how-to-sell-marketing-automation-to-your-c-suite.html?utm_source=heuro.net&utm_medium=email&utm_campaign=email_9
+
+Less than a fifth of IT decision-makers have fully automated customer information authentication. As CRM and loyalty programs become increasing important to marketers it's critical that their data infrastructure get a [complete overhaul][datavalidate].
+
+[datavalidate]:http://www.emarketer.com/Article.aspx?R=1012693#sthash.2jUwSj1B.dpuf&utm_source=heuro.net&utm_medium=email&utm_campaign=email_9
+
+***
+
+## Retail
+
+Just like Starbucks in the GFC, many aspirational retail brands are in crisis because they [opened too many outlet stores][lux].
+
+[lux]:http://www.businessinsider.com.au/michael-kors-ralph-lauren-and-coachs-outlet-mistake-2015-7/?utm_source=heuro.net&utm_medium=email&utm_campaign=email_9
+
 ***
 
 ## Tool of the week
+
+[Lexer][lexer] helps you enrich customer data to power omni channel experiences. It's pretty scary what these guys can tell you based on an email or simple Tweet.
+
+[lexer]:http://lexer.com.au/?utm_source=heuro.net&utm_medium=email&utm_campaign=email_9
 
 ***

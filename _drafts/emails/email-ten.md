@@ -12,9 +12,17 @@ Understanding how your martech products work together as a stack is critical to 
 
 [martechstack]:http://chiefmartec.com/2015/06/21-marketing-technology-stacks-shared-stackies-awards/?utm_source=heuro.net&utm_medium=email&utm_campaign=email_10
 
+It's also critical to stay up-to-date with the latest and greatest products. Enter [Product Hunt's tools for marketers and growth hackers][phgrowth].
+
+[phgrowth]:http://www.producthunt.com/e/tools-for-marketers-growth-hackers/?utm_source=heuro.net&utm_medium=email&utm_campaign=email_10
+
 ***
 
 ## Trends
+
+Google released the [state of video ad viewability][googlevid]. Insights include the importance of mobile, abandonment rates, importance of the player size and the critical importance of page position.
+
+[googlevid]:http://think.storage.googleapis.com/docs/are-your-videos-making-an-impression.pdf
 
 ***
 
@@ -23,6 +31,18 @@ Understanding how your martech products work together as a stack is critical to 
 Advertisers are slow to invest in mobile gaming while the channel is growing exponentially. This is a [huge opportunity for those willing to experiment][mobgame].
 
 [mobgame]:http://www.emarketer.com/Article.aspx?R=1012694&utm_source=heuro.net&utm_medium=email&utm_campaign=email_10
+
+Meerkat users can now [sign in with a Facebook account][meerkatfb] that automatically connects to all their Facebook friends or followers. Is Meerkat Facebook's next big acquisition?
+
+[meerkatfb]:http://www.l2inc.com/meerkat-pivots-to-facebook-with-new-update/2015/?utm_source=heuro.net&utm_medium=email&utm_campaign=email_10
+
+***
+
+## Campaigns
+
+When [engaging content narratives and tech][contenttech] come together to create effective marketing campaigns.
+
+[contenttech]:https://builtvisible.com/marketing-dev-tech-content-future/?utm_source=heuro.net&utm_medium=email&utm_campaign=email_10
 
 ***
 

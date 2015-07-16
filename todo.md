@@ -36,7 +36,11 @@ add imagemagick to rake tasks for images:
 
 * Marketing
 
-    - homepage design: https://mattermark.com/
+    - homepage design:
+
+        - https://mattermark.com/
+
+        - Hugeinc.com
 
     - Set up google +
 

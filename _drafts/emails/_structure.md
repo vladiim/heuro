@@ -1,10 +1,12 @@
 ---
 layout: post
-title: 
+title:
 categories: email
 ---
 
 /?utm_source=heuro.net&utm_medium=email&utm_campaign=email_x
+
+http://startafire.com/
 
 ## Trends
 
@@ -46,7 +48,7 @@ Search for a phrase that your audience cares about. It’s important that you th
 Pick a viral photo or video about your topic. The more remarkable, the better. And guess what: the headline you clicked has also already been “validated” by virtue of this Proven Content getting a ton of shares. That means you can just copy the headline as your email subject line.
 Pro Tip:
 Use Proven Content if your market attracts a rabid fanbase.
-Do your customers have an insatiable desire or hobby? Examples include golf, Crossfit, fashion, video games, and music. 
+Do your customers have an insatiable desire or hobby? Examples include golf, Crossfit, fashion, video games, and music.
 
 ***
 

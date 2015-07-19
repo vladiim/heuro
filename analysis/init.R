@@ -12,6 +12,8 @@ library( scales )
 library( dplyr )
 library( RColorBrewer )
 library( RPostgreSQL )
+library( Quandl )
+library( quantmod )
 
 # ----------- # # ----------- # # ----------- #
 # SET UP
@@ -65,12 +67,12 @@ knitrGlobalConfig()
 setEnvVars()
 
 # Env vars
-DB_HOST  = Sys.getenv('DB_HOST')
-DB_PORT  = as.numeric(Sys.getenv('DB_PORT'))
-DB_NAME  = Sys.getenv('DB_NAME')
-DB_UNAME = Sys.getenv('DB_UNAME')
-DB_PWORD = Sys.getenv('DB_PWORD')
-connectToAnalyticsDB()
+# DB_HOST  = Sys.getenv('DB_HOST')
+# DB_PORT  = as.numeric(Sys.getenv('DB_PORT'))
+# DB_NAME  = Sys.getenv('DB_NAME')
+# DB_UNAME = Sys.getenv('DB_UNAME')
+# DB_PWORD = Sys.getenv('DB_PWORD')
+# connectToAnalyticsDB()
 
 # Load code
 dirs <- c( 'extract', 'load', 'transform', 'graphs', 'lib', 'data' )
@@ -79,3 +81,5 @@ source( './reports/run.R' )
 
 # No scientific notation
 options( scipen = 999 )
+
+Quandl.auth( Sys.getenv( 'QUANDL' ) )

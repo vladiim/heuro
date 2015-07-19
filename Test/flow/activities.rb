@@ -1,1 +1,0 @@
-# You can require your activity files here.

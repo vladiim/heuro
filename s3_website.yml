@@ -35,7 +35,7 @@ exclude_from_upload:
   - _layouts
   - bin
   - todo.md
-  - Gemfile.lock 
+  - Gemfile.lock
   - _assets
   - _plugins
   - config.ru
@@ -46,6 +46,11 @@ exclude_from_upload:
   - Procfile
   - _drafts
   - publish.sh
+  - analysis
+  - .env
+  - measurement_plan.md
+  - newsletter
+  - .gitignore
 
 # s3_reduced_redundancy: true
 

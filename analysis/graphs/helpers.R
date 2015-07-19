@@ -1,9 +1,10 @@
 # ---------- HELPERS
 
 graph.simpleTheme <- function(plot) {
+  pallet = colorRampPalette(brewer.pal(4, 'Set1'))(10)
   graph.simpleThemeMoreColors(plot) +
-    scale_colour_brewer(palette = 'Set2' ) +
-    scale_fill_brewer(palette   = 'Set2' )
+    scale_colour_manual(values = pallet) +
+    scale_fill_manual(values = pallet )
 }
 
 graph.simpleThemeMoreColors <- function(plot) {

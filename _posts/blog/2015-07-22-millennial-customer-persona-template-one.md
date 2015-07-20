@@ -1,31 +1,45 @@
-* Download the [editable Keynote file][keynote]
+---
+layout: post
+title: Millennial customer persona template - one
+categories: blog
+description: The first of two millennial customer persona templates
+---
 
-* Download the [PDF file][pdf]
+{% image millennial_persona/persona_one.jpg %}
 
-[keynote]:
+Customer personas allow us to discuss our business from the point of view of the people that make our business, our customers. Personas allow us to do this by forcing us to empathise with customers and thereby giving us actionable insights based on our customer's needs and drivers.
 
-[pdf]:
-
-Customer personas allow us to discuss our business based on the people that make our business, our customers. Personas do this by giving us actionable insights of our customer's needs and drivers.
-
-In order to give you a starting point for a customer persona, I thought I'd create two generic millennial personas that you could then build on for your business. Millennials, people born from 1980 to 2000 are increasingly, some [would argue][fixation] obsessively, getting attention from the press, research companies and marketers. So I thought they would be a good place to start.
+Millennials, people born from 1980 to 2000 are increasingly, some [would argue][fixation] obsessively, getting attention from the press, research companies and marketers. Based on the increasing interest to capture the attention of millennials, the millennial personas were created. The generic millennial customer personas act as a starting point that you can refine based on your own customer's specific needs and attributes.
 
 [fixation]:http://mobile.nytimes.com/2015/06/21/business/media/marketers-fixation-on-the-millennial-generation.html?utm_source=heuro.net&utm_medium=blog
+
+* Download the <span class='download-millennial'>[editable Keynote file][keynote]</span>
+
+* Download the <span class='download-millennial'>[PDF file][pdf]</span>
+
+[keynote]://www.heuro.net/assets/millenial-persona-one.key
+
+[pdf]://www.heuro.net/assets/millenial-persona-one.pdf
+
 ***
 
 ## Persona one - older millennial
 
-Forrester [breaks Millennials up into two distinct groups][forrester] - younger (18 to 24) and older (25 to 34). The groups have major differences acrosss employment, life-stage and income. In line with their findings I'll be producing a persona for each group.
+Forrester [breaks Millennials up into two distinct groups][forrester] - younger (18 to 24) and older (25 to 34). The groups have major differences across employment, life-stage and income. In line with Forrester's findings, I'll be producing a generic persona for each group.
 
 [forrester]:https://www.forrester.com/Millennials+A+Demographic+Overview/fulltext/-/E-RES121801?utm_source=heuro.net&utm_medium=blog
+
+<section class='full_persona'>
+    {% image millennial_persona/persona_one_full.jpg %}
+</section>
 
 ***
 
 ## Refining the personas
 
-This persona is a starting point. For it to be useful for a business they need to be refined based on the business customer's particular quirks and needs. To identify these, customer research is required. I'm currently writing a series on persona and customer journey map research methodologies so please sign up to the email in order to be notified when the article's come out.
+The generic personas are a starting point. For the personas to be useful for a business they need to be refined based on your customer's particular quirks and needs. To identify these you'll need to conduct your own research. I'm currently writing a series on persona and customer journey map research methodologies so please sign up to the site's email in order to be notified when the articles come out.
 
-We also need to identify and define the range of personas that best describe our business. Generally this will be three to five distinct personas that we can define for a given business.
+When creating personas for a client, I'll usually identify three to five distinct personas that describe the majority of a businesses' customers.
 
 ***
 
@@ -33,7 +47,7 @@ We also need to identify and define the range of personas that best describe our
 
 Personas help us prioritise what our business focusses on and evaluate what we're doing by evaluating it from the point of view of the customer. To do so we ask:
 
-* What goal are they trying to achieve?
+* What goal is the persona trying to achieve?
 
 * How do they currently achieve their goal?
 
@@ -86,12 +100,6 @@ Personas help us prioritise what our business focusses on and evaluate what we'r
 * When it comes to homes, cars and luxury goods it's about [access not ownership][gs]
 
 [gs]:http://www.goldmansachs.com/our-thinking/pages/millennials/?utm_source=heuro.net&utm_medium=blog
-
-***
-
-## Persona two research
-
-
 
 ***
 

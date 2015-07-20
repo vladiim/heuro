@@ -13,9 +13,10 @@ assets:
     - _assets/images
     - _assets/javascripts
     - _assets/stylesheets
+  digest: true
   compress:
-    css_compressor: sass
-    js_compressor:  uglifier
+    css: sass
+    js:  uglifier
 
 sass:
   style: :compressed

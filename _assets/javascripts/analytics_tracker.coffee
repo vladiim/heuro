@@ -42,8 +42,20 @@ subscriptionListener = ->
       email: email,
     })
 
+downloadMillennialListener = ->
+  $('.download-millennial > a').on 'click', (event) ->
+    value = $(@)
+    analytics.track('Download millennial persona', {
+      customMetric: 1,
+      category: 'Blog',
+      action: 'Download',
+      label: value.attr('href'),
+      userId: findId()
+    })
+
 trackEvents = ->
   subscriptionListener()
+  downloadMillennialListener()
 
 $(document).ready ->
   if currentHost() isnt LOCAL_HOST

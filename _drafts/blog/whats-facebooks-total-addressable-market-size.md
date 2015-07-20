@@ -51,6 +51,8 @@ With a point of view on what Facebook may be monopolising, users, we can then be
 
 {% image fb_tam/social.png %}
 
+
+
 scaott gallard - facebook most popular product of all time, more popular than religion etc etc
 
 ***

@@ -1,0 +1,147 @@
+---
+layout: post
+title:
+categories: email
+---
+
+http://startafire.com/
+
+## Trends
+
+The industrial revolution forced a fundamental change in global commerce, government and society. The information revolution we are currently in is set to have a similar impact on human kind and the Guardian argues that this means [the end of capitalism has begun][capend]. Some of my take-aways from the article:
+
+* The biggest modern asset today is data yet today's economics doesn't know how to account for the asset
+
+* States have far less power to shut down or control information as they paralyse their economy in the process
+
+* Economic austerity and an increasing wealth gap has produced "networks you can't default on" and born a set of shadow economies.
+
+Whether it's the end of capitalism or not the question I ask myself is how does this effect marketing and how do we leverage the fact that people's behaviour is shifting at a macro level.
+
+[capend]:http://stfi.re/nggpv
+
+In an increasing effort to become people's complete internet experience, Facebook is [testing the ability for companies to set up e-commerce shops within their Facebook pages][fbecom]. This is the logical step forward from its recent launch of Instant Articles (content publishing) and Business Messenger (CRM / CS) platforms.
+
+[fbecom]:http://stfi.re/vwzpz
+
+Google, Facebook, Snapchat and Pinterest are all joining the trend. Why the Internet is [suddenly covered in buy buttons][buybutton].
+
+[buybutton]:http://stfi.re/rgdae
+
+The [Economist's 2015 Big Mac index][bigmac] is out. By comparing Big Mac prices across the world the index describes the level of currency misalignment across countries based on the theory of purchasing-power parity. The overall takeout? Lots of undervalued currencies.
+
+[bigmac]:http://stfi.re/bwdrp
+
+In the next five years, millennials will total more than $1.4 trillion in spending power, and women will likely hold at least half of this trillion-dollar bank. If brands are smart, they'll throw out the playbook and listen to what [millennial women say they want out of effective content marketing][millenialwomen].
+
+[millenialwomen]:http://stfi.re/pyarp
+
+App.net [tried][appnet] to create an ad-free Twitter and failed. Diaspora [tried][diaspora] to create an ad-free Facebook and failed. Large-scale media services rely on advertising because they can't get critical user growth by charging people money - the model doesn't seem to work. The ABC asks if [advertising is morally justifiable][admorally] discussing the importance of protecting our attention. Their argument is nobel but time-and-time again it seems that mass audiences seem to swap what's best for them in the long-term (ad-free anonymity) for a short-term benefit (free).
+
+[appnet]:http://stfi.re/appag
+
+[diaspora]:http://stfi.re/yxxna
+
+[admorally]:http://stfi.re/wxxag
+
+***
+
+## Channels
+
+Siloed oranisations, old infrastructure and no omnichannel roadmap are the three barriers stopping marketers from [effectively adopting omnichannel][effectomni] marketing.
+
+[effectomni]:http://stfi.re/wdbro
+
+Facebook's video product is growing quickly and is reportedly at 4 billion views a day - up from 1 billion at the end of last year. There are still some [key elements Facebook needs before it becomes competitive with YouTube][fbvideo]. These include monetised UGC, content ID, search and a younger audience.
+
+[fbvideo]:http://stfi.re/okbvy
+
+Instagram is about to [launch a swath of ad products to all][instad]. Products include direct-response ads, the ability to buy ads via an API (application programming interface), as well as enhanced targeting.
+
+[instad]:http://stfi.re/xnnwa
+
+Recently I asked if chat apps like Messenger could be [the next evolution of CRM][futurecrm]. Michael Kors seems to think so. Read on how they've used [WeChat to engage Chinese consumers][mkwechat].
+
+[futurecrm]:http://www.heuro.net/blog/the-future-of-crm/
+
+[mkwechat]:http://stfi.re/nggrv
+
+***
+
+## Customer obsessed
+
+To understand you customer, understand how people think. Maybe start with [15 psychological studies for marketers to know][psychostudy].
+
+[psychostudy]:http://stfi.re/gggpp
+
+Any customer obsessed business should have a voice of the customer program in place. Leadin shares how they regularly [get over a hundred customers to interview][100int].
+
+[100int]:http://stfi.re/dpevd
+
+***
+
+## Content
+
+Are retail photographers at risk of lossing their jobs? User generated photos are [more trusted than professionally taken photos][ugcphoto]. Target found that their UGC photos converted at twice the rate as professionally taken photos.
+
+[ugcphoto]:http://stfi.re/zzdgp
+
+Selfies in space anyone? How a bunch of government space geeks at NASA mastered social and [won the internet][nasasocial].
+
+[nasasocial]:http://stfi.re/lggja
+
+***
+
+## Data-driven
+
+"If you can’t measure something, don’t build it. If you couldn’t measure the results, don’t try it. Because how do you know it’s working? How do you know it isn’t?" [Zynga analytics at it's peak][zynga].
+
+[zynga]:http://stfi.re/vxxnr
+
+Predictive analytics are [becoming more mainstream][predan] in business and there is increasing demand for solutions to be integrated with other mission-critical systems such as operations and marketing.
+
+[predan]:http://stfi.re/nazea
+
+One of the most critical growth metrics is retention. Periscope share some insights in [analysing daily and rolling retention rates][retention].
+
+[retention]:http://stfi.re/okbay
+
+***
+
+## Retail
+
+Black Friday, the last Friday of November, is the biggest day of the year for retailers - it's the day they go from being in the red (negative profits) to being in the black (profitable). Wednesday 15 July 2015, in celebration of its 20th anniversary, [Amazon has promised][amazondeals] its Prime customers "more deals than Black Friday." [Walmart shot back][wmart] with their own deals on the same day without having to buy a subscription.
+
+[amazondeals]:http://stfi.re/lweox
+
+[wmart]:http://stfi.re/agydd
+
+Still on Amazon, the WSJ outlines how over 20 years, $400 billion in sales and less than $2 billion in profits has [changed retail][wsjamazon].
+
+[wsjamazon]:http://stfi.re/oeewd
+
+***
+
+## Technology
+
+***
+
+## Campaign
+
+A good creative idea needs to be centred on a strong insight. Harvey Nichols decided to focus on the fact that their product is good enough to steal when [launching their new loyalty app][harveynicks].
+
+[harveynicks]http://stfi.re/oklgb
+
+Sequels are the big moneymakers in Hollywood for a reason - movie fans want their  favorite characters and storylines to have a long life. CMO explores how marketers have [used this insight for their campaigns][sequeleffect].
+
+[sequeleffect]:http://stfi.re/rgdwe
+
+Budweiser, Old Spice and Redbull are all given as examples of [how successful advertising focuses on memorable experiences][sucex].
+
+[sucex]:http://stfi.re/djjrv
+
+***
+
+## Tool of the week
+
+***

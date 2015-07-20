@@ -4,6 +4,10 @@
 
 ***
 
+http://blog.newscred.com/article/8-tips-on-how-to-market-effectively-to-millennial-women/6e9b0db506f1dc661c4d68f2fbd8e300?utm_source=newsletter&utm_medium=email&utm_campaign=MillennialWomen&mkt_tok=3RkMMJWWfF9wsRons6zKZKXonjHpfsX76%2BsvX6W3lMI%2F0ER3fOvrPUfGjI4FT8JlI%2BSLDwEYGJlv6SgFT7jAMaZkw7gJWBk%3D
+
+***
+
 Who are the homebuying Millennials?
 
 http://www.housingwire.com/articles/34333

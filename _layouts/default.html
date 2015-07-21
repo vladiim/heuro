@@ -1,3 +1,7 @@
+---
+layout: compress
+---
+
 <!DOCTYPE html>
 <html>
   <head>
@@ -8,7 +12,8 @@
     <meta name='categories' content={{ page.categories }}>
     <link rel="canonical" href="http://heuro.net{{ page.url | replace:'index.html','' }}" />
 
-    {% stylesheet app %}
+    <script type="text/javascript" src='/assets/loadCSS.min.js'></script>
+    <script>loadCSS('/assets/app.css')</script>
 
   {% include segment.html %}
 

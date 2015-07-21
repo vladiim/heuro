@@ -80,6 +80,8 @@ what are the business models online? make them facebook - facebook is all the b2
 
 ability to find product / market fit - great executer, mobile, timeline (origianlly twitter's), acquisition of whatsapp and instagram
 
+http://www.shopify.com/blog/37293125-an-introduction-to-facebook-ads-for-ecommerce
+
 ***
 
 ## Which markets are constituents of Thiel's lie?

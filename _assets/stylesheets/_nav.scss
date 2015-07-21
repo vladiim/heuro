@@ -8,6 +8,36 @@ nav {
   font-family: 'Droid Sans';
 }
 
+.navbar-collapse {
+  z-index: 100;
+  width: 100%;
+  background-color: white;
+  text-align: center;
+  font-size: 250%;
+
+  ul > li {
+    padding: 0.5em;
+
+    &:hover {
+      background-color: $primary-dark;
+      -webkit-transition: background-color 1000ms linear;
+      -moz-transition: background-color 1000ms linear;
+      -o-transition: background-color 1000ms linear;
+      -ms-transition: background-color 1000ms linear;
+      transition: background-color 1000ms linear;
+
+      a {
+        color: white !important;
+        -webkit-transition: background-color 1000ms linear;
+        -moz-transition: background-color 1000ms linear;
+        -o-transition: background-color 1000ms linear;
+        -ms-transition: background-color 1000ms linear;
+        transition: background-color 1000ms linear;
+      }
+    }
+  }
+}
+
 .nav-btn {
   margin-right: 10px;
 }

@@ -104,6 +104,8 @@ add imagemagick to rake tasks for images:
 
 * Design
 
+    - revise with bourbon & http://www.smashingmagazine.com/2015/07/20/smarter-grids-with-sass-and-susy/
+
     - (H) logo, .ico
 
     - https://www.webprofits.com.au/blog/35-hottest-websites/

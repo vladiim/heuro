@@ -11,3 +11,7 @@ innovators are killing us: http://www.salon.com/2015/07/11/innovators_are_killin
 How Goldman Sachs Profited From the Greek Debt Crisis: http://www.thenation.com/article/goldmans-greek-gambit/
 
 financial crash: http://www.moneymorning.com.au/20150717/get-ready-for-the-greatest-financial-crash-of-your-lifetime.html
+
+tesla douchbagery:http://www.zerohedge.com/news/2015-07-20/tesla-douchebaggery
+
+Concentrated Wealth + Widespread Stupidity = End Of Democracy: http://www.zerohedge.com/news/2015-07-19/concentrated-wealth-widespread-stupidity-end-democracy

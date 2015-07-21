@@ -6,6 +6,12 @@ categories: email
 
 http://startafire.com/
 
+## From the blog
+
+http://www.heuro.net/blog/millennial-customer-persona-template-one/
+
+***
+
 ## Trends
 
 The industrial revolution forced a fundamental change in global commerce, government and society. The information revolution we are currently in is set to have a similar impact on human kind and the Guardian argues that this means [the end of capitalism has begun][capend]. Some of my take-aways from the article:
@@ -20,9 +26,11 @@ Whether it's the end of capitalism or not the question I ask myself is how does 
 
 [capend]:http://stfi.re/nggpv
 
-In an increasing effort to become people's complete internet experience, Facebook is [testing the ability for companies to set up e-commerce shops within their Facebook pages][fbecom]. This is the logical step forward from its recent launch of Instant Articles (content publishing) and Business Messenger (CRM / CS) platforms.
+In an increasing effort to become people's complete internet experience, Facebook is [testing the ability for companies to set up e-commerce shops within their Facebook pages][fbecom]. This is the logical step forward from its recent launch of Instant Articles (content publishing) and Business Messenger (CRM / CS) platforms. For a good introduction check out [an introduction to facebook ads for ecommerce][fbecomintro].
 
 [fbecom]:http://stfi.re/vwzpz
+
+[fbecomintro]:http://stfi.re/vxdxw
 
 Google, Facebook, Snapchat and Pinterest are all joining the trend. Why the Internet is [suddenly covered in buy buttons][buybutton].
 
@@ -66,6 +74,10 @@ Recently I asked if chat apps like Messenger could be [the next evolution of CRM
 
 [mkwechat]:http://stfi.re/nggrv
 
+"Here’s a message on behalf of brand marketers everywhere.† We know about banner fraud already. We just don’t care. Seriously. It’s fine." Why Banner [“fraud” doesn’t matter].
+
+[bannerf]:http://stfi.re/yxvag
+
 ***
 
 ## Customer obsessed
@@ -105,6 +117,10 @@ Predictive analytics are [becoming more mainstream][predan] in business and ther
 One of the most critical growth metrics is retention. Periscope share some insights in [analysing daily and rolling retention rates][retention].
 
 [retention]:http://stfi.re/okbay
+
+Call Tracking is the process of using a special number to track the telephonic impact of the marketing effort on lead generation and ultimately, sales. But [which service provider is the best for your call tracking needs][calltrack]?
+
+[calltrack]:http://stfi.re/kewyo
 
 ***
 

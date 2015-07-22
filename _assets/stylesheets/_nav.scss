@@ -8,6 +8,14 @@ nav {
   font-family: 'Droid Sans';
 }
 
+.navbar-default .navbar-toggle .icon-bar {
+  background-color: white !important;
+}
+
+.navbar-toggle:hover, .navbar-toggle:active, .navbar-toggle:focus, .navbar-toggle:visited {
+  background-color: transparent !important;
+}
+
 .navbar-collapse {
   z-index: 100;
   width: 100%;
@@ -17,6 +25,10 @@ nav {
 
   ul > li {
     padding: 0.5em;
+
+    a {
+      color: $primary-dark !important;
+    }
 
     &:hover {
       background-color: $primary-dark;
@@ -61,16 +73,20 @@ nav {
     background-color: transparent;
     border-color: transparent;
 
+    .navbar-toggle {
+      border-color: $secondary-dark !important;
+
+      .icon-bar {
+        background-color: $secondary-dark !important;
+      }
+    }
+
     a {
       color: $link-color !important;
 
       &:hover {
         color: $link-hover-color !important;
       }
-    }
-
-    .navbar-toggle:hover, .navbar-toggle:active, .navbar-toggle:focus, .navbar-toggle:visited {
-      background-color: transparent;
     }
 
     a.navbar-btn {

@@ -37,7 +37,9 @@ Forrester [breaks Millennials up into two distinct groups][forrester] - younger 
 
 ## Refining the personas
 
-The generic personas are a starting point. For the personas to be useful for a business they need to be refined based on your customer's particular quirks and needs. To identify these you'll need to conduct your own research. I'm currently writing a series on persona and customer journey map research methodologies so please sign up to the site's email in order to be notified when the articles come out.
+The generic personas are a starting point. For the personas to be useful for a business they need to be refined based on your customer's particular quirks and needs. To identify these you'll need to conduct your own research. I'm currently writing a series on persona and customer journey map research methodologies so please [sign up to the site's email][email] in order to be notified when the articles come out.
+
+[email]:http://www.heuro.net/newsletter/
 
 When creating personas for a client, I'll usually identify three to five distinct personas that describe the majority of a businesses' customers.
 

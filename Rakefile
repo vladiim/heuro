@@ -4,7 +4,7 @@ namespace :assets do
     sh 'bundle exec jekyll build'
     sh 'cp _includes/loadCSS.min.js _site/assets/'
     sh 'sass -t compressed _assets/stylesheets/app.scss _site/assets/app.css'
-    # sh 'tar -cvzf _site/assets/app.css.gz _site/assets/app.css'
+    sh 'cp _assets/images/global/favicon.ico _site'
   end
 end
 

@@ -5,6 +5,12 @@ categories: blog
 description:
 ---
 
+notes:
+
+* https://plot.ly/javascript-graphing-library/
+
+* send to peter dimascus' email
+
 In his ["competition is for losers" lecture][theallec] Facebook board member Peter Thiel outlines the importance of monopolies to describe their business as the union of a set of vastly different markets. By doing so they vastly increase the surface area of their business. And thereby the number and complexity of their competitors. By demonstrating they have more competition than they really have, a monopoly dodges government regulation.
 
 [theallec]:http://stfi.re/apxwb

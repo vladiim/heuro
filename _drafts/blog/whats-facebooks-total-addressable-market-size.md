@@ -57,7 +57,10 @@ With a point of view on what Facebook may be monopolising, users, we can then be
 
 {% image fb_tam/social.png %}
 
-
+<div>
+    <a href="https://plot.ly/~Vladiim/5/?share_key=mJpisWPV7LR14mS60Hw0L2" target="_blank" title="Unique visitors per month vs Market value per user" style="display: block; text-align: center;"><img src="https://plot.ly/~Vladiim/5.png?share_key=mJpisWPV7LR14mS60Hw0L2" alt="Unique visitors per month vs Market value per user" style="max-width: 100%;width: 662px;"  width="662" onerror="this.onerror=null;this.src='https://plot.ly/404.png';" /></a>
+    <script data-plotly="Vladiim:5" sharekey-plotly="mJpisWPV7LR14mS60Hw0L2" src="https://plot.ly/embed.js" async></script>
+</div>
 
 scaott gallard - facebook most popular product of all time, more popular than religion etc etc
 

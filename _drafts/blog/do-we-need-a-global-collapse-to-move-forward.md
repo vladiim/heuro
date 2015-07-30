@@ -1,6 +1,12 @@
 short term benefits = long-term destruction of value
 
+not long ago hitchhiker's guide to the galaxy was sci fi, now everyone on earth will have it
+
 clay's capatalist's dillema
+
+global startup ecosystem report: Humanity doesn’t see transitions between major economic eras very often, but when they come, every aspect of society gets reinvented: government, business, finance, education, medicine, energy, technology, art, and science all get upgraded. In fact, most historians would argue there have only been three such transitions before in human history: 1. Foraging to horticulture 2. Horticulture to agriculture 3. Agriculture to industrialization. The Industrial Revolution was the last great full spectrum societal transformation, and the Scientific Enlightenment that ensued gave rise to modernity. With two billion broadband Internet users and billions of smartphones now entering circulation, the necessary tools and infrastructure are in place for the Information Age to burst into full bloom, moving beyond the confines of just the technology world to transform all aspects of society. Therefore, the role of technology entrepreneurship in our global economy is now more important than ever. Increasingly, it is becoming clear that technology entrepreneurship will be the primary growth engine of this new economic era.
+
+hollocracy book: predict and control of industrial age but today just doesn't make sense. businesses need to be highly flexible which isn't possible in a top-down authoritarian structure
 
 study industrial revolution & understand what happened
 
@@ -22,6 +28,7 @@ tesla douchbagery:http://www.zerohedge.com/news/2015-07-20/tesla-douchebaggery
 
 Concentrated Wealth + Widespread Stupidity = End Of Democracy: http://www.zerohedge.com/news/2015-07-19/concentrated-wealth-widespread-stupidity-end-democracy
 
+who owns a company: http://www.bankofengland.co.uk/publications/Documents/speeches/2015/speech833.pdf
 
 https://stratechery.com/2015/aggregation-theory/?utm_source=feedly&utm_medium=webfeeds
 

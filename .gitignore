@@ -3,3 +3,4 @@ bin
 .bundle
 .env
 analysis/env.R
+.sass-cache

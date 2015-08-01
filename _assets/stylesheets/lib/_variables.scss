@@ -1,0 +1,49 @@
+//
+// Colors
+// --------------------------------------------------
+// see http://codepen.io/cobblucas/pen/iGpIf
+$belize-hole: #2980B9; // blue
+$night-shade: #2C3E50; // dark blue
+$carrot:      #e67e22; // orange
+$pumpkin:     #d35400; // dark orange
+$pomegranate: #c0392b; // dark orange
+$gray-light:  #aaa;
+$white:       #ffffff;
+$primary-dark:           $night-shade;
+$primary-normal:         $belize-hole;
+$secondary-dark:         $pomegranate;
+$secondary-normal:       $carrot;
+$tertiary-normal:        $gray-light;
+$gray-base:              #000 !default;
+$gray-darker:            lighten($gray-base, 13.5%) !default; // #222
+$gray-dark:              lighten($gray-base, 20%) !default;   // #333
+$gray:                   lighten($gray-base, 33.5%) !default; // #555
+$gray-light:             lighten($gray-base, 46.7%) !default; // #777
+$gray-lighter:           lighten($gray-base, 93.5%) !default; // #eee
+$success:                #5cb85c !default;
+$info:                   #5bc0de !default;
+$warning:                #f0ad4e !default;
+$danger:                 #d9534f !default;
+$headings-color:         $primary-dark !default;
+
+//
+// Line height
+// --------------------------------------------------
+$headings-line-height:    1.1 !default;
+
+//
+// Line height
+// --------------------------------------------------
+$headings-line-height:    1.1 !default;
+
+//
+// Font
+// --------------------------------------------------
+@import url(http://fonts.googleapis.com/css?family=Droid+Sans);
+$default-font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+$headings-font-family: 'Droid Sans';
+
+//
+// Font weight
+// --------------------------------------------------
+$headings-font-weight:    500 !default;

@@ -1,40 +1,67 @@
-<nav role="navigation" class="navbar navbar-default">
-  <div class="container">
-
-    <!-- Title -->
-    <div class="navbar-header pull-left">
-      <a href="/" class="navbar-brand">HEURO</a>
-    </div>
-
-    <!-- 'Sticky' (non-collapsing) right-side menu item(s) -->
-    <!-- <div class="navbar-header">
-      <ul class="nav pull-right nav-btn">
-        <li class="dropdown pull-right">
-          <a class='btn btn-default navbar-btn' href='/newsletter'>Subscribe</a>
-        </li>
-      </ul> -->
-
-      <!-- Required bootstrap placeholder for the collapsed menu -->
-      <button type="button" data-toggle="collapse" data-target=".navbar-collapse" class="navbar-toggle"><span class="sr-only">Toggle navigation</span><span class="icon-bar"></span><span class="icon-bar"></span><span class="icon-bar"></span></button>
-    </div>
-
-    <!-- Additional navbar items -->
-    <div class="collapse navbar-collapse">
-      <!-- pull-left keeps the drop-down in line -->
-      <ul class="nav navbar-nav">
-        <li>
-          <a href='/newsletter'>Subscribe</a>
-        </li>
-        <li>
-          <a href='/categories/blog/'>Blog</a>
-        </li>
-        <li>
-          <a href='/categories/email/'>Emails</a>
-        </li>
-        <li>
-          <a href='/atom.xml'>RSS</a>
-        </li>
-      </ul>
-    </div>
+<!-- <nav>
+  <div class='header'>
+    <a href='/'>HEURO</a>
   </div>
-</nav>
+
+  <button class='hamburger hamburger-rot'>
+    <span>toggle menu</span>
+  </button>
+
+  <div id='hamburger' class='sub-nav'>
+    <ul class='nav'>
+      <li>
+        <a href='/newsletter'>Subscribe</a>
+      </li>
+      <li>
+        <a href='/categories/blog/'>Blog</a>
+      </li>
+      <li>
+        <a href='/categories/email/'>Emails</a>
+      </li>
+      <li>
+        <a href='/atom.xml'>RSS</a>
+      </li>
+    </ul>
+  </div>
+</nav> -->
+
+<header class="centered-navigation" role="banner">
+  <div class="centered-navigation-wrapper">
+    <a href="javascript:void(0)" class="mobile-logo">
+      <img src="https://raw.githubusercontent.com/thoughtbot/refills/master/source/images/placeholder_logo_3_dark.png" alt="Logo image">
+    </a>
+    <a href="javascript:void(0)" id="js-centered-navigation-mobile-menu" class="centered-navigation-mobile-menu">MENU</a>
+    <nav role="navigation">
+      <ul id="js-centered-navigation-menu" class="centered-navigation-menu show">
+        <li class="nav-link"><a href="javascript:void(0)">Products</a></li>
+        <li class="nav-link"><a href="javascript:void(0)">About Us</a></li>
+        <li class="nav-link"><a href="javascript:void(0)">Contact</a></li>
+        <li class="nav-link logo">
+          <a href="javascript:void(0)" class="logo">
+            <img src="https://raw.githubusercontent.com/thoughtbot/refills/master/source/images/placeholder_logo_3_dark.png" alt="Logo image">
+          </a>
+        </li>
+        <li class="nav-link"><a href="javascript:void(0)">Testimonials</a></li>
+        <li class="nav-link more"><a href="javascript:void(0)">More</a>
+          <ul class="submenu">
+            <li><a href="javascript:void(0)">Submenu Item</a></li>
+            <li><a href="javascript:void(0)">Another Item</a></li>
+            <li class="more"><a href="javascript:void(0)">Item with submenu</a>
+              <ul class="submenu">
+                <li><a href="javascript:void(0)">Sub-submenu Item</a></li>
+                <li><a href="javascript:void(0)">Another Item</a></li>
+              </ul>
+            </li>
+            <li class="more"><a href="javascript:void(0)">Another submenu</a>
+              <ul class="submenu">
+                <li><a href="javascript:void(0)">Sub-submenu</a></li>
+                <li><a href="javascript:void(0)">An Item</a></li>
+              </ul>
+            </li>
+          </ul>
+        </li>
+        <li class="nav-link"><a href="javascript:void(0)">Sign up</a></li>
+      </ul>
+    </nav>
+  </div>
+</header>

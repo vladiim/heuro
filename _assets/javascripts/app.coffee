@@ -1,8 +1,8 @@
 #= require vendor/jquery
-#= require vendor/bootstrap.min
 #= require vendor/modernizr
 #= require vendor/verify.notify.min
-#= require analytics_tracker
+#= require lib/analytics_tracker
+#= require lib/nav
 
 $(document).ready ->
   # console.log('blah')

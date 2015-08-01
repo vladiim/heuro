@@ -37,11 +37,17 @@
 .fi-article-two-columns-picture:before {
    content: "\21";
 }
+.fi-blog {
+  @extend .fi-article-two-columns-picture;
+}
 .fi-shield:before {
    content: "\22";
 }
 .fi-envelope-open-empty:before {
    content: "\23";
+}
+.fi-email {
+  @extend .fi-envelope-open-empty;
 }
 .fi-social-04:before {
    content: "\24";

@@ -1,17 +1,5 @@
-<section class='row'>
-  <section class='col-sm-6'>
-    <header>
-      <h3><a href='/categories/blog/'>Blog posts</a></h3>
-    </header>
-    {% include blog_list.html %}
-    <hr>
-  </section>
-
-  <section class='col-sm-6'>
-    <header>
-      <h3><a href='/categories/email/'>Emails</a></h3>
-    </header>
-    {% include email_list.html %}
-    <hr>
-  </section>
-</section>
+<div class='flex-boxes'>
+  {% for post in site.posts limit: 6 %}
+    {% include post_item.html post=post %}
+  {% endfor %}
+</div>

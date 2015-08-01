@@ -19,7 +19,7 @@ layout: compress
   {% include segment.html %}
 
   </head>
-  <body id='container'>
+  <body>
 
     {% if page.imagenav %}
       <section class='imagenav'>
@@ -34,9 +34,7 @@ layout: compress
       {% include nav.html %}
     {% endif %}
 
-    <div id='contentLayer'></div>
-
-    <section id='content' class="site">
+    <section class="site">
 
       {{ content }}
 

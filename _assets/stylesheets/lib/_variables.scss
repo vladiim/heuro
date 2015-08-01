@@ -2,39 +2,39 @@
 // Colors
 // --------------------------------------------------
 // see http://codepen.io/cobblucas/pen/iGpIf
-$belize-hole: #2980B9; // blue
-$night-shade: #2C3E50; // dark blue
-$carrot:      #e67e22; // orange
-$pumpkin:     #d35400; // dark orange
-$pomegranate: #c0392b; // dark orange
-$gray-light:  #aaa;
-$white:       #ffffff;
-$primary-dark:           $night-shade;
-$primary-normal:         $belize-hole;
-$secondary-dark:         $pomegranate;
-$secondary-normal:       $carrot;
-$tertiary-normal:        $gray-light;
-$gray-base:              #000 !default;
-$gray-darker:            lighten($gray-base, 13.5%) !default; // #222
-$gray-dark:              lighten($gray-base, 20%) !default;   // #333
-$gray:                   lighten($gray-base, 33.5%) !default; // #555
-$gray-light:             lighten($gray-base, 46.7%) !default; // #777
-$gray-lighter:           lighten($gray-base, 93.5%) !default; // #eee
-$success:                #5cb85c !default;
-$info:                   #5bc0de !default;
-$warning:                #f0ad4e !default;
-$danger:                 #d9534f !default;
-$headings-color:         $primary-dark !default;
+$belize-hole:      #2980B9; // blue
+$night-shade:      #2C3E50; // dark blue
+$carrot:           #e67e22; // orange
+$pumpkin:          #d35400; // dark orange
+$pomegranate:      #c0392b; // dark orange
+$gray-light:       #aaa;
+$white:            #ffffff;
+$primary-dark:     $night-shade;
+$primary-normal:   $belize-hole;
+$secondary-dark:   $pomegranate;
+$secondary-normal: $carrot;
+$tertiary-normal:  $gray-light;
+$gray-base:        #000 !default;
+$gray-darker:      lighten($gray-base, 13.5%) !default; // #222
+$gray-dark:        lighten($gray-base, 20%) !default;   // #333
+$gray:             lighten($gray-base, 33.5%) !default; // #555
+$gray-light:       lighten($gray-base, 46.7%) !default; // #777
+$gray-lighter:     lighten($gray-base, 93.5%) !default; // #eee
+$success:          #5cb85c !default;
+$info:             #5bc0de !default;
+$warning:          #f0ad4e !default;
+$danger:           #d9534f !default;
+$headings-color:   $primary-dark !default;
 
 //
 // Line height
 // --------------------------------------------------
-$headings-line-height:    1.1 !default;
+$headings-line-height: 1.1 !default;
 
 //
 // Line height
 // --------------------------------------------------
-$headings-line-height:    1.1 !default;
+$headings-line-height: 1.1 !default;
 
 //
 // Font
@@ -46,4 +46,63 @@ $headings-font-family: 'Droid Sans';
 //
 // Font weight
 // --------------------------------------------------
-$headings-font-weight:    500 !default;
+$headings-font-weight: 500 !default;
+
+//
+// Font size
+// --------------------------------------------------
+$font-size-base:          14px !default;
+$font-size-large:         ceil(($font-size-base * 1.25)) !default; // ~18px
+$font-size-small:         ceil(($font-size-base * 0.85)) !default; // ~12px
+
+$font-size-h1:            floor(($font-size-base * 2.6)) !default; // ~36px
+$font-size-h2:            floor(($font-size-base * 2.15)) !default; // ~30px
+$font-size-h3:            ceil(($font-size-base * 1.7)) !default; // ~24px
+$font-size-h4:            ceil(($font-size-base * 1.25)) !default; // ~18px
+$font-size-h5:            $font-size-base !default;
+$font-size-h6:            ceil(($font-size-base * 0.85)) !default; // ~12px
+
+//
+// Well
+// --------------------------------------------------
+$well-bg:     $primary-dark !default;
+$well-border: darken($well-bg, 7%) !default;
+
+//
+// Border radius
+// --------------------------------------------------
+$border-radius-base:  4px !default;
+$border-radius-large: 6px !default;
+$border-radius-small: 3px !default;
+
+//
+// Jumbotron
+// --------------------------------------------------
+
+$jumbotron-padding:              30px !default;
+$jumbotron-color:                $white !default;
+$jumbotron-bg:                   $primary-dark !default;
+$jumbotron-heading-color:        inherit !default;
+$jumbotron-font-size:            ceil(($font-size-base * 1.5)) !default;
+
+//
+// Media queries
+// --------------------------------------------------
+$screen-xs:                  480px !default;
+$screen-xs-min:              $screen-xs !default;
+$screen-phone:               $screen-xs-min !default;
+
+// Small screen / tablet
+$screen-sm:                  768px !default;
+$screen-sm-min:              $screen-sm !default;
+$screen-tablet:              $screen-sm-min !default;
+
+// Medium screen / desktop
+$screen-md:                  992px !default;
+$screen-md-min:              $screen-md !default;
+$screen-desktop:             $screen-md-min !default;
+
+// Large screen / wide desktop
+$screen-lg:                  1200px !default;
+$screen-lg-min:              $screen-lg !default;
+$screen-lg-desktop:          $screen-lg-min !default;

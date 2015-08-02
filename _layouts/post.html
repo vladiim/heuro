@@ -2,15 +2,9 @@
 layout: default
 ---
 <ol class='breadcrumb'>
-  <li>
-    <a href='/'>Home</a>
-  </li>
-  <li>
-    <a href='/categories/{{ page.categories[0] }}'>{{ page.categories }}</a>
-  </li>
-  <li class='title'>
-    {{ page.title }}
-  </li>
+  <li><a href='/'>Home</a></li>
+  <li><a href='/categories/{{ page.categories[0] }}'>{{ page.categories }}</a></li>
+  <li>{{ page.title }}</li>
 </ol>
 
 <article itemscope itemType='http://schema.org/BlogPosting'>

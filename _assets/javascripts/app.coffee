@@ -2,7 +2,7 @@
 #= require vendor/modernizr
 #= require vendor/verify.notify.min
 #= require lib/analytics_tracker
-#= require lib/nav
+#= require lib/image_width
 
 $(document).ready ->
   # console.log('blah')

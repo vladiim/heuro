@@ -50,9 +50,13 @@
   }
 }
 
+.home-newsletter-hero {
+  margin-top: 15%;
+}
+
 .newsletter-hero {
   @extend .jumbotron;
-  margin: 15% 5% 0;
   padding: 20px;
+  margin: 0 5%;
   border-radius: $border-radius-large;
 }

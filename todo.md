@@ -4,13 +4,7 @@ http://www.webpagetest.org/result/150618_XK_45Q/
 
 fail on a bunch of tests!
 
-add imagemagick to rake tasks for images:
-
-    * http://www.smashingmagazine.com/2015/06/25/efficient-image-resizing-with-imagemagick/
-
-    * All hero images b&w?
-
-    * mogrify -path OUTPUT_PATH -filter Triangle -define filter:support=2 -thumbnail OUTPUT_WIDTH -unsharp 0.25x0.25+8+0.065 -dither None -posterize 136 -quality 82 -define jpeg:fancy-upsampling=off -define png:compression-filter=5 -define png:compression-level=9 -define png:compression-strategy=1 -define png:exclude-chunk=all -interlace none -colorspace sRGB -strip INPUT_PATH
+* Only load _site files to s3 that have been modified in last hour
 
 * compare SE's atom feed: http://blog.stackexchange.com/2015/07/how-we-built-our-blog/
 

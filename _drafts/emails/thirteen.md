@@ -4,7 +4,9 @@ title:
 categories: email
 ---
 
-is digital advertising a joke? digital advertising is often bundled in, fairfax talk about using their content to create new internet businesses (ticketing), ios9 removing ads, buzzfeed's ad model hard to overcome
+is digital advertising a joke? digital advertising is often bundled in, there are increasing allegations that this advertising is [fraudulant][adfraud], fairfax talk about using their content to create new internet businesses (ticketing), ios9 removing ads, buzzfeed's ad model hard to overcome
+
+[adfraud]:http://adcontrarian.blogspot.co.il/2013/06/the-75-billion-ad-swindle.html
 
 ***
 
@@ -45,3 +47,11 @@ YouTube has been vague about how they count a view, but they’ve said that it�
 A new research report from the Society of Digital Agencies finds that in the past year there has been a dramatic spike in the number of companies who no longer work with outside marketing agencies — 27 percent, up from 13 percent in the previous year.
 
 [markinhouse]:http://stfi.re/eeooa
+
+***
+
+### [Users are ‘detoxing’ from Facebook, Twitter][antisocial]
+<small>Channels</small>
+Has the “digital detox” trend reached a tipping point? It’s a question that those who study digital media (and in particular, social media) are asking in light of what appears to be a growing number of individuals who are abandoning sites like Facebook and Twitter.
+
+[antisocial]:http://stfi.re/ybxnd

@@ -32,6 +32,8 @@ Concentrated Wealth + Widespread Stupidity = End Of Democracy: http://www.zerohe
 
 who owns a company: http://www.bankofengland.co.uk/publications/Documents/speeches/2015/speech833.pdf
 
+value of an employee at top startup: http://www.zerohedge.com/news/2015-08-04/new-economy-these-10-startups-are-valued-156-billion-4-billion-revenue
+
 https://stratechery.com/2015/aggregation-theory/?utm_source=feedly&utm_medium=webfeeds
 
 The last several articles on Stratechery have formed an unintentional series:

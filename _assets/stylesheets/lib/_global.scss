@@ -9,8 +9,7 @@ img {
 }
 
 .site {
-  h1, h2, h3, h4, h5, h6,
-  p, small {
+  h1, h2, h3, h4, h5, h6, p, section {
     margin: 0 0 10px 20px;
     line-height: 1.5;
   }
@@ -41,6 +40,10 @@ section.meta {
   margin-top: -15px;
 }
 
+section.hero {
+  margin: -20px;
+}
+
 .sr-only {
     position: absolute;
     width: 1px;
@@ -50,4 +53,12 @@ section.meta {
     overflow: hidden;
     clip: rect(0,0,0,0);
     border: 0;
+}
+
+small {
+  margin: 0;
+  clear: both;
+  display: block;
+  color: $gray-light;
+  font-style: italic;
 }

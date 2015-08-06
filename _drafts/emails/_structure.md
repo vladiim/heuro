@@ -8,6 +8,10 @@ categories: email
 
 http://startafire.com/
 
+## Open questions
+
+***
+
 ## Trends
 
 ***

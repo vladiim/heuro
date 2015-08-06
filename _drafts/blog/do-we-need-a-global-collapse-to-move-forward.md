@@ -12,6 +12,8 @@ study industrial revolution & understand what happened
 
 global recession: http://www.zerohedge.com/news/2015-07-22/forget-recession-according-caterpillar-there-full-blown-global-depression
 
+macro charts: http://www.zerohedge.com/news/2015-08-05/9-charts-meditate
+
 tighter circles: http://www.zerohedge.com/news/2015-07-31/goldman-warns-global-economy-going-round-smaller-smaller-circles
 
 WTF economy: http://radar.oreilly.stfi.re/2015/07/the-wtf-economy-is-transforming-how-we-do-business.html?sf=bwjon
@@ -31,6 +33,8 @@ tesla douchbagery:http://www.zerohedge.com/news/2015-07-20/tesla-douchebaggery
 Concentrated Wealth + Widespread Stupidity = End Of Democracy: http://www.zerohedge.com/news/2015-07-19/concentrated-wealth-widespread-stupidity-end-democracy
 
 who owns a company: http://www.bankofengland.co.uk/publications/Documents/speeches/2015/speech833.pdf
+
+value of an employee at top startup: http://www.zerohedge.com/news/2015-08-04/new-economy-these-10-startups-are-valued-156-billion-4-billion-revenue
 
 https://stratechery.com/2015/aggregation-theory/?utm_source=feedly&utm_medium=webfeeds
 

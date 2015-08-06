@@ -1,0 +1,40 @@
+nav {
+  padding: 10px;
+  display: block;
+  overflow: hidden;
+  background: $secondary-dark;
+
+  a {
+    color: $white;
+
+    &:active,
+    &:focus,
+    &:hover {
+      color: shade($white, 25%);
+    }
+  }
+
+  ul {
+    list-style: none;
+
+    li {
+      padding: 7px;
+    }
+
+    li.left {
+      float: left;
+    }
+
+    li.right {
+      float: right;
+      padding: 0;
+
+      .icon {
+        i {
+          margin-top: -20px;
+          color: $white;
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,60 @@
+@font-face {
+    font-family: 'icon';
+    src: url('icon/icon.eot'); /* IE 9 Compatibility Mode */
+    src: url('icon/icon.eot?#iefix') format('embedded-opentype'), /* IE < 9 */
+         url('icon/icon.woff2') format('woff2'), /* Firefox >= 3.6, any other modern browser */
+         url('icon/icon.ttf') format('truetype'); /* Safari, Android, iOS */
+}
+
+.fi-icon {
+ 	font-family: icon;
+
+ 	font-style: normal;
+ 	font-weight: normal;
+ 	speak: none;
+ 	font-size: 36pt;
+	line-height: 72pt;
+	min-height: 95px;
+	color: #666666;
+
+ 	display: inline-block;
+ 	text-decoration: inherit;
+ 	width: 1em;
+ 	text-align: center;
+
+ 	/* For safety - reset parent styles, that can break glyph codes*/
+ 	font-variant: normal;
+ 	text-transform: none;
+
+ 	/* Font smoothing */
+ 	-webkit-font-smoothing: antialiased;
+ 	-moz-osx-font-smoothing: grayscale;
+}
+
+.fi-space:before {
+   content: "\20";
+}
+.fi-article-two-columns-picture:before {
+   content: "\21";
+}
+.fi-blog {
+  @extend .fi-article-two-columns-picture;
+}
+.fi-shield:before {
+   content: "\22";
+}
+.fi-envelope-open-empty:before {
+   content: "\23";
+}
+.fi-email {
+  @extend .fi-envelope-open-empty;
+}
+.fi-social-04:before {
+   content: "\24";
+}
+.fi-sheet-text:before {
+   content: "\25";
+}
+.fi-envelope-closed-02:before {
+   content: "\26";
+}

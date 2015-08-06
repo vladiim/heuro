@@ -12,6 +12,8 @@ study industrial revolution & understand what happened
 
 global recession: http://www.zerohedge.com/news/2015-07-22/forget-recession-according-caterpillar-there-full-blown-global-depression
 
+macro charts: http://www.zerohedge.com/news/2015-08-05/9-charts-meditate
+
 tighter circles: http://www.zerohedge.com/news/2015-07-31/goldman-warns-global-economy-going-round-smaller-smaller-circles
 
 WTF economy: http://radar.oreilly.stfi.re/2015/07/the-wtf-economy-is-transforming-how-we-do-business.html?sf=bwjon

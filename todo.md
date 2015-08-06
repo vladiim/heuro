@@ -1,5 +1,7 @@
 # To do
 
+* floating hamburger nav to modal: http://www.wpp.com/annualreports/2014/how-were-doing/strategic-report-to-share-owners/
+
 http://www.webpagetest.org/result/150618_XK_45Q/
 
 fail on a bunch of tests!
@@ -15,6 +17,8 @@ fail on a bunch of tests!
 * Tracking
 
     - set up utm source for rss feed
+
+    - stop spam analytics: https://moz.com/blog/stop-ghost-spam-in-google-analytics-with-one-filter
 
     - analytics engine
 

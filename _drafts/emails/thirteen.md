@@ -4,9 +4,23 @@ title:
 categories: email
 ---
 
-is digital advertising a joke? digital advertising is often bundled in, there are increasing allegations that this advertising is [fraudulant][adfraud], fairfax talk about using their content to create new internet businesses (ticketing), ios9 removing ads, buzzfeed's ad model hard to overcome
+### Musings
+
+Is digital advertising a joke? It certainly seems to be the case based on a confluence of conversations currently going on over the interwebs. Apple announced they will [help block ads with iOS 9][adblack9]. There is [rampant fraud across the digital ad industry][fraud2] to the tune of [$75 billion][adfraud]. People are increasingly sick of their web experience sucking [due to heavy ad servers][websucks]. But publishers need to [make money somehow][contentmon] and traditionally that was through advertising. So what's the answer? Will BuzzFeed's evolution of the advertorial be adopted by other publishers? Will publishers use their content to launch or new ad products e.g. Fairfax with Drive, MyCareer and Domain? Will the new golden child, [native social ads][nativedarling], fall pray to the [law of shitty clickthroughs][shiteclick]?
 
 [adfraud]:http://adcontrarian.blogspot.co.il/2013/06/the-75-billion-ad-swindle.html
+
+[googlead]:https://www.google.com/settings/u/0/ads/authenticated
+
+[fraud2]:http://stfi.re/krwnl
+
+[websucks]:http://stfi.re/werpe
+
+[contentmon]:http://stfi.re/dvlol
+
+[shiteclick]:http://stfi.re/adnbo
+
+[nativedarling]:http://stfi.re/krapy
 
 ***
 
@@ -55,3 +69,35 @@ A new research report from the Society of Digital Agencies finds that in the pas
 Has the “digital detox” trend reached a tipping point? It’s a question that those who study digital media (and in particular, social media) are asking in light of what appears to be a growing number of individuals who are abandoning sites like Facebook and Twitter.
 
 [antisocial]:http://stfi.re/ybxnd
+
+***
+
+### [Millions of Facebook users have no idea they’re using the internet][fbint]
+<small>Customer obsessed</small>
+Indonesians surveyed told researchers that they didn’t use the internet. But in focus groups, they would talk enthusiastically about how much time they spent on Facebook.
+
+[fbint]:http://stfi.re/werxk
+
+***
+
+### [Pricing experiments you might not know, but can learn from][price]
+<small>Retail</small>
+It’s clear that the right price can make all the difference – too low and you miss out on profit; too high and you miss out on sales. Tactics listed in the article include decoy pricing, the number 9, anchoring, pay what you wish, pay what you want and perceptions.
+
+[price]:http://stfi.re/gklww
+
+***
+
+### [Why WPP's annual report is a Buffett-esque read][wpprep]
+<small>Trends</small>
+Celebrating 30 years of Sir Martin Sorrell’s leadership WPP's annual report is beautifully designed, charts the company's history, is clear and discusses macro-industry trends.
+
+[wpprep]:http://stfi.re/wekvj
+
+***
+
+### [Xplenty][xplenty]
+<small>Tool of the week</small>
+Data integration service on demand - no coding or deployment required. Save time and money by developing data processes that are scalable, manageable, and accessible to every data and BI person in the organisation.
+
+[xplenty]:https://www.xplenty.com/

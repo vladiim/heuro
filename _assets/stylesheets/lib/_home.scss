@@ -1,0 +1,36 @@
+#home {
+
+  .hero {
+    img {
+      width: 120%;
+      position: absolute;
+      z-index: -1;
+      max-height: 500px;
+      min-height: 350px;
+    }
+
+    header {
+      h1 {
+        text-align: center;
+      }
+
+      h3 {
+        margin-top: -15px;
+        text-align: center;
+      }
+    }
+  }
+
+  .content {
+    margin-top: 5%;
+  }
+}
+.hero_image_title {
+  padding-top: 20px;
+}
+
+// @media (max-width: $screen-sm-min) {
+//   .hero_image_title {
+//     padding: 2px 0;
+//   }
+// }

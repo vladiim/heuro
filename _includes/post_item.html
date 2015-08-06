@@ -1,4 +1,6 @@
-<li class='row'>
-  <small class='col-xs-3'>{{ post.date | date_to_string }} &raquo;</small>
-  <a href="{{ post.url }}" class='col-xs-9'>{{ post.title }}</a>
-</li>
+<a href="{{ post.url }}" class="flex-box">
+  <span class='icon'><i class='fi-icon fi-{{ post.categories[0] }}'></i></span>
+  <h3 class='flex-title'>{{ post.title }}</h3>
+  <small>{{ post.date | date_to_string }}</small>
+  <p>{{ post.description }}</p>
+</a>

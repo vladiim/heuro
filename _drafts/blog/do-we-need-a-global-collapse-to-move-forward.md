@@ -12,6 +12,8 @@ study industrial revolution & understand what happened
 
 global recession: http://www.zerohedge.com/news/2015-07-22/forget-recession-according-caterpillar-there-full-blown-global-depression
 
+sillicon valley's view: http://mic.com/articles/123311/silicon-valley-white-male-privilege-class-war
+
 macro charts: http://www.zerohedge.com/news/2015-08-05/9-charts-meditate
 
 tighter circles: http://www.zerohedge.com/news/2015-07-31/goldman-warns-global-economy-going-round-smaller-smaller-circles

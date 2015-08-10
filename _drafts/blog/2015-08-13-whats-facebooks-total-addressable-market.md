@@ -5,12 +5,6 @@ categories: blog
 description:
 ---
 
-notes:
-
-* https://plot.ly/javascript-graphing-library/
-
-* send to peter dimascus' email
-
 In his ["competition is for losers" lecture][theallec] and book [Zero to One][zeroone] Facebook board member Peter Thiel outlines the importance of monopolies. Thiel's thesis is that competition is bad for business. Monopolies have to be careful not to be seen as such by government bodies so as to avoid scrutiny from government bodies.
 
 In order not to appear as a monopoly, companies describe their business as the union of a set of vastly different markets. By doing so they increase the surface area of their business. By positioning itself as an advertising or technology company Google distracts regulators from the fact that they monopolize the search market.
@@ -132,7 +126,7 @@ There are at least three critical macro trends which Facebook are positioned to 
 
 * Digital advertising viewability
 
-* Failing media experiences
+* Failing publisher experiences
 
 * Online video.
 
@@ -201,11 +195,23 @@ Media providers are showing less ads to an audience who is getting better at avo
 
 ***
 
-## Failing media experiences
+## Failing publisher experiences
 
 {% image fb_tam/imore.png %}
 
 As content providers load an increasing amount of ad serving software on their sites, people's web experiences will suffer. And people are noticing.
+
+After Apple announced ad blocking in iOS 9 mobile developer, Dean Murphy, [began experimenting with ad blocking][imoreblock] of podcasting site iMore. With ads the site took 11 seconds and loaded 38 third party scripts. Without ads the site took two seconds to load and looked far cleaner.
+
+Murphy's post was followed up by a [similar analysis of the Verge's site][vergewebsux] - one page load yielded a 30 second load time for 9.5MB of data across 263 HTTP requests. All for a 75kb article!
+
+The topic reached the zeitgeist when [John Gruber brought attention][fireballcontentblock] to the two articles. In response to Gruber, [Ben Thompson put together a well-rounded argument][bentwebsux] on publisher's need to overly rely on programmatic ad servers to survive.
+
+As the mobile world throws up it's hands in turmoil for the state of content sites, in steps Facebook with its new product offering, [Instant Articles][fbinstant]. The product promises, "a new way for publishers to create fast, interactive articles on Facebook." Instead of linking off to slow publisher sites, Facebook offers to load articles immediately by keeping users within Facebook's environment. In return, Facebook shares the revenue generated from it's ad servers with content creators.
+
+Publishers like the [New York Times and National Geographic partnering][fbparterns] with Facebook for the initial launch of Instant Articles. As these publishers see higher engagement due to a superior user experience expect to see competing publishers will sure to scramble to offer their readers the same in a mad rush to retain readership. The Guardian is even planning on running ads promoting its paid content within Instant Articles.
+
+{% image fb_tam/instant-articles-ad.png %}
 
 [imoreblock]:http://stfi.re/bnxyk
 
@@ -215,11 +221,42 @@ As content providers load an increasing amount of ad serving software on their s
 
 [bentwebsux]:http://stfi.re/nwyjz
 
+[fbinstant]:http://stfi.re/prgnd
+
+[fbcontent]:http://stfi.re/jneww
+
+[fbparterns]:http://stfi.re/wkxwk
+
 ***
 
 ## Online video
 
+<<<<<<<add plot>>>>>
 
+There's a reason TV ads have dominated the marketer's budget for the better part of the last century. A TV ad enables marketers to tell an engaging brand story whilst reaching a mass audience. Yet TV advertising effectiveness has inherently been hard to measure and targeting only happens by alining with specific content or time frame.
+
+Facebook's certainly got skin in the online video game. Their year-old native video platform was serving [four billion views a day as of April 2015][forbesvidviews]. That's 35 times more views than the 2015 Super Bowl, the [largest recorded TV audience][superbowl] to date. Now, the Super Bowl captivates audiences for over three hours, while Facebook counts a view after an [autoplayed video goes for over three seconds][fbviewcount]. Even so, there's no denying that Facebook's reach and ability to target gives marketers a powerful new medium to rival TV.
+
+Given Facebook's videos autoplay and are silent by default, Facebook is now impacting the way ad agencies produce their ads by [optimising and having fun with the fact the ad is silent content][silentads].
+
+<blockquote>
+  <p>
+    Charlie Chaplin may be the future of advertising.
+  <p>
+  <footer>
+    AdAge [Are silent movies the future of advertising?][adagesilent]
+  </footer>
+</blockquote>
+
+[forbesvidviews]:http://stfi.re/vaxkl
+
+[silentads]:http://stfi.re/bnpex
+
+[adagesilent]:http://stfi.re/gngpo
+
+[superbowl]:http://stfi.re/anpop
+
+[fbviewcount]:http://stfi.re/xynjk
 
 ***
 

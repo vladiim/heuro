@@ -34,6 +34,8 @@ fail on a bunch of tests!
 
 * Marketing
 
+    - write an ebook for emails, copy groovehq: "get 60+ insanely valuable lessons on growing a business"
+
     - homepage design:
 
         - https://mattermark.com/

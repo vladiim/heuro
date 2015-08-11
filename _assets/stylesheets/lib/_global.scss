@@ -8,6 +8,11 @@ img {
   width: 100%;
 }
 
+.post > .small-image > img {
+  width: $small-image-width;
+  margin-left: 20px;
+}
+
 .site {
   h1, h2, h3, h4, h5, h6, p, section {
     margin: 0 0 10px 20px;
@@ -32,12 +37,23 @@ ul {
   }
 }
 
+ol {
+  list-style-type: decimal;
+  ol {
+    list-style-type: lower-alpha;
+  }
+}
+
 ol.breadcrumb {
   margin: 0;
 }
 
 section.meta {
   margin-top: -15px;
+  p {
+    margin: 0;
+    color: $gray;
+  }
 }
 
 section.hero {

@@ -119,3 +119,16 @@ $breadcrumb-bg:                 $secondary-normal !default;
 $breadcrumb-color:              $secondary-dark !default;
 $breadcrumb-active-color:       $gray-light !default;
 $breadcrumb-separator:          "/" !default;
+
+//
+// Blockquote
+// --------------------------------------------------
+$blockquote-font-size:    ($font-size-base * 1.25);
+$blockquote-border-color: $gray-lighter;
+$blockquote-color:        $secondary-dark;
+$blockquote-small-color:  $gray-light;
+
+//
+// Blockquote
+// --------------------------------------------------
+$small-image-width: 500px;

@@ -334,7 +334,7 @@ Notes on the graph comparing social networks:
 
 * VK's value calculation came from [Mail.ru's 48% purchase at $1.47 billion][vkbuy] when they had 92 million monthly active users.
 
-[data]:www.heuro.net/data/social.csv
+[data]:http://www.heuro.net/data/social.csv
 
 [siteusersource]:http://stfi.re/jnanx
 

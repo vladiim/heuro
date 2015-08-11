@@ -1,5 +1,5 @@
-<nav rol='navigation'>
-  <div>
+<nav role='navigation'>
+  <div class='standard'>
     <ul>
       <li class='left'>
         <strong><a href='/'>HEURO</a></strong>
@@ -18,4 +18,9 @@
       </li>
     </ul>
   </div>
+
+  <section class='email hidden'>
+    <p>Top-shelf marketing insights delivered every Monday</p>
+    {% include mailchimp_form.html %}
+  </section>
 </nav>

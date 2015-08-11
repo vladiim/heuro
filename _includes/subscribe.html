@@ -1,20 +1,7 @@
 <div id='mc_embed_signup' class="newsletter-hero">
   <p>Every week I find and break down trends and practices in modern marketing so you don't have to. Sign up to the weekly email to stay ahead.</p>
-  <form action="//heuro.us10.list-manage.com/subscribe/post?u=8c77261cb52314222e4c942ac&amp;id=9f4a40b46e" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate form" novalidate>
 
-    <div class='input-group'>
-      <!-- <input  type='email' name='EMAIL' class='required email form-control' id='mce-EMAIL' placeholder='Enter your email' data-validate='required,email'> -->
-      <input type="email" name="EMAIL" class="required email form-control" id="mce-EMAIL" placeholder='Enter your email'>
-        <span class="input-group-btn">
-          <!-- <input type="submit" value="Subscribe now" name="subscribe" id="mc-embedded-subscribe" class="button btn btn-default subscribe-now-btn"> -->
-          <input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button btn btn-default subscribe-now-btn">
-        </span>
-    </div>
+    {% include mailchimp_form.html %}
 
-    <div id="mce-responses" class="clear">
-      <div class="response" id="mce-error-response" style="display:none"></div>
-      <div class="response" id="mce-success-response" style="display:none"></div>
-    </div>
-  </form>
   <small><i>No spam - unsubscribe at any time</i></small>
 </div>

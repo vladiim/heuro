@@ -1,8 +1,57 @@
 nav {
-  padding: 10px;
+  height: 50px;
   display: block;
   overflow: hidden;
   background: $secondary-dark;
+  position: fixed;
+  width: 100%;
+
+  .standard {
+    padding-right: 20px;
+  }
+
+  .email {
+    margin-top: -20px;
+    text-align: center;
+
+    p {
+      display: inline-block;
+    }
+
+    form {
+      display: inline-block;
+    }
+
+    input {
+      height: 30px;
+      display: inline-block;
+
+      &.email {
+        width: 140px;
+      }
+
+      &.button {
+        padding: 0 1em;
+        margin-top: -4px;
+      }
+    }
+  }
+
+  .standard, .email {
+    @include transition(all 0.4s ease-in-out);
+    padding: 10px;
+  }
+
+  .email.hidden {
+    margin-top: -80px;
+  }
+
+  .standard.hidden {
+    margin-left: -1000px;
+    li.right {
+      margin-right: -100px;
+    }
+  }
 
   a {
     color: $white;

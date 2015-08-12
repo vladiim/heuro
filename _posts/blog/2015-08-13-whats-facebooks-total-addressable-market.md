@@ -227,7 +227,20 @@ After Apple announced ad blocking in iOS 9, mobile developer Dean Murphy [began 
 
 Murphy's post was followed up by a [similar analysis of the Verge's site][vergewebsux] - one page load yielded a 30 second load time for 9.5MB of data across 263 HTTP requests. All for a 75kb article!
 
-The topic reached the zeitgeist when [John Gruber brought attention][fireballcontentblock] to the two articles. In response to Gruber, [Ben Thompson put together a well-rounded argument][bentwebsux] on publisher's need to overly rely on programmatic ad servers to survive.
+The topic reached the zeitgeist when [John Gruber brought attention][fireballcontentblock] to the two articles. In response to Gruber, [Ben Thompson put together a well-rounded argument][bentwebsux] on publisher's need to overly rely on programmatic ad servers to survive. It comes down to the simple fact that there's a gap in the user experience and someone's going to fill it.
+
+<blockquote>
+  <p>
+    People often argue that running ad-blocking software is violating an implied contract between the reader and the publisher: the publisher offers the page content to the reader for free, in exchange for the reader seeing the publisher’s ads. And that’s a nice, simple theory, but it’s a blurry line in reality.
+  <p>
+  <footer>
+    Marco Arment
+  </footer>
+</blockquote>
+
+[Quote reference][marcoads].
+
+[marcoads]:http://stfi.re/aeoog
 
 As the mobile world throws up it's hands in turmoil for the state of content sites, in steps Facebook with its new product offering, [Instant Articles][fbinstant]. The product promises, "a new way for publishers to create fast, interactive articles on Facebook." Instead of linking off to slow publisher sites, Facebook offers to load articles immediately by keeping users within Facebook's environment. In return, Facebook shares the revenue generated from it's ad servers with content creators.
 

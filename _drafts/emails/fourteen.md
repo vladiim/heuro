@@ -1,6 +1,6 @@
 ---
 layout: post
-title:
+title: Startups revolutionising marketing, fast cheap viral & scale's competitive advantage
 categories: email
 ---
 
@@ -77,5 +77,13 @@ In some industries, scale is a distinct advantage and a clear competitive advant
 Vine serves more than 100 million people across the web every month, according to the company, delivering more than 1.5 billion “loops”—its term for video views—per day. It is a top-100 free iPhone app in 13 countries, according to App Annie, a service that tracks app stores, and is currently ahead of Tinder and Shazam in the US rankings.
 
 [vine]:http://stfi.re/ywlyz
+
+***
+
+### [10. autopilot]:
+<small>Tool of the week</small>
+Autopilot is easy-to-use marketing automation that works for email, SMS and direct mail. It allows you to visually integrate these services to automate the omnichannel customer journey.
+
+[autop]:http://stfi.re/gypre
 
 ***

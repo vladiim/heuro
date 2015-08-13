@@ -38,3 +38,5 @@ This is a three-part challenge: How to model an article based on its text. How t
 Years before he would become famous, Casey Neistat was a 16-year-old high-school dropout with a pregnant girlfriend and no real career aspirations. Today, at 34, he’s a YouTube sensation who’s helping to reinvent the way advertising is done on the Internet.
 
 [hatead]:http://stfi.re/gyogv
+
+***

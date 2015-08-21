@@ -9,6 +9,7 @@ $pumpkin:          #d35400; // dark orange
 $pomegranate:      #c0392b; // dark orange
 $gray-light:       #aaa;
 $white:            #ffffff;
+$bright-blue:      #477dca;
 $primary-dark:     $night-shade;
 $primary-normal:   $belize-hole;
 $secondary-dark:   $pomegranate;
@@ -20,6 +21,7 @@ $gray-dark:        lighten($gray-base, 20%) !default;   // #333
 $gray:             lighten($gray-base, 33.5%) !default; // #555
 $gray-light:       lighten($gray-base, 46.7%) !default; // #777
 $gray-lighter:     lighten($gray-base, 93.5%) !default; // #eee
+$button:           $bright-blue;
 $success:          #5cb85c !default;
 $info:             #5bc0de !default;
 $warning:          #f0ad4e !default;
@@ -98,7 +100,7 @@ $screen-phone:               $screen-xs-min !default;
 // Small screen / tablet
 $screen-sm:                  768px !default;
 $screen-sm-min:              $screen-sm !default;
-$screen-tablet:              $screen-sm-min !default;
+$screen-tablet:              650px !default; // 580
 
 // Medium screen / desktop
 $screen-md:                  992px !default;

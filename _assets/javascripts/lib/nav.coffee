@@ -1,8 +1,10 @@
-$(document).ready ->
-  $(window).scroll ->
-    if $(@).scrollTop() > 10
-      $('nav > .standard').addClass('hidden')
-      $('nav > .email').removeClass('hidden')
-    else
-      $('nav > .standard').removeClass('hidden')
-      $('nav > .email').addClass('hidden')
+$(window).scroll ->
+  EMAIL    = 'email'
+  STANDARD = 'standard'
+  $NAV     = $('nav')
+  if $(@).scrollTop() > 1
+    $NAV.addClass(EMAIL)
+    $NAV.removeClass(STANDARD)
+  else
+    $NAV.addClass(STANDARD)
+    $NAV.removeClass(EMAIL)

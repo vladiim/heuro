@@ -38,6 +38,8 @@ who owns a company: http://www.bankofengland.co.uk/publications/Documents/speech
 
 value of an employee at top startup: http://www.zerohedge.com/news/2015-08-04/new-economy-these-10-startups-are-valued-156-billion-4-billion-revenue
 
+millenials: https://www.reddit.com/r/investing/comments/3hfvqs/investing_in_a_millennial_economy_what_spending/
+
 https://stratechery.com/2015/aggregation-theory/?utm_source=feedly&utm_medium=webfeeds
 
 The last several articles on Stratechery have formed an unintentional series:

@@ -6,7 +6,7 @@ categories: email
 
 ### Attention or retention?
 
-I was lucky enough to attend [Marketo's conference][marketo] last week. I was happy to see a theme reiterated by the most engaging speaks - that marketing is becoming a revenue centre rather than a cost centre. The marketing to sales food chain has collapsed. The funnel is randomising across an omnichannel environment. We are in a customer-led economy. This all ladders up to one thing, marketing have an increasingly important place in business.
+I attended [Marketo's conference][marketo] last week. I was happy to see a theme reiterated by the most engaging speaks - that marketing is becoming a revenue centre rather than a cost centre. The marketing to sales food chain has collapsed. The funnel is randomising across an omnichannel environment. We are in a customer-led economy. This all ladders up to one thing, marketing have an increasingly important place in business.
 
 The shift won't just happen. It will take marketers who are willing to move from focusing on consumer attention to customer retention. These marketers will need to drive change in organisations that don't want to change.
 
@@ -42,3 +42,21 @@ _<strong>Trends</strong>_
 An interesting set of numbers from the latest Pew survey on cellphone overuse in social settings.
 
 [mobileet]:http://www.pewinternet.stfi.re/2015/08/26/americans-views-on-mobile-etiquette/?sf=obyrv
+
+***
+
+### 5. [Ad and multiply: OTT and multiscreen advertising][ottad]
+_<strong>Channel</strong>_
+
+Broadcasters and pay TV operators are increasingly looking to the web for models about how to make additional revenues from advertising. But TV is different in many ways and progress is likely to be patchy.
+
+[ottad]:http://www.digitaltveurope.stfi.re/414421/ad-and-multiply-ott-and-multiscreen-advertising
+
+***
+
+### 6. [BuzzFeed just became a content marketing tech company][buzzf]
+_<strong>Content</strong>_
+
+BuzzFeed signed a partnership deal with GroupM to license out a combination of proprietary software and creative services. Rob Norman, chief digital officer at GroupM, told AdAge that the company expects “50 percent year-on-year growth” as a result of the partnership.
+
+[buzzf]:http://contently.stfi.re/strategist/2015/08/28/buzzfeed-just-became-a-content-marketing-tech-company/?sf=ezdvgz

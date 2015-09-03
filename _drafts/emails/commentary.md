@@ -1,3 +1,8 @@
+spotify is a good e.g. of the future of branding, much of its success came thru erly social int with facebook, now privacy policy killed the brand bc ok competitor (app  beats)
+
+the need of the CMTO, IT is risk adverse, marketing / CMTO needs to be opportunistic: http://www.asymco.com/2015/08/31/fluid-coupling/
+A company takes longer to decide to purchase a device than the device’s shelf life. As a result, paradoxically, an enterprise technology must be sufficiently slow and expensive to be adopted. The problem is that enterprises have a capital use and allocation model which is obsolete.
+
 omnichannel marketing - what needs to happen for it to work? http://www.cmo.com/articles/2015/7/28/a-visa-marketing-svp-answers-4-questions-for-marketing-innovators-.html
 
 There's a *lot* of television to watch, but netflix is killing it - quality writing wins http://atlas.qz.com/charts/EJ4N8xR5, buzzfeed: http://www.latimes.com/business/la-fi-buzzfeed-studios-20150809-story.html, music is becoming marketing for concert sales

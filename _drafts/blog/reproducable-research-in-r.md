@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Research driven development - reproducible research in R
+title: Reproducible research in R - analysis driven development
 categories: blog
 description:
 ---
@@ -285,7 +285,7 @@ Our first argument is our generated report, we give `-o` or, output, the output 
 
 ***
 
-# Research driven development
+# Analysis driven development
 
 Know you know the workflow, we can discuss an idea we use called "Research Driven Development" or RDD. As with the Rails example given at the begin of this article, we steal a concept from software development, "Test Driven Development" or TDD and repurpose it for our data analysis needs.
 

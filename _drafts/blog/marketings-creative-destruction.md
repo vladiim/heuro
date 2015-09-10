@@ -15,3 +15,5 @@ spotify's privacy policy is an act of marketing, they're fragile b/c they don't 
 [netflixstudio]:http://finance.yahoo.com/news/netflix-signs-lease-hudson-pacific-190300417.html
 
 http://newsonomics.com/what-the-next-recession-could-do-to-the-media-business
+
+http://www.theawl.com/2015/08/the-main-event

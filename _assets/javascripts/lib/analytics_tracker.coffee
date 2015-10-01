@@ -24,11 +24,11 @@ findAndSetId = ->
 trackPage = ->
   contentCategory = contentCategory()
   analytics.page()
-  analytics.track('Pageview', {
-    userId: findId(),
-    category: contentCategory,
-    contentCategory: contentCategory
-  })
+  # analytics.track('Pageview', {
+  #   userId: findId(),
+  #   category: contentCategory,
+  #   contentCategory: contentCategory
+  # })
 
 subscriptionListener = ->
   $('.subscribe-now-btn').on 'click', (event) ->

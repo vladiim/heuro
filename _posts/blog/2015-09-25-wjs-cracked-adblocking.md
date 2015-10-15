@@ -9,7 +9,7 @@ description: An analysis of the WSJ's innovative answer to adblocking
 
 Adblocking is a cat-and-mouse game. Adtech figures out how to trick adblockers, adblockers figure out how to overcome the tricks. Rinse, repeat.
 
-Rather than play into this expensive game, the Wall St Journal and Netflix took a different approach to advertise Netflix's new series Narcos. They created a [custom piece of content, "Cocaineconomics,"][cocaineconomics] that people would read, watch interact with and share.
+Rather than play into this expensive game, the Wall St Journal and Netflix took a different approach to advertise Netflix's new series Narcos. They created a [custom piece of content, "Cocainenomics,"][cocaineconomics] that people would read, watch interact with and share.
 
 History has taught us that content producers tend to apply old content models to new mediums until they figure out how to optimally work with the new medium. When TV first came out, radio presenters would simply sit in front of the camera and read out their radio script. The majority of online advertising is still very much a replication of older content models in a new medium, the WSJ's new ad for Netflix may point to the next evolution.
 
@@ -83,7 +83,7 @@ Advertorial teams have been around as long as publishing. As traditional publish
 
 Forward-thinking media agencies have cottoned on. Recently, the world's largest ad network, [WPP announced it would pair up with Buzzfeed][wppbuzz]. WPP's fortune 500 clients, Buzzfeed's content production. A match made in heaven.
 
-We have to give the WSJ praise in creating a bespoke unit that leverages the core editorial strength of the business to service brands in a unique way. It points to a future business model for publishers where they retain more control, provide better marketing results and entertain readers at the same time. A tripple win.
+We have to give the WSJ praise in creating a bespoke unit that leverages the core editorial strength of the business to service brands in a unique way. It points to a future business model for publishers where they retain more control, provide better marketing results and entertain readers at the same time. A triple win.
 
 [wppbuzz]:http://www.adweek.com/news/advertising-branding/here-are-perks-buzzfeed-and-wpp-will-get-partnering-each-other-166586
 

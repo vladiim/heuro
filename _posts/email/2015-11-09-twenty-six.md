@@ -8,17 +8,17 @@ categories: email
 
 [Our brain is primed to reach false conclusions][brain]. Psychologists have a name for the cognitive bias that makes us prone to assigning a causal relationship to two events simply because they happened one after the other: the “illusion of causality.”
 
-Case in point - in a [ground-breaking piece of research][panty], Nisbett and Wilson asked women to choose the most one of four pantyhose. When asked why they made their decision they gave all manner of reasons strength, elasticity etc. The issue is all four pairs were identical.
+Case in point - in a [ground-breaking piece of research][panty], Nisbett and Wilson showed women four pantyhose and asked them to choose the best. When asked why they made their decision they gave all manner of reasons strength, elasticity etc. The thing is... all four pairs were identical.
 
-Marketers will often use qualitative research to help us understand the causal mechanisms behind consumer behavior. Why did they buy one product over the other? What elements influenced their descision? The issue is, much of this research is based on the customer's illusion of causality. Very few, if any humans truly understand their decision-making process so the research is fundamentally wrong.
+We often use qualitative research to help us understand the causal mechanisms behind consumer behavior. However, much of this research is based on the customer's illusion of causality. Very few, if any of us truly understand our decision-making process so much qual research misses the point.
 
-So what are we to do? We need to...
+To avoid inherent biases in qual we need to...
 
 * Acknowledge that research that asks people to describe their descision-making is fundamentally flawed
 
-* Rely far more heavily on in-market research such as multivariate tests to guide our insights
+* Rely far more heavily on in-market research such as multivariate tests to guide our customer understanding
 
-* Investigate alternative qualitative methodologies such as [Jobs To Be Done][jtbd] to uncover behavior motivations and triggers.
+* Investigate alternative qualitative methodologies such as the [Jobs To Be Done][jtbd] methodology to uncover behavior motivations and triggers.
 
 [jtbd]:http://jobstobedone.org/
 

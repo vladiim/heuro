@@ -1,3 +1,17 @@
+apps aint what they used to be
+
+news apps
+
+top x games app take x% of rev: [techmedia]
+
+https://medium.com/swlh/mobile-app-developers-are-suffering-a5636c57d576
+
+http://www.cnbc.com/2015/11/09/forrester-mobile-predictions-for-2016.html
+
+[techmedia]:http://www.slideshare.net/ActivateInc/activate-tech-and-media-outlook-2016
+
+***
+
 spotify is a good e.g. of the future of branding, much of its success came thru erly social int with facebook, now privacy policy killed the brand bc ok competitor (app  beats)
 
 the need of the CMTO, IT is risk adverse, marketing / CMTO needs to be opportunistic: http://www.asymco.com/2015/08/31/fluid-coupling/

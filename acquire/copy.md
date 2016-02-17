@@ -184,16 +184,19 @@ With the tests and expectations modelled, we move on producing the initial campa
 
 * **Build** producing the landing page and performance media ads
 
+## Reporting
+
+* CAC, etc etc
+
 ## Three month trial
 
 The first three months is used as a trial for the campaign. It enables us to firm up our modeled expectations with real results rather than assumptions. Weekly reporting and optimisation Work In Progress (WIP) meetings get you into the groove of agile marketing.
 
 At the end of the three month period we present the emergent strategy. The strategy outlines key acquisition recommendations based on the insights derrived over three months of customer acquisition.
 
-## Maintainance
+## Optimisation
 
 Three months is rarly enough time to tune an acquisition campaign. To get the most out of your investment its critical to optimise channels, keywords, customer segments, messaging and the combination of the above. As your customer acquisition funnel becomes increasingly sophisticated your aim should be to deliver a optimal, personalised experience for different customer segments based on sum of your understanding on what converts the best.
-
 
 ***
 
